@@ -1,0 +1,16 @@
+{
+"Allergy": {"id":"67e02cc6-5099-473d-b185-3cd357af3e6f","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"401","src":"SR5"},
+"Dietary Requirement": {"id":"f4de6eca-de5c-436b-955d-b322a9ce1a08","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"401","src":"SR5"},
+"Essence Loss": {"id":"f4865138-c3f0-46e8-8010-6003b1491b96","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"401","src":"SR5"},
+"Reduced Senses": {"id":"e44f268f-de46-4a03-93e8-69570dd7a2eb","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"401","src":"SR5"},
+"Uneducated": {"id":"a38a6e6e-c8be-477b-91a9-f285ec1941fa","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"401","src":"SR5"},
+"Vulnerability": {"id":"cc5d600e-c1fd-47d2-affd-38a939cc21ab","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"401","src":"SR5"},
+"Induced Dormancy": {"id":"2c0e624f-b1e7-4519-ab11-509406e53b19","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"401","src":"SR5"},
+"Evanescence": {"id":"95dcc093-88b8-4182-b62a-575428b84c84","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"101","src":"SG"},
+"Fragile": {"id":"031c2ae5-80d4-4cda-a2ce-65525970f281","cat":"Weakness","type":"P","act":"Auto","rng":"Self","dur":"Always","pg":"192","src":"HS"},
+"Extra Fragile": {"id":"9c80e4ad-5999-4795-a890-0d6a1e5b542e","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"191","src":"HS"},
+"Critter Cyberpsychosis": {"id":"f5515a8b-4c5e-4917-881a-363777ba03e9","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"186","src":"HS"},
+"CI3D (Critter Implant Induced Immune Deficiency)": {"id":"bfa9a7ec-f184-44cb-8599-96c5c7787595","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"186","src":"HS"},
+"CTLE-X (Critter Temporal Lobe Epilepsy)": {"id":"03c9acab-d172-4633-8dbf-23ec3b7faf7e","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"186","src":"HS"},
+"Precarious Physiology": {"id":"f1a36576-1664-413b-a65f-e3b6115c266e","cat":"Weakness","type":"","act":"","rng":"","dur":"","pg":"186","src":"HS"}
+}

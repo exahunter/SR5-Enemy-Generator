@@ -1,0 +1,51 @@
+2020|Attack
+2021|Damage
+2022|AP
+2023|RC
+2024|Acc.
+2025|Mode
+2026|Sustained
+2027|Permanent
+2028|Stun damage
+2029|LOS
+2030|Touch
+2031| — Rolls 
+2032| <span class="note">(includes 
+2033| · Drain 
+2034|Self
+2035|Device
+2036| in VR
+2037|Programs
+2038|drain
+2039|dice
+2040| <span class="note">(roll = Spellcasting 
+2041|Import
+2042|Undo: 
+2043|Favorite
+2044|Confirm reroll of favorite?
+2045|Reroll all
+2046|Unlock all
+2047|Lock all
+2048|Decrease
+2049|Increase
+2050|Drugs
+2051|Contacts
+2052|Martial art
+2053|Skills
+2054|Spells
+2055|Complex forms
+2056|Sprites
+2057|Submersion
+2058|Initiation
+2059|Echoes
+2060|Vehicles
+2061|Languages
+2062|Essence
+2063|saved in this browser
+2064|Print
+2065|Attributes
+2066|Conduct
+2067|the martial art
+2068| · drain 
+2069|Registered sprites
+2070|the driver ensures the getaway

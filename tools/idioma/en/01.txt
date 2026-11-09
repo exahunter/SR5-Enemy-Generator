@@ -1,0 +1,194 @@
+0|Close-range fighter: {closes the distance without hesitating|charges the nearest enemy|sticks to the target and gives no room} and settles it in melee
+1|Long-range fighter: {keeps the maximum distance|uses every bit of the weapon's range|picks the farthest spot with a clear line of sight} and never lets the enemy get close
+2|Mixed range: opens from afar and closes in {when the target hesitates|after wounding the first enemy|when the enemies reload|as soon as the opposing group splits up}
+3|Ambusher: {waits motionless and silent|hides along the enemies' expected path|sets up a position before the opposing team arrives|prepares the site ahead of time}
+4|Short-range ambusher: {leaps out of a doorway|appears from behind a corner|drops from above|comes out of a parked vehicle} and strikes before the enemy can react
+5|Two-step ambush: {lets the vanguard pass|ignores the first one to show up|lets the enemy scout go on by} and hits the main group from behind
+6|Bait and trap: {pretends to flee|leaves a false trail|makes noise on purpose} to draw the enemies to where they are waiting
+7|Hit and vanish: {strikes by surprise and changes position|takes an enemy down in seconds and disappears|hits once and vanishes into the dark}
+8|Duel: {picks a single enemy|challenges the best shooter|looks for the opposing leader} and ignores everyone else until the end
+9|War of attrition: {fires slowly and saves ammo|applies pressure without exposing himself|wears the enemies down with scattered shots} waiting for them to miss
+10|Short, violent assault: {spends everything in the first seconds|opens with long bursts|tries to end the fight in two rounds}
+11|Constant pressure: {never lets the enemies breathe|fires nonstop to keep them down|uses continuous suppressive fire} while the allies move
+12|Reactive only: {waits to be attacked|lets the enemy start it|stays on guard until the first shot} and only then answers with everything
+13|Doesn't kill: {aims at legs and arms|uses non-lethal ammo|uses shock ammo|just tries to disarm} and only kills if there is no other way
+14|Never kills: {takes enemies down with blows and shock|uses only stun weapons|uses gas and non-lethal ammo} and carries cuffs for whoever goes down
+15|Dirty fighting: {sand in the eyes, low kicks and point-blank shots|low blows and rifle-butt strikes|any trick that shortens the fight}
+16|Technical fighting: {makes every attack count|fires in short bursts|picks the right moment for each blow} and wastes no actions
+17|Hunter: {follows the target from a distance|tracks by sound and smell|chases the wounded enemy until he catches up} instead of waiting for it to come
+18|Siege: {seals the exits|cuts off the enemy retreat|takes the doors and windows} before he starts shooting
+19|Corridor fighting: {uses the door as a chokepoint|fires only where the enemy has to pass|traps the enemies in a narrow passage}
+20|Interdiction fire: {shoots at the exit|shuts the escape route with gunfire|aims where the enemy will pass, not where it is}
+21|Silent up close: {uses a knife, brass knuckles or martial arts|strangles from behind|uses a suppressed weapon at close range} so as not to alert the rest
+22|Loud on purpose: {fires into the air before entering|yells to scare|uses bangs and sound grenades} to throw the enemy into disorder
+23|Defensive fighting: {stays near the exit|never strays from the escape route|always keeps a door behind him} and fights only as far as it is safe; with no escape route, {fights more aggressively than usual|clings to the best cover}; with a wounded ally, {protects the wounded ally only if it keeps the exit in sight|leaves the wounded ally behind}; with an important ally still fighting, {stays near the exit and covers him|delays leaving while he is still standing}
+24|Suicidal fighting: {ignores his own safety|won't retreat a single step|fires as if he were already dead} and tries to drag as many enemies down as possible
+25|Feint: {throws the first noisy blow|distracts from one side|fakes a retreat} and strikes for real from the other
+26|Pursuer: {runs after whoever retreats|lets no one leave the fight|attacks first whoever tries to flee}
+27|Master of patience: {counts the enemy's shots|waits for their reload|studies the movement pattern} and only then attacks
+28|Circling fight: {orbits the target|circles around the enemy group|always changes sides} without letting them hit him
+29|Fighting in rounds: {hits hard and falls back|alternates strike and defense|attacks once and returns to guard}
+30|Opportunity attack: {waits for the enemy to reload|waits for the enemy to move|waits for a stumble} and only then charges
+31|Focus on the objective: {quickly takes down only what he must|completes the task and withdraws|doesn't seek victory, only the result}
+32|Area control: {holds the center of the place|dominates the chokepoint|stays where everyone has to pass} and forces the enemies to move
+33|Prefers single shots: {one shot, one target|fires paced and precise|doesn't waste bursts on a weak target}
+34|Runs toward the enemies {firing during the advance|shouting and shooting|without stopping even to reload|using the allies as mobile cover}
+35|Shoots while walking backward, {keeping the enemies away|retreating a step with every shot|always at the edge of their range|pulling them to where the allies are waiting}
+36|Advances from cover to cover, {without exposing his whole body|only when an ally covers|measuring every leap|keeping an eye on the flank}
+37|Holds the position and {lets the enemies come|forces the enemies to cross open ground|takes the highest point}
+38|Flanks: {goes around the side|passes through the building|uses the sewer or the service stairs|climbs to the floor above} and enters where they don't expect
+39|Crawls or crouches the whole time, {keeping the body low|using brush, rubble and cars|passing beneath the line of sight}
+40|Changes position after every shot: {never fires twice from the same place|always switches cover|moves in a zigzag}
+41|Falls back in order, {making the enemies enter bad terrain|pulling them into the corridor|covering every step with fire}, and fights where he chose
+42|Advances alongside an ally, {covered by him|passing behind him|alternating fire and movement with him}
+43|Takes the high ground {(rooftop, walkway or upper window)|(stairs or mezzanine)|(vehicle or container)} and shoots from there
+44|Looks for the darkest spot: {turns off the lights and shoots from the shadow|uses the dark to get close|avoids the lit places}
+45|Uses the vehicle to move: {drives the car in through the door|blocks the street and fights from behind it|moves the car to close the enemies' angle}
+46|Rotation: advances and falls back in waves {to tire the enemy's aim|to test the reactions|to confuse anyone trying to count the shooters}
+47|Attacks in short dashes, {leaving from behind an obstacle and returning to it|from one cover to the next|in sprints of a few meters}
+48|Blends into the environment: {walks among civilians|uses the crowd|passes as an employee or customer} to get close without being noticed
+49|Stationary fighting: {doesn't leave where he is|plants his feet on the ground|stays in a fixed firing position}, trusting his aim and armor
+50|Enters through the side nobody watches: {back window|emergency exit|ventilation duct|garage}
+51|Goes straight for the opposing leader: {fights his way through|ignores the goons|crosses the front line} until he reaches him
+52|Copies the enemy's movement: {mirrors their steps|cuts the angle of anyone trying to flank|closes every gap that opens}
+53|Short hops between doors and corners, {checking the corridor before crossing|throwing an object to see who reacts|with an ally providing cover}
+54|Always moves toward the noise: {drawn by the fighting|investigating gunshots|to help whoever is fighting}
+55|Goes high: {over rooftops and fire escapes|along the beams|over balconies and verandas} to keep the enemy always below
+56|Stays with the group: {never strays more than three meters|always moves in formation|keeps eye contact with everyone}
+57|Maps the escape route before fighting: {counts the exits|remembers the floor plan|leaves the car running}; with no escape route, {redoes the plan and looks for another exit|goes into controlled panic and clings to cover}; with a wounded ally, {takes the wounded ally along the mapped route|leads the wounded ally to the exit}; with an important ally still fighting, {holds the exit open for him|only uses the route after he is safe}
+58|Storms in yelling: {knocks the door down and enters shooting|kicks the door open and advances|bursts into the open hall to draw attention}
+59|Follows the wounded enemy: {walks behind him|cuts off his escape|follows the blood trail} until the job is done
+60|Swaps sides with the ally every round: {one shoots, the other advances|one covers, the other runs|they alternate positions}
+61|Advances through the chaos: {uses smoke, dust and noise|takes advantage of others' gunfire|uses the civilians' panic} to get close
+62|Keeps the rear clear: {lets no one get behind him|always looks back|positions himself with his back to the wall}
+63|Patrols the place: {room by room|floor by floor|corner by corner} so as not to be surrounded
+64|Circles the whole building: {through the back street|through the parking lot|through the alley} and enters behind the enemies
+65|Advances crouched behind the strongest ally: {as if he were a wall|two steps behind him|glued to his back}
+66|Runs in a zigzag: {from one column to the next|from car to car|from door to door} so as not to be an easy target
+67|Falls back to the corridor: {where only one fits|where the enemies line up single file|where the light doesn't reach}
+68|Advances only when the enemy reloads: {counts the shots|waits for the pause|takes advantage of the click}
+69|Plants his feet in the middle of the place and turns: {with the weapon sweeping everything|leaving no blind spot|always facing the danger}
+70|Crosses the place in one go: {running to the opposite door|crossing the hall|jumping through windows} and fights from there
+71|Moves behind the vehicles: {from car to car|from truck to truck|from container to container}
+72|Goes up and down stairs nonstop: {changes floors every round|uses stairs and elevators|shoots from the landing}
+73|Advances in silence: {light steps|one room at a time|waiting for noise to cover him}
+74|Hides and shoots from hiding: {appears only to shoot and goes back|puts only the weapon out|fires once and ducks|looks, aims and takes cover}
+75|Shoots standing and without cover, {trusting his armor|trusting his speed|unafraid of whatever comes}
+76|Uses the terrain: {knocks over tables|turns off the lights|closes doors|pulls over shelves} to cut the line of fire
+77|Light cover first: {table, crate or counter|car or trash can|thin pillar or vase}, and only then looks for harder shelter
+78|Uses only hard cover: {concrete or a pillar|the side of a vehicle|a brick wall|an engine block}, even when it limits his angle
+79|Creates smoke and dust: {smoke grenade|fire extinguisher|steam let out of a pipe} to blind the shooters
+80|Protects himself with a shield: {ballistic|improvised from a door|from a patrol car} and advances behind it
+81|Always stays one step from cover: {never strays from a shelter|calculates the distance|uses the cover as a base}
+82|Drops to the ground {at the first shot|when he hears a bang|when he sees a barrel pointed at him} and crawls to cover
+83|Changes cover every round: {never stays in the same shelter|runs between two points|switches sides}
+84|Uses darkness as cover: {stays in deep shadow|turns off lamps|uses smoke and dark}
+85|Reflexes and dodging: {dodges and rolls|leaps aside|cuts the angle}
+86|Magic barrier: {raises a barrier|uses a mana shield|seals the place with a field} between himself and the enemies
+87|Electronic interference: {scrambles the smartlinked sights|disrupts the sensors|blinds the cameras} before exposing himself
+88|Always with his back to a wall, a corner or a column, eyes on the entrance
+89|Cover across floors: {shoots from the parapet and ducks|changes floors after each exchange of fire|uses the upper floor}
+90|Traps: {wire and grenade at the door|proximity mine|alarm at the entrance|glue on the floor} before the fight begins
+91|Closes doors and passages: {locks, blocks and shoots|piles up furniture|uses the door as a shield}
+92|Uses debris as cover: {burned-out cars|fallen bodies and crates|torn-off doors} left by the fight itself
+93|Hides again after shooting: {falls back where no one can see|vanishes behind a corner|shuts the door behind him}
+94|Shoots from inside the vehicle: {through the window|through the sunroof|through the open door}
+95|Trusts heavy armor: {advances like a tank|walks down the middle of the street|doesn't even look for shelter}
+96|Breaks the lights and cameras: {shoots the floodlights|puts out the streetlamps|cuts the power} to fight in the dark
+97|Uses the crowd as cover: {civilians passing by|people running|the movement of the street} to throw off the enemy's aim
+98|Uses mobile cover: {pushes a cart|carries a table|drags a door} while advancing
+99|Protects the flanks with the terrain: {leans against walls|uses narrow gaps|keeps columns at the sides}
+100|Plays with the light: {puts the sun at his back|uses a car's headlights|stays in the dark with the enemies under the light} to dazzle whoever is looking for him
+101|Switches the lights on and off to the rhythm of the fight: {turns on the floodlight|triggers the light alarm|uses the flash of a tactical flashlight}
+102|Ignores cover and trusts volume of fire: {fires with the burst setting on|keeps the trigger held down|fills the area with lead}
+103|Shoots through cover: {with a wall-piercing weapon|in bursts through thin wood|with a grenade against the wall}
+104|Makes himself a small target: {sideways|crouched|crawling}
+105|Works with double cover: {one in front and another to fall back to|two doors to choose from|two firing points}
+106|Always reloads behind cover: {never reloads in plain sight|ducks before changing the magazine|counts the shots}
+107|Leaves a decoy in view: {a hat|a backpack|a shadow} for the enemy to shoot at
+108|Takes a room with two exits: {never a dead end|always with a route behind him|between two doors}
+109|Keeps the enemy in the light: {turns on floodlights|points the laser|opens the curtains}
+110|Moves the cover along: {pushes a sofa|drags a table|carries a panel}
+111|Stays behind the strongest one and shoots over: {his shoulder|the barricade|the hood}
+112|Picks the enemy's blind side: {where he can't see|behind a pillar|outside the cone of vision}
+113|Only attacks alongside an ally: {works in pairs|never goes in alone|waits for his partner to go in}
+114|Steps in front of attacks to protect the allies: {takes the shots in their place|pushes the wounded back|spreads his arms and advances}
+115|Focuses on the same target as the leader and {only switches targets when he orders|follows the same target he does}
+116|Follows the leader: {fires where he points|falls back when he falls back|advances when he advances}
+117|Distracts: {draws the attention of|taunts|shouts false orders at} the enemies so the allies can go around
+118|Acts on his own: {ignores the team|picks his own targets|fights alone}
+119|Only one team member attacks at a time: {he waits his turn|stays behind until the ally falls|rotates with the others}
+120|Covers whoever advances: {with suppressive fire|with shots overhead|aiming at exposed enemies}
+121|Protects the leader above all: {never stays far from him|pushes the leader into cover|takes the shot for him}
+122|Protects the weakest in the group: {the medic, the decker and the mage|the wounded|those who can't fight}
+123|Looks after the wounded: {drags the wounded|uses the medkit on allies|covers whoever falls} even in the middle of the firefight
+124|Commands the team: {shouts orders|coordinates by radio|points out the targets}
+125|Does the dirty work: {goes first|opens the door|clears the room} so the others can enter
+126|Steals the show: {wants to kill as many as possible|tries to dominate the fight|attacks the best targets before the allies}
+127|Guards the back of a specific ally: {the leader|the partner|the mage|the decker}
+128|Stays in reserve: {behind the group|at the entrance of the place|in the car} and only goes in when someone falls
+129|Stays apart from the group, ready to leave alone: {near the door|near the car|next to the exit}
+130|Waits for the allies to wear themselves down: {lets the others fight first|saves ammo and energy|saves himself for the end}
+131|Support sniper: {climbs up and watches the entrance|covers with a long-range sight|closes the corridor angle}
+132|Uses the allies as a shield: {always stays behind someone|pushes an ally to the front|lets the others take the shots}
+133|Synchronized entry: {everyone goes in at the same time|they attack on the agreed signal|they fire in chorus} to surprise
+134|Follows the agreed plan: {with the group|with the employer|with the team} without improvising
+135|Asks for help: {shouts for reinforcements|calls the allies|warns the base} as soon as the fight starts
+136|Keeps the leader alive even if it costs his life: {is the informal bodyguard|stays glued to him|cuts off whoever attacks him}
+137|Alternates with the partner: {one reloads, the other shoots|one covers, the other advances|one warns, the other acts}
+138|Keeps in contact by radio: {reports every step|relays enemy positions|asks for support every round}
+139|Takes command if the leader falls: {starts giving orders|steps up|rallies the others}
+140|Never leaves an ally behind: {goes back to get him|waits for whoever lags|pulls up whoever is down}
+141|Team training: {entry protocols|hand signals|wedge formation} that he repeats in every fight
+142|Joint psychological warfare: {one taunts, another disarms|one threatens, another negotiates|one shouts, another disappears}
+143|Uses an ally as mobile cover: {walks behind him|lets him be the target|stays in his shadow}
+144|Splits the team: {half attacks, half covers|one group in front and another to the side|two shoot and one watches}
+145|Picks a fighting partner: {the closest|the strongest|the one he has known longest}
+146|Gives the signal to fall back or advance: {with a hand|with a whistle|with an agreed word}
+147|Makes the team fight at his pace: {tightening the rhythm|waiting for everyone|sending one at a time}
+148|Enters last: {after the others|when the dust settles|when the door is already open}
+149|Attacks the most dangerous enemy first: {the strongest weapon|the strongest magic|the best shooter} on the other side
+150|Attacks the most wounded first, {to take a combatant out of the fight|to finish the job quickly|to hand the others an easy victory}
+151|Attacks the mage, decker or rigger first, {before they show what they can do|before they hide|before they summon someone}
+152|Hits back at whoever just attacked him, {or wounded an ally|or missed the shot|or insulted him}
+153|Avoids killing: {uses non-lethal ammo|uses shock ammo|tries to immobilize} and only kills if necessary
+154|Takes prisoners alive: {with cuffs and restraining cord|with gas or a net|with shock weapons} to hand over to someone
+155|Aims at weapons, vehicles and equipment {before aiming at people|to leave the enemy without options|to force a surrender}
+156|Attacks the enemy leader first: {tries to take down the boss|eliminates whoever gives the orders|breaks the head of the team}
+157|Attacks the nearest target: {without choosing|without thinking|without beating around the bush}
+158|Attacks the slowest or the heaviest: {the one who doesn't run|the one carrying the most stuff|the one standing still}
+159|Attacks whoever is alone: {isolates one enemy|catches the one left behind|cuts off whoever strays from the group}
+160|Attacks whoever is reloading: {waits for the click|counts the shots|closes in at the magazine swap}
+161|Looks for the objective target: {the item|the person|the data} and ignores the rest of the fight
+162|Kills whatever threatens civilians, ignores the rest: {steps in front|diverts the fire|clears the way}
+163|Fires only to wound: {hits shoulders and thighs|takes down without killing|knocks the weapons from the enemies' hands}
+164|Executes whoever falls: {finishes off the downed|lets no one get up|delivers the coup de grâce}
+165|Ignores civilians: {never aims at anyone unarmed|avoids people on the street|lowers the weapon when a civilian appears}
+166|Threatens and tries to negotiate before opening fire: {speaks first|shows the weapon|gives a deadline}
+167|Shouts orders and warns the team of every move
+168|Stays quiet and cold: {attacks without warning|doesn't answer provocation|doesn't let out a shout}
+169|Taunts the enemies: {to pull them out of cover|to break their aim|to see who loses his head}
+170|Waits for the enemy's first shot and {only then reacts|only then kills|only then calls for help}
+171|Sends {DR} ahead to open the fight, without losing sight of it
+172|Opens with the spell {SP} before any shot
+173|Lets {SPI} hold the front line while he gives support
+174|Stays at the rear with {DECK}, disrupting the enemy's weapons and equipment
+175|Opens with {GREN} to flush the enemies out of cover
+176|Switches to {W2} when the enemy closes the distance
+177|Uses {W1} {in precise shots|in short bursts|with ammo discipline} and only swaps weapons if it jams
+178|Calls {RF} before the fight heats up
+179|Keeps {DR} close as a decoy, drawing fire away from the allies
+180|Uses {SP} only if the fight gets tight; before that, he settles it with the weapon
+181|Lets {SPI} attack first and {only afterward|only if he has to|together with it} joins the fight
+182|Keeps {DECK} connected the whole time, picking the best target on the network
+183|Picks the target by armor: {the least protected|the one with the worst protection|the one who looks fragile}
+184|Picks the target by noise: {the one who fires most|the one who shouts most|the one who moves most}
+185|Attacks whoever carries the loot: {the suitcase|the data|the box}
+186|Avoids melee with anyone who has cyberware: {shoots from afar|uses the distance|waits for them to approach}
+187|Keeps one target alive for interrogation: {wounds to contain|takes down and restrains|knocks out the one who seems to know most}
+188|Uses his voice as a weapon: {scares the civilians|orders the enemies to the ground|shouts for them to surrender} before shooting
+189|Spends Edge at the right moment: {on the first shot|when the fight turns|when an ally falls}
+190|Takes the first shot at the enemy farthest from his group: {to divide|to scare|to test}
+191|Sends {DR} to scout and only goes in afterward
+192|Fires {SP} at the grouped enemies {before they split up|right at the start|when they hide together}
+193|Positions {SPI} behind the enemies to cut off their escape

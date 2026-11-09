@@ -1,0 +1,148 @@
+350|Follows the strongest: {goes after whoever seems to be in charge|copies what the boss does|switches sides if the boss falls}
+351|Protects the protectee: {keeps his body between him and the threat|pushes the client toward the exit|covers the client with his own vest}
+352|Gives team commands: {hands out orders by signals|tells each one what to do|calls the sectors by name} and keeps everyone together
+353|Uses the group as bait: {sends the others first|leaves the allies exposed and flanks|leaves one of his own as a distraction}
+354|Every man for himself: {each decides what to do|nobody waits for anybody|the group scatters with no coordination}
+355|Takes advantage of what the group opens: {enters after the allies' first shot|waits for the others to draw attention|steals the moment the enemy looks the other way}
+356|Obeys the organization's hierarchy: {only acts when the boss orders|doesn't act without the boss's word|passes the order along unchanged} and argues with no one above him
+357|Prioritizes the mission target: {focuses on the objective before the enemies|ignores whoever doesn't get in the mission's way|only spends ammo on what matters}
+358|Picks the target by the leader's order or the plan and {ignores provocations|doesn't chase those who flee|isn't distracted by the wounded}
+359|Shoots whatever is closest, {without choosing|without seeing who it is|and only then looks at the rest}
+360|Changes target all the time: {whoever made the last provocation|whoever faced him last|whoever has the prettiest weapon}
+361|Shares equipment with the group: {borrows the medkit|shares ammo with the allies|passes magazines to his colleagues}
+362|Asks for support early: {calls the reinforcements as soon as the fight starts|opens the radio channel with dispatch|warns the base before the first shot}
+363|Wants to be seen: {makes sure everyone sees the blow|attacks in broad daylight to be noticed|leaves a mark on the defeated}
+364|Follows the rules of engagement: {uses only what is necessary|disarms and hands over to the group|follows the orders not to kill}
+365|Looks for the enemy's spellcaster or decker: {cuts their communications|aims at whoever has the deck|goes after the mage first}
+366|reports by radio that he is wounded and {asks his partner for cover|swaps position with an ally|falls back a step with support from whoever is closest}
+367|continues the plan and {does what was agreed|holds the sector|carries out the order even wounded} without showing any change
+368|lets out a shout and {attacks the first one he sees|empties the weapon toward anything|throws a bottle at the nearest enemy}
+369|goes pale and {looks around for someone to back him|calls a friend's name|asks if anyone will help}
+370|laughs at the pain and {stays on his feet|continues the fight in silence|raises the weapon as if nothing had happened}
+371|asks the leader to be pulled out and {waits for the order|stays at his position until someone replaces him|gives his place to the next in line}
+372|makes a quick cost calculation and {switches cover|uses a stimulant|saves ammo for the exit}
+373|changes plans mid-fight: {flees another way|attacks the wrong target|abandons the sector without warning}; with no escape route, {stays and attacks the wrong target|hides where he is}; with a wounded ally, {follows his own plan and forgets the wounded ally|walks straight past the wounded ally}; with an important ally still fighting, {follows his own plan anyway|hesitates a round and only then leaves}
+374|takes up the retreat formation: {covers his companions' exit|falls back one at a time with the allies|opens room in the sector for the others to regroup}
+375|holds the sector until ordered: {holds the point|stays in place|covers whoever goes first}
+376|leaves the line of fire and {calls the team medic|looks for the nearest ally|goes straight to the meeting point}
+377|loses his head and {charges the nearest enemy|attacks without looking|shouts and advances}
+378|acts on instinct: {suddenly flees|throws himself to the ground|runs the wrong way}; with no escape route, {throws himself to the ground|runs the wrong way and ends up cornered}; with a wounded ally, {trips over the wounded ally|forgets the wounded ally}; with an important ally still fighting, {follows instinct, without thinking of him|ends up near him by accident}
+379|asks the boss what to do and {if the boss falls, leaves|if the boss orders a flight, flees first|follows the last one still standing}; with no escape route, {sticks to the last ally standing|ducks and waits for the order}; with a wounded ally, {follows the boss and leaves the wounded ally|stays with the wounded ally if the boss orders it}; with an important ally still fighting, {only moves after him|does whatever he does}
+380|negotiates with the enemy: {asks for a deal|offers the location of something in exchange for staying alive|proposes that both stop}
+381|holds the sector until the last {minute|shot|breath} so the others can leave
+382|covers the group's retreat in order and {only then falls|only then withdraws|leaves the weapon to the next one}
+383|loses control and {fires in every direction|hits anyone|throws everything he has}
+384|turns around and {runs without telling anyone|leaves by the opposite side|abandons the sector}; with no escape route, {stops halfway and goes back to cover|stands still, without shooting}; with a wounded ally, {walks past the wounded ally without stopping|takes the wounded ally if he is in the way}; with an important ally still fighting, {hesitates and only then leaves|leaves anyway, without looking back}
+385|turns the game around at the last second: {switches sides|strikes a deal|throws the weapon and raises his hands}
+386|Fights in style: {closes the distance with short steps|picks the most dangerous enemy up close|ignores whoever is far away} and settles it with clean blows, wasting no movement
+387|Prepares the ground: {plants charges at the approaches|sets traps on the expected path|mined the enemy's exit route} before the first shot and only then accepts the fight
+388|Shoots from afar and in silence: {picks a high spot|hides between cover and shadow|changes position after every shot} so the enemy doesn't know where it comes from
+389|Enters combat already under the effect of a drug: {withstands more than he looks|advances without feeling the wound|holds the position despite the fatigue} and bets everything on the start of the fight
+390|Opens the fight on the astral plane: {identifies enemy spirits and magic first|banishes whatever the enemy has summoned|protects the group against magical effects before acting}
+391|Lets the sprites work first: {registers and compiles before combat|sends the sprites to the most critical targets|reserves services for the critical moment} and only then joins the combat
+392|Keeps his position apart from the group: {picks an angle of his own|acts without telling the others|always stays out of the allies' line of fire} and only joins them if he has no choice
+393|Sweeps the environment at all times: {looks at every corner again|checks the exits after every shot|never turns his back to a door}
+394|Abandons a position that has proved lost: {switches to a better one|falls back without arguing|leaves the spot to whoever can still hold it} instead of insisting
+395|Picks the target by result: {takes down first whoever gives the most gain|ignores whoever doesn't change the outcome|leaves for later whoever is already out of the fight}
+396|Looks after the next dose: {saves the doses for after the fight|takes the next dose at the wrong moment|looks for the enemy's resources before anything else}
+397|feels the physical and stun damage adding up: {switches cover|ducks behind the nearest ally|opens more space between himself and the enemy} before going back to the fight
+398|takes another dose of {stimulant|combat drug|adrenaline} to ignore the damage and {goes back to combat|keeps the same pace}
+399|stun damage weighs more than physical: {takes a deep breath behind cover|changes position slowly|hands the flank to an ally} and only then goes back to shooting
+400|flees the fight {through the nearest exit|toward the car|through the back}, without looking back; with no escape route, {falls back to the most protected corner|shrinks behind cover and stops shooting}; with a wounded ally, {walks past him without stopping|only takes him if he is in the way}; with an important ally still fighting, {delays the escape until he falls or is covered|stays one more round, eyes on the exit}
+401|physical weighs more than stun: {leans against the wall|starts shooting only at whoever threatens him|stays down and only rises to shoot}
+402|already abandons the plan and does what the rest of the fight allows: {fights only to get out|clears the way for whoever can still escape|uses whatever is at hand}; with no escape route, {stays where he is and fights to stay alive|hides behind the nearest ally}; with a wounded ally, {drags the ally if he can|leaves the ally where he fell}; with an important ally still fighting, {stays to cover him|gives one last signal and leaves}
+403|can't take the pain anymore and {looks for the next dose|pushes the body past its limit|ignores the body's warning}; with no escape route, {falls back only to the back of the position|stays propped up, without shooting}; with a wounded ally, {doesn't even look at him|uses him as cover}; with an important ally still fighting, {stays at his side|leaves him and goes}
+404|{leans into a corner|lets himself drop behind cover|stays on his knees} and uses what he has left to {cover the retreat|take one last enemy out of the fight|keep the enemy busy} while the body still responds
+405|sees the body no longer responds and {drags himself to an exit|gives himself up|throws the weapon far away}; with no escape route, {stays on the ground and pretends to be out of the fight|surrenders to whoever is closest}; with a wounded ally, {can't help|asks to be carried}; with an important ally still fighting, {doesn't take his eyes off him|gives him what he has left}
+406|already knows he is nearly dead and {uses the last resource on the sheet|attacks whoever is at hand|stands between the enemy and an ally}, not caring what happens afterward
+407|Keeps attention on the whole field: {watches the whole group before the first blow|looks for whoever tries to flank|measures the distance to each target} and switches targets when he notices a bigger threat
+408|Watches the edges of the fight: {reacts to what happens behind him|notices whoever retreats or hides|notes the enemy trying to surround him} before committing to a target
+409|Fights in melee with natural attacks: {strikes the same target until it falls|switches targets with every blow|picks the enemy that hurts him most}
+410|Grabs and pins: {knocks the target to the ground|pins it with his body|keeps it close while the group attacks} and only lets go when another enemy threatens him
+411|Pushes the enemy {out of cover|into an open space|away from the allies} before striking
+412|Approaches unnoticed: {from the downwind side|through the shadows|through the group's blind spots} and only shows himself when already within reach
+413|Vanishes from view after attacking: {changes hiding place|returns to the dark|blends into the environment} and reappears elsewhere
+414|Picks the target by aura: {the physically weakest|whoever uses magic|whoever is most frightened} and ignores whoever doesn't stand out astrally
+415|Also fights on the astral plane: {attacks the target's aura|follows whoever tries to get away astrally|attacks whoever is distracted by the physical plane}
+416|Repositions nonstop: {leaps over obstacles|passes beneath the enemy|circles around the target} and makes the enemy's blow harder
+417|Gets up at once after being knocked down: {rolls and returns to the fight|springs to his feet|uses the momentum to attack}
+418|Runs around the battlefield: {attacks in passing|cuts off whoever tries to flee|reaches the target before being noticed}
+419|Intimidates during the fight: {roars at the enemy who leads|makes himself look bigger to whoever hesitates|stares down whoever hurts the pack most} and takes advantage of the retreat it causes
+420|Follows the trail of whoever leaves the fight: {the smell of blood|the marks on the ground|the sound of footsteps} and ignores whoever leaves no trace
+421|Controls his flight to choose the angle: {passes low and climbs|dives at the target's back|circles above the group before descending}
+422|Uses the water to his advantage: {pulls the target to the bottom|attacks from below|vanishes under water and reappears far away}
+423|Protects the allies against magic: {dispels the most dangerous spell|cuts the effect on the ally|attacks whoever sustains the spell}
+424|Casts combat spells: {at the nearest target|at the target already wounded|at whoever protects the caster}
+425|Pretends to be harmless or wounded: {waits for the enemy to approach|lowers the group's guard|lures the target away from the allies} and only then attacks
+426|Opens the fight trying to negotiate: {proposes a deal|demands something in exchange|offers a way out} and only attacks if the enemy refuses
+427|Commands those nearby: {gives orders to the pack|marks the priority target|reorganizes the allies} and attacks after seeing the effect
+428|Fights with the weapon he carries: {strikes the nearest target|alternates high and low blows|uses the weapon's reach to keep distance}
+429|Hurls whatever is at hand: {stones|spears|heavy objects} at {whoever is far away|whoever hides|whoever helps the wounded}
+430|Uses firearms: {fires single shots|fires short bursts|aims before shooting} from {cover|an elevated position|a dark corner}
+431|Shoots with the bow from {cover|an elevated position|a dark corner} and {changes place between arrows|picks whoever is without cover}
+432|Attacks from afar with the ranged attack: {keeps the ideal distance|changes position between shots|picks whoever is without cover}
+433|Opens the fight through the Matrix: {hacks the nearest device|takes over one of the group's devices|sabotages the enemy's equipment} and only then attacks
+434|Attacks the target's icon: {takes down the program it uses|wounds the weakest icon|keeps hitting the same icon}
+435|Controls the signals: {cuts the group's communication|hides his own icon|listens to what the enemy transmits}
+436|Searches for and uses data from the environment: {tracks the enemy's icon|reads the target's files|reboots devices that get in the way}
+437|Sets data traps: {plants a data bomb|defuses the bomb the enemy planted|corrupts the target's program}
+438|Breaks free of any hold: {slides out of the grapple|uses his own weight to escape|twists his body until the enemy lets go} and goes back to attacking
+439|Looks after an ally between one attack and another: {stops the bleeding|drags him behind shelter|keeps him on his feet} without leaving the fight
+440|Uses the vehicle as a weapon: {charges the group|cuts off the enemy's path|cuts off the exit from cover}
+441|slips into the nearest shadow and {waits for an opening|reappears elsewhere|watches whoever wounded him}
+442|repositions on the move: {leaps to a high spot|passes beneath the enemy|throws himself behind an obstacle} and buys time
+443|runs around and {attacks from another side|gains distance before returning|reaches the back of the nearest enemy}
+444|roars to buy time and {keeps the enemy still|makes the group hesitate|returns to the attack in the same blow}
+445|assesses who is still a threat and {switches to the most dangerous target|picks the weakest|waits for the enemy to expose himself}
+446|grabs the nearest enemy and {uses him as a shield|keeps him pinned|drags him into a corner} while catching his breath
+447|plays more wounded than he is and {waits for the enemy to come close|tries to get out of reach|attacks when he lowers his guard}
+448|climbs out of reach and {waits for the enemy to burn through ammo|picks another target|returns in a dive}
+449|dives and {reappears far away|waits for the enemy to lose the target|returns from below}
+450|hides in the Matrix and {waits for the enemy to lower his guard|returns through another device|watches what the group does}
+451|protects himself with magic and {dispels what hits him|returns the effect to the caster|goes back to the attack}
+452|crosses to the astral and {watches whoever wounded him|attacks whoever is distracted|waits for the enemy's aura to weaken}
+453|sniffs out whoever wounded him and {follows the trail|waits for the right moment|attacks the weakest}
+454|Skittish prey
+455|Spirit
+456|Servant (created by ritual)
+457|Picks the weakest or most isolated target: {follows the one left behind|chases whoever flees|ignores the group and goes after just one} and doesn't let go until it falls
+458|Attacks in short bursts and falls back to observe: {the enemy who bleeds|whoever hesitates|whoever lowers his guard} becomes the next victim
+459|Advances in a straight line against the biggest threat and {tries to take it down at once|keeps it busy} while the rest of the pack surrounds
+460|Defends the area and {attacks everything that enters it|stops chasing whoever leaves|marks the boundary with threats before biting}; doesn't go beyond what it considers its territory
+461|Attacks whatever is closest to the den or the nest and {ignores whoever is far away|returns to the starting point after each attack}
+462|Intimidates before attacking: {charges and brakes|prowls around the group|makes noise and looks bigger} and only attacks if the enemy doesn't back off
+463|Prefers fleeing to fighting: {looks for an exit before any attack|stays near a hiding place|moves away from the noisiest group} and only reacts if cornered
+464|Reacts to movement and noise: {attacks whatever moves fastest|flees from whoever makes the most noise|freezes until touched} and rarely takes the initiative
+465|Stays with the pack or the group and {follows whatever the leader does|runs when the others run|attacks only if the others attack too}
+466|Waits motionless until the victim comes close and {leaps from cover|strikes from an opening in the ground|drops from above} before being noticed
+467|Picks a passage point and {lets the vanguard pass|attacks the last of the group|hides until the group stops}; after the first attack, {falls back and vanishes|returns to the hiding place}
+468|Uses the terrain to hide its body and {attacks only once per hiding place|changes place after the first attack|waits for the enemy to lower his guard}
+469|Assesses the threat before acting: {counts the enemies|looks at the weapons|looks for the targets that could hurt it most} and chooses the moment of the first attack
+470|Fights with a goal of its own: {protecting something|reaching a spot|getting someone out of the fight} and ignores the rest unless it gets in the way
+471|Uses the environment and weapons at hand, not just the body: {knocks over furniture|tears out heavy objects|hurls whatever it finds} to hit more than one target
+472|Carries out the task the compiler registered: {attacks the target indicated in the Matrix|protects the device or host it was given|stays between the target and whoever compiled it} and ignores the rest unless stopped
+473|Acts according to the sprite's function: {uses the host or device that sustains it|stays near the origin node|avoids whatever deregisters it} and doesn't stray far from that
+474|Picks the target that most threatens whoever compiled it and {confronts it first|follows it through the Matrix|stops it from reaching the compiler's device}
+475|Follows the creator's order to the letter: {attacks the indicated target|stays beside whoever made it|watches the spot it was given} and ignores the rest unless stopped
+476|Doesn't think of itself: {follows the creator a few steps behind|takes the place of whoever the creator wants protected|returns to where it received the order} and only moves away when told
+477|Picks the enemy that most threatens the creator and {confronts him first|follows him without swerving|puts itself between him and the creator}
+478|Carries out the service it received: {attacks the ordered target|protects whoever summoned it|stays between the target and the group} and ignores the rest unless stopped
+479|Acts according to the spirit's nature: {uses the environment that strengthens it|stays near its element of origin|avoids whatever weakens it} and doesn't venture far from that
+480|Picks the enemy that most threatens whoever summoned it and {confronts him first|follows him through the astral or the terrain|stops him from reaching the summoner}
+481|Uses the body and the environment at hand: {stays between the enemy and the creator|advances by the most direct path|stays put where it was placed} and only changes place on command
+482|Stays near the creator and {only moves away when told|returns to him after each action}
+483|Uses the Matrix to its advantage: {stays inside the host or device that houses it|follows the signal to the target|passes through nodes the enemy can't reach}
+484|Stays near the node that sustains it and {only moves away when the compiler orders|returns to it after each action}
+485|Uses the terrain to its advantage: {climbs to high places|passes through spaces where the enemy doesn't fit|stays behind obstacles the enemy can't cross} and attacks from there
+486|Avoids fighting in the open: {looks for cover|stays near a wall|keeps a free exit at its back} before any attack
+487|Changes position after each attack: {moves to the flank|returns to the dark|passes behind another enemy} so as not to be hit in the same place
+488|Keeps an eye on the enemy's strongest point and {avoids attacking it head-on|goes around|waits for it to get distracted}
+489|Attacks whoever is wounded or alone and {ignores the others|falls back if the group closes up|returns to the attack when the group splits}
+490|Locates the target before attacking: {follows the trail of whoever hid|looks for whoever vanished from the fight|finds out where each enemy is} and only then goes in
+491|Is unshaken by banishing: {ignores whoever tries to banish it and attacks another|holds position until the ritual fails|goes after whoever conjures it}
+492|Acts in the physical world and in augmented reality at the same time: {reacts to whoever tampers with the scene's data|uses AR to see what the enemy can't|attacks whoever tries to blind it in AR}
+493|Feeds on the flow of Resonance around it: {stays near connected devices|acts stronger where there is a lot of Matrix activity|loses strength when the flow is cut} and avoids fighting far from them
+494|Uses venom or infection as its main weapon: {bites or wounds once and moves away|lets the effect work while staying out of reach|keeps at the already poisoned target}
+495|Opens the fight with a fear, paralysis or breath effect: {uses it before contact|on whoever is closest to the group|on whoever tries to help the wounded} and only then attacks whoever was left standing still
+496|Seizes the target and {keeps it immobilized|drags it away from the group|uses it as a shield} before looking for another
+497|Hides and vanishes from sight: {appears only to attack|changes place in the dark|uses the environment to avoid being seen} and avoids open fighting

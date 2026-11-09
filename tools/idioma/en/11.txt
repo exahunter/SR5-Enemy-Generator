@@ -1,0 +1,302 @@
+2111|Syndicate (mafia, yakuza, vory)
+2112|Rioter / protester
+2113|Goon
+2114|High threat response (HTR)
+2115|Mercenary (merc)
+2116|Smuggler
+2117|Driver
+2118|Priest
+2119|Adept
+2120|Physical adept
+2121|VIP
+2122|Bodyguard
+2123|Journalist / reporter
+2124|Scientist
+2125|Rigger
+2126|Doctor / street doc
+2127|Technomancer
+2128|Street dealer
+2129|Paramedic / first responder (medical response)
+2130|Bouncer (nightclub security)
+2131|Corporate force soldier (SecOps)
+2132|Driver / pilot
+2133|Informant / fixer
+2134|Spy / infiltration agent
+2135|Indian
+2136| of 
+2137|Reroll the rest
+2138|Unlock: 
+2139|Lock: 
+2140|Then, 
+2141|Owes money to {0}
+2142|coordinated
+2143|improvises
+2144|firm
+2145|conditional
+2146|light
+2147|discreet
+2148|heavy
+2149|attributes
+2150|martial art
+2151|extra spells
+2152|specializations
+2153|Processing
+2154|Gunslinger
+2155|Shotgunner
+2156|Unarmed fighter
+2157|Heavy gunner
+2158|Diplomat
+2159|Hustler
+2160|Intimidator
+2161|Observer
+2162|Tracker
+2163|Shadow
+2164|Rogue
+2165|Field medic
+2166|Intruder
+2167|Compiler
+2168|Registrar
+2169|Healer
+2170|Illusionist
+2171|Summoner
+2172|Seer
+2173|Aggressive
+2174|Cautious
+2175|Impulsive
+2176|Greedy
+2177|Stingy
+2178|Vain
+2179|Paranoid
+2180|Loyal
+2181|Fearful
+2182|Purist
+2183|Cruel
+2184|Honorable
+2185|Veteran
+2186|Civilians
+2187|Corporate and science
+2188|Street and crime
+2189|Security and law
+2190|Military and hunting
+2191|Shadows
+2192|Behavior
+2193|Flaw
+2194|Quirk
+2195|few ({0} of {1})
+2196|many ({0} of {1})
+2197|enters all at once, with the leader in front
+2198|sends the scout to look first and only then enters
+2199|holds the formation until someone falls
+2200|swaps cover in pairs
+2201|tightens the circle little by little
+2202|falls back in order
+2203|splits up if the shooter is lost
+2204|abandons whoever falls behind
+2205|attacks all at once, from several sides
+2206|opens with long-range fire and then closes in
+2207|emerges from alleys and doors at the same time
+2208|keeps up the noise to hide how many they are
+2209|surrounds the target and wears it down
+2210|puts the rookies in front
+2211|scatters at the first death
+2212|flees in different directions
+2213|comes back later with more people
+2214|enters by the least-watched route
+2215|opens with the shooter on high ground and the rest at the door
+2216|uses a driver to arrive and leave unseen
+2217|meets the objective before spending ammo
+2218|keeps the boss out of the line of fire
+2219|isolates the target from the rest of the scene
+2220|falls back if the boss is wounded
+2221|leaves the place if the police arrive
+2222|burns what was left behind
+2223|starts with shouting and shoving before any weapon
+2224|advances in a wave on the security line
+2225|spreads out to split the enemy's attention
+2226|uses the most worked-up as a spearhead
+2227|throws objects and closes the space
+2228|hides the few armed ones in the middle
+2229|disperses at the first serious shot
+2230|flees en masse through the side streets
+2231|tramples whoever falls
+2232|opens with verbal commands and a covering position
+2233|forms a perimeter with the vehicles
+2234|calls for reinforcements before the first shot
+2235|holds cover and avoids advancing
+2236|uses the vehicle as a barrier
+2237|surrenders or isolates the target without exposing itself
+2238|falls back to wait for reinforcements
+2239|abandons the pursuit if the risk goes up
+2240|protects the wounded before anything else
+2241|closes the doors and cuts off access
+2242|sets off the alarm and withdraws to defensive points
+2243|uses cameras and sensors before any contact
+2244|holds the sector until reinforcements arrive
+2245|falls back behind reinforced doors
+2246|uses the building's technology against the enemy
+2247|falls back in order to the next defensive point
+2248|calls for reinforcements and holds the corridor
+2249|abandons the sector if the contract doesn't cover the risk
+2250|opens with a flash grenade and a simultaneous entry
+2251|opens with a effect grenade and a simultaneous entry
+2252|surrounds the target before any shot
+2253|advances sector by sector without leaving backs exposed
+2254|alternates covering fire and advance
+2255|isolates and eliminates the most dangerous target first
+2256|reorganizes into another formation instead of falling back
+2257|extracts the wounded and continues
+2258|uses air support if available
+2259|infiltrates unseen and only then acts
+2260|opens with suppressors and no alarm
+2261|uses the Matrix and magic to prepare the way
+2262|meets the objective and only uses force when needed
+2263|avoids combat whenever possible
+2264|keeps the extraction open
+2265|aborts and leaves by the extraction plan
+2266|sacrifices the secondary objective to save the team
+2267|wipes the trail before leaving
+2268|opens with heavy fire to show their worth
+2269|enters in pairs and covers each other
+2270|tests the defense and falls back if it is strong
+2271|holds the line while the employer pays
+2272|swaps positions in turns
+2273|negotiates in the middle of the fight if it sees a chance
+2274|abandons the contract if the leader falls
+2275|demands more to continue
+2276|falls back without waiting for the employer
+2277|isolate the target and cut off the exits
+2278|open with non-lethal weapons
+2279|follow the target to a place with no witnesses
+2280|keep the target surrounded without killing it
+2281|split the team between capture and cover
+2282|use tracking and drones so as not to lose it
+2283|abandon the target if the cost goes up
+2284|fall back and resume the hunt later
+2285|use whatever they have to hold the target
+2286|tries to get through without a fight
+2287|uses a diversion to distract the enemy
+2288|protects the cargo above all
+2289|avoids prolonged combat
+2290|uses the vehicle as cover and as an exit
+2291|abandons part of the cargo to flee
+2292|leaves by the alternate route
+2293|leaves the wounded behind only if there is no other way out
+2294|uses terror and numbers to push the enemy back
+2295|keeps the magic or the sacrifice for the right moment
+2296|doesn't fall back while the leader is standing
+2297|throws the most faithful in front
+2298|keeps up the ritual even when wounded
+2299|loses cohesion
+2300|attacks with more fury when one of their own dies
+2301|scatters in the dark
+2302|uses the plan to surround
+2303|enters through the least expected channel
+2304|swaps roles as the fight requires
+2305|alternates between fire and Matrix
+2306|exploits the weakness of the most dangerous target
+2307|falls back by plan B
+2308|abandons the objective if the cost exceeds what was paid
+2309|burns the trail and vanishes
+2310|closes in around the VIP and moves to the exit
+2311|opens with the driver ready
+2312|uses the guards' bodies as cover
+2313|keeps the VIP among the guards
+2314|forces a way through to the vehicle
+2315|covers the retreat in echelons
+2316|sacrifices a guard to buy time
+2317|takes the wounded VIP along if necessary
+2318|leaves the place without waiting for the rest
+2319|waits in silence until the target enters the zone
+2320|closes the exits only after the first shot
+2321|opens fire from several directions at the same time
+2322|keeps the advantage while the enemy is disorganized
+2323|changes position after the first attack
+2324|covers the flanks so the enemy can't escape
+2325|falls back if the surprise fails
+2326|abandons the place if the enemy reorganizes
+2327|burns the trail so as not to be followed
+2328|If {0} falls, 
+2329|Carries loose cartridges in his pockets
+2330|Writes everything down in a notebook
+2331|Recognizes tracks and smells
+2332|Whistles while working
+2333|Hates weak IC
+2334|Decides first and thinks later
+2335|Does everything for the highest pay
+2336|Checks his phone every thirty seconds
+2337|Duelist (heavy pistol)
+2338|Sentinel
+2339|Protector (escort)
+2340|Interrogator
+2341|Survivalist (open country)
+2342|Stoic
+2343|Anxious
+2344|Grim
+2345|Proud
+2346|Curious
+2347|Vindictive
+2348|Superstitious
+2349|Devout
+2350|Opportunist
+2351|Protector
+2352|Calculating
+2353|Idealist
+2354|Disciplined
+2355|Rebellious
+2356|Cold
+2357|Gentle
+2358|Stubborn
+2359|Exhausted
+2360|Competitive
+2361|Scout (reconnaissance)
+2362|Escort (bodyguard)
+2363|Fugitive (routes and getaways)
+2364|Corporate negotiator
+2365|Coordinated
+2366|Obedient
+2367|Braggart
+2368|Professional
+2369|Combined resources
+2370|Combined resources: 
+2371|Program
+2372|Getting started
+2373|commlinks/decks
+2374|armor
+2375|drones
+2376|critters
+2377|Which XML files can I import (
+2378|imported
+2379|built-in
+2380|lock
+2381|reroll
+2382|Table mode
+2383|Takes the hit: {takes the shot and keeps going|accepts the first damage|ignores light wounds}
+2384|Spells
+2385|Low
+2386|Moderate
+2387|High
+2388|Extreme
+2389|Morale
+2390|Morale: 
+2391|Members:
+2392|Karma / Nuyen (totals)
+2393|Karma / Nuyen
+2394|Karma
+2395|Delete
+2396|Download .chum5
+2397|Print table
+2398|Search and filter
+2399|active filter
+2400|Favorites first
+2401|Undo
+2402|missing 
+2403|armed neighbors
+2404|the employer
+2405|Lone Star
+2406|Effect: 
+2407|armor 
+2408|initiative dice 
+2409|Martial artist
+2410|initiative dice 
+2411|Freelance runners
+2412|Corporate entourage

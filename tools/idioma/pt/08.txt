@@ -1,0 +1,51 @@
+2020|Ataque
+2021|Dano
+2022|PA
+2023|CR
+2024|Prec.
+2025|Modo
+2026|Sustentada
+2027|Permanente
+2028|Dano atordoante
+2029|LDV
+2030|Toque
+2031| — Rola 
+2032| <span class="note">(inclui 
+2033| · Dreno 
+2034|Si mesmo
+2035|Dispositivo
+2036| em RV
+2037|Programas
+2038|dreno
+2039|dados
+2040| <span class="note">(rola = Spellcasting 
+2041|Importar
+2042|Desfazer: 
+2043|Favorita
+2044|Confirmar rerrolar favorita?
+2045|Rerrolar tudo
+2046|Destravar tudo
+2047|Travar tudo
+2048|Diminuir
+2049|Aumentar
+2050|Drogas
+2051|Contatos
+2052|Arte marcial
+2053|Habilidades
+2054|Feitiços
+2055|Formas complexas
+2056|Sprites
+2057|Submersão
+2058|Iniciação
+2059|Ecos
+2060|Veículos
+2061|Idiomas
+2062|Essência
+2063|guardadas neste navegador
+2064|Imprimir
+2065|Atributos
+2066|Condutas
+2067|a arte marcial
+2068| · dreno 
+2069|Sprites registrados
+2070|o motorista garante a fuga

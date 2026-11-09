@@ -1,0 +1,20 @@
+{
+  "name": "gerador-sr5-chummer",
+  "private": true,
+  "geradorVersao": "55",
+  "scripts": {
+    "build": "node build.js",
+    "check": "node build.js --check",
+    "camadas": "node tools/mapa-camadas.js",
+    "impressao": "node tools/impressao.js",
+    "texto-cego": "node tools/texto-cego.js",
+    "teste-ferimento": "node tools/teste-ferimento.js",
+    "teste-caixas-dano": "node tools/teste-caixas-dano.js",
+    "teste-ui": "node tools/teste-ui.js",
+    "teste-veiculos": "node tools/teste-veiculos.js",
+    "teste-download": "node tools/teste-download.js"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "Luã Sol",
+  "repositorio": ""
+}

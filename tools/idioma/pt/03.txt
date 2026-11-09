@@ -1,0 +1,148 @@
+350|Segue o mais forte: {vai atrás de quem parece mandar|copia o que o chefe faz|troca de lado se o chefe cair}
+351|Protege o protegido: {mantém o corpo entre ele e a ameaça|empurra o cliente para a saída|cobre o cliente com o próprio colete}
+352|Dá comandos de equipe: {distribui as ordens por sinais|diz a cada um o que fazer|chama os setores pelo nome} e mantém todos juntos
+353|Usa o grupo como isca: {manda os outros na frente|deixa os aliados abertos e flanqueia|deixa um dos seus como distração}
+354|Cada um por si: {cada um decide o que fazer|ninguém espera ninguém|o grupo se espalha sem coordenação}
+355|Aproveita o que o grupo abre: {entra depois do primeiro tiro dos aliados|espera os outros chamarem a atenção|rouba o momento em que o inimigo olha para outro lado}
+356|Obedece à hierarquia da organização: {só age quando o chefe manda|não age sem a palavra do chefe|passa a ordem adiante sem alterar} e não discute com ninguém acima dele
+357|Prioriza o alvo da missão: {foca o objetivo antes dos inimigos|ignora quem não atrapalha a missão|só gasta munição no que importa}
+358|Escolhe o alvo pela ordem do líder ou do plano e {ignora as provocações|não persegue os que fogem|não se distrai com os feridos}
+359|Atira no que está mais perto, {sem escolher|sem ver quem é|e só então olha para o resto}
+360|Muda de alvo toda hora: {quem fez a última provocação|quem o enfrentou por último|quem tem a arma mais bonita}
+361|Divide o equipamento com o grupo: {pede o medkit emprestado|divide a munição com os aliados|passa carregadores para os colegas}
+362|Pede apoio logo cedo: {chama os reforços assim que a luta começa|abre o canal de rádio com a central|avisa a base antes do primeiro tiro}
+363|Quer ser visto: {faz questão de que todos vejam o golpe|ataca em plena luz para ser notado|deixa uma marca nos derrotados}
+364|Cumpre a regra de engajamento: {usa só o necessário|desarma e entrega ao grupo|segue as ordens de não matar}
+365|Procura o conjurador ou o decker dos inimigos: {corta as comunicações deles|mira em quem está com o deck|vai atrás do mago primeiro}
+366|avisa pelo rádio que está ferido e {pede cobertura ao parceiro|troca de posição com um aliado|recua um passo com apoio de quem está mais perto}
+367|continua o plano e {faz o que foi combinado|mantém o setor|executa a ordem mesmo ferido} sem mostrar alteração
+368|dá um grito e {ataca o primeiro que vê|descarrega a arma na direção de qualquer coisa|joga uma garrafa no inimigo mais próximo}
+369|fica pálido e {olha para os lados procurando quem o apoie|chama pelo nome de um amigo|pergunta se alguém vai ajudar}
+370|ri da dor e {continua em pé|segue o combate em silêncio|ergue a arma como se nada tivesse acontecido}
+371|pede ao líder para ser retirado e {espera a ordem|fica na posição até alguém substituí-lo|cede o lugar para o próximo da fila}
+372|faz um cálculo rápido de custo e {troca de cobertura|usa um estimulante|guarda munição para a saída}
+373|muda de planos no meio da luta: {foge para outro lado|ataca o alvo errado|abandona o setor sem avisar}; sem rota de fuga, {fica e ataca o alvo errado|se esconde onde está}; com aliado ferido, {segue o próprio plano e esquece o aliado ferido|passa direto pelo aliado ferido}; com aliado importante ainda lutando, {segue o próprio plano mesmo assim|hesita uma rodada e só então sai}
+374|assume a formação de retirada: {cobre a saída dos companheiros|recua um por vez com os aliados|abre espaço no setor para os outros se reorganizarem}
+375|mantém o setor até receber ordem: {segura o ponto|fica no lugar|dá cobertura para quem for primeiro}
+376|sai da linha de fogo e {chama o médico da equipe|procura o aliado mais próximo|vai direto ao ponto de encontro}
+377|perde a cabeça e {investe contra o inimigo mais próximo|ataca sem olhar|grita e avança}
+378|age por instinto: {foge de repente|se joga ao chão|corre para o lado errado}; sem rota de fuga, {se joga no chão|corre para o lado errado e acaba sem saída}; com aliado ferido, {tropeça no aliado ferido|esquece o aliado ferido}; com aliado importante ainda lutando, {segue o instinto, sem pensar nele|acaba perto dele sem querer}
+379|pergunta ao chefe o que fazer e {se o chefe cair, vai embora|se o chefe mandar fugir, foge primeiro|segue o último que ainda está de pé}; sem rota de fuga, {fica colado ao último aliado de pé|se abaixa e espera a ordem}; com aliado ferido, {segue o chefe e deixa o aliado ferido|fica com o aliado ferido se o chefe mandar}; com aliado importante ainda lutando, {só se mexe depois dele|faz o que ele fizer}
+380|negocia com o inimigo: {pede um acordo|oferece a localização de algo em troca de ficar vivo|propõe que ambos parem}
+381|mantém o setor até o último {minuto|tiro|respiro} para os outros saírem
+382|cobre a retirada do grupo em ordem e {só depois cai|só então se retira|deixa a arma para o próximo}
+383|perde o controle e {dispara em todas as direções|bate em qualquer um|joga tudo o que tem}
+384|dá meia-volta e {corre sem avisar ninguém|sai pelo lado oposto|abandona o setor}; sem rota de fuga, {para no meio do caminho e volta à cobertura|fica parado, sem atirar}; com aliado ferido, {passa pelo aliado ferido sem parar|leva o aliado ferido se estiver no caminho}; com aliado importante ainda lutando, {hesita e só então sai|sai mesmo assim, sem olhar para trás}
+385|vira o jogo no último segundo: {muda de lado|fecha um acordo|joga a arma e levanta as mãos}
+386|Luta no estilo: {fecha a distância com passos curtos|escolhe o inimigo mais perigoso de perto|ignora quem está longe} e resolve com golpes limpos, sem desperdiçar movimento
+387|Prepara o terreno: {planta cargas nos acessos|arma armadilhas no caminho previsto|minou o caminho de saída do inimigo} antes do primeiro tiro e só então aceita a luta
+388|Atira de longe e em silêncio: {escolhe um ponto alto|se esconde entre a cobertura e a sombra|troca de posição a cada disparo} para o inimigo não saber de onde vem
+389|Entra no combate já sob efeito de droga: {aguenta mais do que parece|avança sem sentir o ferimento|segura a posição apesar do cansaço} e aposta tudo no começo da luta
+390|Abre a luta pelo plano astral: {identifica espíritos e magia inimiga primeiro|banisha o que o inimigo tiver invocado|protege o grupo contra efeitos mágicos antes de agir}
+391|Deixa os sprites trabalharem primeiro: {registra e compila antes do combate|manda os sprites aos alvos mais críticos|reserva serviços para a hora crítica} e só então entra no combate
+392|Mantém a posição afastada do grupo: {escolhe um ângulo próprio|age sem avisar os outros|fica sempre fora da linha de fogo dos aliados} e só se junta a eles se não tiver escolha
+393|Varre o ambiente a todo momento: {olha de novo cada canto|confere as saídas depois de cada tiro|nunca fica de costas para uma porta}
+394|Abandona a posição que se mostrou perdida: {troca para uma melhor|recua sem discutir|deixa o ponto para quem ainda pode segurá-lo} em vez de insistir
+395|Escolhe o alvo pelo resultado: {derruba primeiro o que dá mais ganho|ignora quem não muda o desfecho|deixa para depois quem já está fora da luta}
+396|Cuida da próxima dose: {guarda as doses para depois da luta|toma a dose seguinte no momento errado|procura os recursos do inimigo antes de qualquer outra coisa}
+397|sente o dano físico e o atordoante somando: {troca de cobertura|se abaixa atrás do aliado mais próximo|abre mais espaço entre ele e o inimigo} antes de voltar à luta
+398|toma outra dose de {estimulante|droga de combate|adrenalina} para ignorar o dano e {volta ao combate|segue no mesmo ritmo}
+399|o dano atordoante pesa mais que o físico: {respira fundo atrás da cobertura|troca de posição devagar|passa o flanco a um aliado} e só depois volta a atirar
+400|foge da luta {pela saída mais próxima|em direção ao carro|pelos fundos}, sem olhar para trás; sem rota de fuga, {recua até o canto mais protegido|se encolhe atrás da cobertura e para de atirar}; com aliado ferido, {passa por ele sem parar|só o leva se ele estiver no caminho}; com aliado importante ainda lutando, {adia a fuga até ele cair ou ser coberto|fica mais uma rodada, de olho na saída}
+401|o físico pesa mais que o atordoante: {se encosta na parede|passa a atirar só em quem o ameaça|fica abaixado e só levanta para atirar}
+402|já abandona o plano e faz o que o resto da luta permite: {luta só para sair|abre caminho para quem ainda pode escapar|usa o que tiver à mão}; sem rota de fuga, {fica onde está e luta para ficar vivo|se esconde atrás do aliado mais próximo}; com aliado ferido, {arrasta o aliado se puder|deixa o aliado onde caiu}; com aliado importante ainda lutando, {fica para cobri-lo|dá um último sinal e sai}
+403|não aguenta mais a dor e {procura a próxima dose|força o corpo além do limite|ignora o aviso do corpo}; sem rota de fuga, {recua só até o fundo da posição|fica encostado, sem atirar}; com aliado ferido, {nem o olha|o usa como cobertura}; com aliado importante ainda lutando, {segue ao lado dele|o deixa e sai}
+404|{encosta num canto|se deixa cair atrás de uma cobertura|fica de joelhos} e usa o que lhe resta para {cobrir a retirada|tirar um último inimigo da luta|manter o inimigo ocupado} enquanto o corpo ainda responde
+405|vê que o corpo não responde mais e {se arrasta para uma saída|se entrega|joga a arma longe}; sem rota de fuga, {fica no chão e finge estar fora da luta|se rende a quem estiver mais perto}; com aliado ferido, {não consegue ajudar|pede que o levem}; com aliado importante ainda lutando, {não o abandona com os olhos|dá a ele o que lhe sobrou}
+406|já sabe que está quase morto e {usa o último recurso da ficha|ataca quem tiver à mão|fica entre o inimigo e um aliado}, sem se importar com o que acontece depois
+407|Mantém a atenção em todo o campo: {observa o grupo inteiro antes do primeiro golpe|procura quem tenta flanquear|mede a distância até cada alvo} e troca de alvo quando percebe uma ameaça maior
+408|Vigia as bordas da luta: {reage ao que acontece atrás dele|percebe quem recua ou se esconde|nota o inimigo que tenta cercá-lo} antes de se comprometer com um alvo
+409|Luta no corpo a corpo com os ataques naturais: {golpeia o mesmo alvo até ele cair|troca de alvo a cada golpe|escolhe o inimigo que mais o fere}
+410|Agarra e imobiliza: {derruba o alvo no chão|o prende com o corpo|o mantém junto de si enquanto o grupo ataca} e só o solta quando outro inimigo o ameaça
+411|Empurra o inimigo para {fora da cobertura|um espaço aberto|longe dos aliados} antes de golpeá-lo
+412|Se aproxima sem ser notado: {pelo lado contrário ao do vento|pelas sombras|pelos pontos cegos do grupo} e só se mostra quando já está ao alcance
+413|Some da vista depois de atacar: {muda de esconderijo|volta ao escuro|se mistura ao ambiente} e reaparece em outro ponto
+414|Escolhe o alvo pela aura: {o mais fraco fisicamente|quem usa magia|quem está mais assustado} e ignora quem não se destaca no astral
+415|Luta também no plano astral: {ataca a aura do alvo|acompanha quem tenta se afastar pelo astral|ataca quem está distraído com o plano físico}
+416|Se reposiciona sem parar: {salta sobre obstáculos|passa por baixo do inimigo|gira em volta do alvo} e dificulta o golpe do inimigo
+417|Levanta-se no mesmo instante depois de ser derrubado: {rola e volta à luta|se ergue num pulo|usa o impulso para atacar}
+418|Corre em volta do campo de batalha: {ataca de passagem|corta o caminho de quem tenta fugir|chega ao alvo antes de ser notado}
+419|Intimida durante a luta: {ruge para o inimigo que lidera|se mostra maior para quem hesita|encara quem mais fere o bando} e aproveita o recuo que isso provoca
+420|Segue o rastro de quem sai da luta: {o cheiro do sangue|as marcas no chão|o som dos passos} e ignora quem não deixa vestígio
+421|Controla o voo para escolher o ângulo: {passa baixo e sobe|mergulha pelas costas do alvo|gira acima do grupo antes de descer}
+422|Usa a água a seu favor: {puxa o alvo para o fundo|ataca de baixo|some debaixo d'água e reaparece longe}
+423|Protege os aliados contra a magia: {dissipa o feitiço mais perigoso|corta o efeito sobre o aliado|ataca quem sustenta o feitiço}
+424|Lança feitiços de combate: {no alvo mais próximo|no alvo que já está ferido|em quem protege o conjurador}
+425|Se faz de inofensivo ou de ferido: {espera o inimigo se aproximar|baixa a guarda do grupo|atrai o alvo para longe dos aliados} e só então ataca
+426|Abre a luta tentando negociar: {propõe um acordo|exige algo em troca|oferece uma saída} e só ataca se o inimigo recusa
+427|Comanda quem está por perto: {dá ordens ao bando|marca o alvo prioritário|reorganiza os aliados} e ataca depois de ver o efeito
+428|Luta com a arma que carrega: {golpeia o alvo mais próximo|alterna golpes altos e baixos|usa o alcance da arma para manter distância}
+429|Arremessa o que tem à mão: {pedras|lanças|objetos pesados} contra {quem está longe|quem se esconde|quem ajuda os feridos}
+430|Usa armas de fogo: {dispara em tiros únicos|dispara rajadas curtas|mira antes de atirar} de {uma cobertura|uma posição elevada|um canto escuro}
+431|Atira com o arco a partir de {uma cobertura|uma posição elevada|um canto escuro} e {muda de lugar entre as flechas|escolhe quem está sem cobertura}
+432|Ataca de longe com o ataque à distância: {mantém a distância ideal|muda de posição entre os disparos|escolhe quem está sem cobertura}
+433|Abre a luta pela Matrix: {invade o dispositivo mais próximo|toma um aparelho do grupo|sabota o equipamento do inimigo} e só depois ataca
+434|Ataca o ícone do alvo: {derruba o programa que ele usa|fere o ícone mais fraco|insiste no mesmo ícone}
+435|Controla os sinais: {corta a comunicação do grupo|esconde o próprio ícone|escuta o que o inimigo transmite}
+436|Procura e usa dados do ambiente: {rastreia o ícone do inimigo|lê arquivos do alvo|reinicia dispositivos que atrapalham}
+437|Prepara armadilhas de dados: {planta uma bomba de dados|desarma a bomba que o inimigo plantou|corrompe o programa do alvo}
+438|Se solta de qualquer prisão: {desliza para fora do agarrão|usa o próprio peso para escapar|torce o corpo até o inimigo largar} e volta a atacar
+439|Cuida de um aliado entre um ataque e outro: {estanca o ferimento|o arrasta para trás de um abrigo|o mantém de pé} sem sair da luta
+440|Usa o veículo como arma: {avança sobre o grupo|fecha o caminho do inimigo|corta a saída da cobertura}
+441|some para a sombra mais próxima e {espera uma abertura|reaparece em outro ponto|observa quem o feriu}
+442|se reposiciona em movimento: {salta para um ponto alto|passa por baixo do inimigo|se joga atrás de um obstáculo} e ganha tempo
+443|dá a volta correndo e {ataca por outro lado|ganha distância antes de voltar|chega às costas do inimigo mais próximo}
+444|ruge para ganhar tempo e {mantém o inimigo parado|faz o grupo hesitar|volta ao ataque no mesmo golpe}
+445|avalia quem ainda é ameaça e {muda para o alvo mais perigoso|escolhe o mais fraco|espera o inimigo se expor}
+446|agarra o inimigo mais próximo e {o usa como escudo|o mantém preso|o arrasta para um canto} enquanto recupera o fôlego
+447|se faz de mais ferido do que está e {espera o inimigo chegar perto|tenta sair do alcance|ataca quando ele baixa a guarda}
+448|sobe para fora do alcance e {espera o inimigo gastar a munição|escolhe outro alvo|volta num mergulho}
+449|mergulha e {reaparece longe|espera o inimigo perder o alvo|volta por baixo}
+450|se esconde na Matrix e {espera o inimigo baixar a guarda|volta por outro dispositivo|observa o que o grupo faz}
+451|se protege com magia e {dissipa o que o atinge|devolve o efeito ao conjurador|volta ao ataque}
+452|passa para o astral e {observa quem o feriu|ataca quem está distraído|espera a aura do inimigo enfraquecer}
+453|fareja quem o feriu e {segue o rastro|espera o momento certo|ataca o mais fraco}
+454|Presa assustadiça
+455|Espírito
+456|Servo (criado por ritual)
+457|Escolhe o alvo mais fraco ou isolado: {segue o que ficou para trás|persegue quem foge|ignora o grupo e vai atrás de um só} e não larga até derrubá-lo
+458|Ataca em rajadas curtas e recua para observar: {o inimigo que sangra|quem hesita|quem baixa a guarda} vira a próxima vítima
+459|Avança em linha reta contra a maior ameaça e {tenta derrubá-la de uma vez|a mantém ocupada} enquanto o resto do bando cerca
+460|Defende a área e {ataca tudo o que entra nela|para de perseguir quem sai|marca o limite com ameaças antes de morder}; não vai além do que considera seu território
+461|Ataca o que está mais perto da toca ou do ninho e {ignora quem está longe|volta ao ponto de origem depois de cada ataque}
+462|Intimida antes de atacar: {investe e freia|ronda o grupo|faz barulho e se mostra maior} e só parte para o ataque se o inimigo não recua
+463|Prefere fugir a lutar: {procura uma saída antes de qualquer ataque|se mantém perto de um esconderijo|se afasta do grupo mais barulhento} e só reage se for cercado
+464|Reage ao movimento e ao barulho: {ataca o que se mexe mais rápido|foge de quem faz mais barulho|congela até ser tocado} e raramente toma a iniciativa
+465|Fica junto do bando ou do grupo e {segue o que o líder fizer|corre quando os outros correm|ataca só se os outros também atacam}
+466|Espera imóvel até a vítima chegar perto e {salta de uma cobertura|ataca de uma abertura no chão|cai de cima} antes de ser percebido
+467|Escolhe um ponto de passagem e {deixa a vanguarda passar|ataca o último do grupo|se esconde até o grupo parar}; depois do primeiro ataque, {recua e some|volta ao esconderijo}
+468|Usa o terreno para esconder o corpo e {ataca só uma vez por esconderijo|muda de lugar depois do primeiro ataque|espera o inimigo baixar a guarda}
+469|Avalia a ameaça antes de agir: {conta os inimigos|olha as armas|procura os alvos que podem feri-lo mais} e escolhe o momento do primeiro ataque
+470|Luta com um objetivo próprio: {proteger algo|chegar a um ponto|tirar alguém da luta} e ignora o resto, a não ser que atrapalhe
+471|Usa o ambiente e as armas à mão, não só o corpo: {derruba móveis|arranca objetos pesados|atira o que encontra} para atingir mais de um alvo
+472|Cumpre a tarefa que o compilador registrou: {ataca o alvo indicado na Matrix|protege o dispositivo ou o host que lhe foi dado|fica entre o alvo e quem o compilou} e ignora o resto, a menos que o impeçam
+473|Age de acordo com a função do sprite: {usa o host ou o dispositivo que o sustenta|se mantém perto do nó de origem|evita o que o desregistra} e não se afasta muito disso
+474|Escolhe o alvo que mais ameaça quem o compilou e {o enfrenta primeiro|o segue pela Matrix|o impede de chegar ao dispositivo do compilador}
+475|Cumpre a ordem do criador à letra: {ataca o alvo indicado|fica junto de quem o fez|vigia o ponto que lhe deram} e ignora o resto, a menos que o impeçam
+476|Não pensa em si: {segue o criador a poucos passos|toma o lugar de quem o criador quer proteger|volta ao ponto de onde recebeu a ordem} e só se afasta quando mandam
+477|Escolhe o inimigo que mais ameaça o criador e {o enfrenta primeiro|o segue sem se desviar|se coloca entre ele e o criador}
+478|Cumpre o serviço que recebeu: {ataca o alvo ordenado|protege quem o invocou|fica entre o alvo e o grupo} e ignora o resto, a menos que o impeçam
+479|Age de acordo com a natureza do espírito: {usa o ambiente que o fortalece|se mantém perto do elemento de origem|evita o que o enfraquece} e não se aventura longe disso
+480|Escolhe o inimigo que mais ameaça quem o invocou e {o enfrenta primeiro|o segue pelo astral ou pelo terreno|o impede de chegar ao invocador}
+481|Usa o corpo e o ambiente que tem à mão: {fica entre o inimigo e o criador|avança pelo caminho mais direto|fica parado onde foi posto} e só muda de lugar por ordem
+482|Mantém-se perto do criador e {só se afasta quando mandam|volta a ele depois de cada ação}
+483|Usa a Matrix a seu favor: {fica dentro do host ou do dispositivo que o abriga|segue o sinal até o alvo|passa por nós onde o inimigo não alcança}
+484|Mantém-se perto do nó que o sustenta e {só se afasta quando o compilador manda|volta a ele depois de cada ação}
+485|Usa o terreno a seu favor: {sobe em lugares altos|passa por espaços onde o inimigo não cabe|fica atrás de obstáculos que o inimigo não pode atravessar} e ataca de lá
+486|Evita lutar em campo aberto: {procura cobertura|se mantém perto de uma parede|mantém uma saída livre às costas} antes de qualquer ataque
+487|Muda de posição depois de cada ataque: {desloca-se para o flanco|volta para o escuro|passa por trás de outro inimigo} para não ser acertado no mesmo lugar
+488|Fica de olho no ponto mais forte do inimigo e {evita atacá-lo de frente|dá a volta|espera ele se distrair}
+489|Ataca quem está ferido ou sozinho e {ignora os outros|recua se o grupo se junta|volta ao ataque quando o grupo se separa}
+490|Localiza o alvo antes de atacar: {segue o rastro de quem se escondeu|procura quem sumiu da luta|descobre onde cada inimigo está} e só então parte para cima
+491|Não se abala com o banimento: {ignora quem tenta bani-lo e ataca outro|mantém a posição até o ritual falhar|vai atrás de quem o conjura}
+492|Atua ao mesmo tempo no mundo físico e na realidade aumentada: {reage a quem mexe nos dados da cena|usa a RA para ver o que o inimigo não vê|ataca quem tenta cegá-lo na RA}
+493|Se alimenta do fluxo da Ressonância ao redor: {fica perto de dispositivos conectados|age mais forte onde há muita atividade de Matrix|perde força quando o fluxo é cortado} e evita lutar longe deles
+494|Usa o veneno ou a infecção como arma principal: {morde ou fere uma vez e se afasta|deixa o efeito agir enquanto se mantém fora do alcance|insiste no alvo já envenenado}
+495|Abre a luta com o efeito de medo, paralisia ou sopro: {usa antes do contato|em quem está mais perto do grupo|em quem tenta ajudar os feridos} e só depois ataca quem ficou parado
+496|Prende o alvo e {o mantém imobilizado|o arrasta para longe do grupo|o usa como escudo} antes de procurar outro
+497|Se esconde e some de vista: {aparece só para atacar|muda de lugar no escuro|usa o ambiente para não ser visto} e evita luta aberta

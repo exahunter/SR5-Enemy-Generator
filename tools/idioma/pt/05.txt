@@ -1,0 +1,449 @@
+823|resolve na porta: separa, expulsa e só escala se o cliente insistir; protege o local e a equipe
+824|quer a história, não a briga: foge para filmar de longe e só reage se acuado
+825|age em formação sob ordens: cobre setores, comunica tudo no rádio e recua em bloco quando a missão acaba
+826|Só saca depois de dar o aviso
+827|Mede o adversário antes de qualquer tiro
+828|Faz questão de que o outro atire primeiro
+829|duela de pistola pesada e investe em um único modelo
+830|Faz a ronda no mesmo horário todos os dias
+831|Apaga a luz antes de abrir a porta
+832|Bate no capacete para ver se ainda está firme
+833|vigia posições e investe em lanterna, sensores e armadura tática
+834|Assaltante (invasão)
+835|Conta os segundos em voz alta antes de entrar
+836|Entra sempre pela porta, nunca pela janela
+837|Usa a coronha para abrir caminho
+838|entra primeiro, perto e rápido, com arma curta automática
+839|Faqueiro (lâmina curta)
+840|Afia a lâmina em toda pausa
+841|Corta fruta só para exibir o fio
+842|Nunca deixa a faca longe da mão
+843|trabalha de perto com lâmina curta e prefere passar despercebido
+844|Posiciona-se sempre entre o cliente e a porta
+845|Olha as mãos de quem se aproxima
+846|Não bebe em serviço nem a água do cliente
+847|vive para manter alguém vivo e investe em reflexos e rádio
+848|Faz um silêncio longo depois de cada resposta
+849|Nunca levanta a voz
+850|Guarda a pergunta mais importante para o fim
+851|extrai informação com paciência e pressão, sem pressa de lutar
+852|Guarda tudo o que pode ser reaproveitado
+853|Dorme de olhos entreabertos
+854|Conhece o caminho da água em qualquer bairro
+855|se vira com pouco, em qualquer terreno, e carrega o que precisa
+856|Manipulador (magia mental)
+857|Faz gestos com as mãos mesmo sem conjurar
+858|Evita olhar nos olhos de quem enfeitiça
+859|prefere feitiços de manipulação e ilusão a causar dano
+860|Mira em um adversário só e dá a ele a chance de recuar antes do primeiro tiro.
+861|Ocupa o ponto de vigia e deixa a ameaça entrar na área que ele controla.
+862|Entra rápido, perto e barulhento para quebrar a linha de defesa antes de ela se formar.
+863|Chega pelo ponto cego e resolve a distância curta antes de o alvo reagir.
+864|Põe o corpo entre a ameaça e quem protege e só depois pensa em atacar.
+865|Prefere capturar e conversar; usa o medo e o silêncio antes da arma.
+866|Usa o terreno, a paciência e o que tiver à mão; não gasta nada além do necessário.
+867|Prefere dobrar a vontade do inimigo a derrubá-lo; só fere quando não tem outro jeito.
+868|Não muda de expressão nem quando é ferido
+869|Responde a gritos com um aceno de cabeça
+870|Faz o que precisa ser feito e não reclama
+871|Rói as unhas até no meio do trabalho
+872|Só quer que tudo isso acabe sem ninguém se ferir
+873|Brincalhão
+874|Faz piada até no meio do tiroteio
+875|Dá apelido ridículo a todos os inimigos
+876|Acha que rir é o melhor jeito de sobreviver
+877|Fala do próprio fim como se fosse certo
+878|Só aparece nas fotos de costas
+879|Já perdeu tanto que não tem medo de perder o resto
+880|Nunca pede ajuda, nem quando precisa
+881|Corrige quem erra o próprio nome
+882|Não aceita ser visto recuando
+883|Abre o que não devia só para ver o que tem dentro
+884|Para no meio da luta para olhar um objeto estranho
+885|Quer descobrir o que está por trás de tudo isso
+886|Guarda a lista de quem o ofendeu
+887|Nunca esquece um rosto
+888|Ainda cobra um acerto de contas antigo
+889|Toca num amuleto antes de cada passo importante
+890|Nunca entra num prédio pelo lado esquerdo
+891|Acredita que a sorte já escolheu um lado
+892|Reza em voz baixa antes de agir
+893|Beija um símbolo de fé pendurado no pescoço
+894|Acredita que o resultado já está nas mãos de algo maior
+895|Sempre sabe a saída e a oferta mais alta
+896|Troca de lado com um sorriso e sem culpa
+897|Fica do lado de quem estiver ganhando
+898|Conta os civis presentes antes de qualquer outra coisa
+899|Avança primeiro para os outros não precisarem
+900|Não suporta ver quem é mais fraco ser ferido
+901|Calcula as chances em voz baixa antes de agir
+902|Anota quanto cada decisão custou
+903|Só entra em luta quando as contas fecham
+904|Temerário
+905|Escolhe sempre o caminho mais perigoso
+906|Ri quando o risco aumenta
+907|Só se sente vivo quando está perto do fim
+908|Cínico
+909|Responde a tudo com sarcasmo
+910|Diz que já viu esse filme antes
+911|Não acredita em ninguém, mas aceita o pagamento
+912|Faz discursos curtos sobre o que é certo
+913|Acredita que sempre existe um jeito justo
+914|Luta por algo em que realmente acredita
+915|Obedece à ordem mesmo quando discorda
+916|Mantém o uniforme impecável até no meio da luta
+917|Cumpre a missão exatamente como foi dada
+918|Faz o contrário do que mandam só para provar
+919|Desconfia de qualquer autoridade
+920|Não aceita receber ordens de ninguém
+921|Fala sempre no mesmo tom, qualquer que seja a situação
+922|Nunca explica o que pretende fazer
+923|Trata cada trabalho como uma tarefa e mais nada
+924|Pede desculpa até a quem está apontando a arma
+925|Oferece ajuda a quem acabou de ferir
+926|Não quer machucar ninguém, mesmo no pior dia
+927|Mantém o plano mesmo depois de ele falhar
+928|Repete a mesma tática até funcionar
+929|Não larga uma decisão depois de tomada
+930|Boceja nos momentos mais tensos
+931|Pergunta quanto falta para o fim do turno
+932|Só quer ir para casa e dormir
+933|Conta quantos alvos derrubou a mais que os colegas
+934|Aposta com os colegas até no meio da missão
+935|Precisa provar que é o melhor do grupo
+936|Mantém o ritmo mesmo ferido; não muda de plano por pânico nem por provocação.
+937|Guarda Edge para o momento em que o grupo realmente precisa.
+938|Hesita antes de agir e procura confirmação; cede ao medo ao primeiro ferimento sério.
+939|Gasta Edge cedo para evitar dano, antes de saber se era preciso.
+940|Provoca e faz piada para quebrar o ritmo do inimigo e do próprio grupo.
+941|Gasta Edge em jogadas ousadas só para ver o resultado.
+942|Age como se o pior já tivesse acontecido; não se poupa e pouco recua.
+943|Raramente gasta Edge; prefere aceitar o resultado.
+944|Não recua primeiro nem pede ajuda; reage mal a qualquer humilhação.
+945|Gasta Edge para vencer um duelo pessoal, não para fugir.
+946|Se distrai com tudo o que é novo; investiga antes de agir.
+947|Gasta Edge para tirar proveito de algo que acabou de descobrir.
+948|Escolhe um alvo de ódio e o persegue, mesmo quando é arriscado.
+949|Gasta Edge para terminar o serviço contra quem o ofendeu.
+950|Segue rituais antes de agir e recusa o que lhe parece azar.
+951|Gasta Edge quando um sinal parece favorável.
+952|Age com calma e fé; aceita o risco como parte de um destino maior.
+953|Gasta Edge para salvar outra pessoa, nunca para se salvar.
+954|Observa quem está ganhando e se posiciona ao lado dele no último instante.
+955|Gasta Edge para sair por cima, quase sempre à custa de outro.
+956|Põe o corpo entre a ameaça e os que não sabem lutar; só avança depois de eles estarem a salvo.
+957|Gasta Edge para proteger alguém, antes de si.
+958|Faz as contas de risco e retorno e só ataca quando as chances são boas.
+959|Gasta Edge somente quando a conta compensa.
+960|Escolhe o caminho mais perigoso e avança sem olhar o custo.
+961|Gasta Edge cedo e várias vezes.
+962|Não confia em ninguém e esconde o que sente por trás de sarcasmo.
+963|Gasta Edge para evitar ser enganado.
+964|Luta pelo que considera certo e se recusa a quebrar os próprios princípios.
+965|Gasta Edge para proteger uma causa ou uma pessoa inocente.
+966|Cumpre a ordem recebida até o fim, mesmo quando a situação muda.
+967|Gasta Edge para cumprir a missão, não para se salvar.
+968|Desobedece à ordem por princípio e age por conta própria.
+969|Gasta Edge para fazer o contrário do que o plano manda.
+970|Trata a luta como tarefa: sem pressa, sem raiva e sem desperdício.
+971|Gasta Edge de forma fria e calculada, no momento certo.
+972|Evita ferir e procura resolver sem violência; hesita antes de matar.
+973|Gasta Edge para evitar que alguém se machuque.
+974|Repete a mesma tática até funcionar e não aceita mudar o plano.
+975|Gasta Edge para insistir no plano original.
+976|Quer terminar logo e evita risco extra; recua assim que o serviço permite.
+977|Raramente gasta Edge; quer economizar o pouco de energia que lhe resta.
+978|Disputa os melhores alvos com os próprios aliados e não deixa ninguém roubar o abate.
+979|Gasta Edge para ser o primeiro a derrubar o alvo.
+980|Cumprimenta o adversário antes de lutar
+981|Treina a mesma sequência em todo tempo livre
+982|Mede a distância com os pés antes de agir
+983|vive do estilo de luta e prefere resolver de perto, sem armas
+984|Confere duas vezes cada carga antes de armar
+985|Conta os passos até a distância segura
+986|Nunca trabalha com pressa, nem sob fogo
+987|prepara cargas e armadilhas e prefere armas leves para o resto
+988|Ajusta a corda antes de cada disparo
+989|Recolhe as flechas depois do combate
+990|Respira fundo e prende o ar antes de soltar
+991|prefere arcos e bestas pelo silêncio e troca por modelos melhores
+992|Combatente químico
+993|Toma a dose antes de entrar, e de novo quando o efeito cai
+994|Transpira e não para de se mexer
+995|Carrega as doses separadas por cor
+996|entra em combate sob efeito de drogas e aposta em resistência
+997|Desenha símbolos de proteção antes de entrar no local
+998|Olha o astral antes de olhar o resto
+999|Desconfia de qualquer espírito que não conhece
+1000|especialista em desfazer espíritos e proteger o grupo contra magia
+1001|Domador de sprites
+1002|Dá nome a cada sprite e confere se estão todos presentes
+1003|Fala baixo com as máquinas ao redor
+1004|Mantém os sprites ocupados antes de precisar deles
+1005|vive de sprites bem preparados e sempre guarda serviços para a hora crítica
+1006|Fecha a distância e luta do jeito do estilo, sem pressa e sem desperdiçar golpe.
+1007|Prepara o terreno com cargas e armadilhas antes do combate e luta para empurrar o inimigo até elas.
+1008|Atira de longe e em silêncio, trocando de posição a cada disparo para não ser localizado.
+1009|Entra sob efeito de droga, aguenta mais do que parece e paga o preço depois da luta.
+1010|Neutraliza espíritos e magia inimiga antes de qualquer outra coisa e protege o grupo contra o astral.
+1011|Põe os sprites para trabalhar primeiro e só então age; guarda os serviços para a hora crítica.
+1012|Procura a dose assim que a luta esfria
+1013|Tem as mãos trêmulas antes de agir
+1014|Só pensa em conseguir a próxima dose
+1015|Pragmático
+1016|Escolhe o que funciona, não o que é bonito
+1017|Larga uma posição perdida sem hesitar
+1018|Prefere agir sem avisar os outros
+1019|Escolhe sempre uma posição afastada do grupo
+1020|Não confia a vida a mais ninguém
+1021|Varre o ambiente de novo a cada minuto
+1022|Dorme pouco e sempre perto de uma saída
+1023|Não aceita ser pego de surpresa de novo
+1024|Age em função do efeito da droga: ousado enquanto dura e frágil depois que passa.
+1025|Gasta Edge para conseguir mais uma dose ou para segurar o efeito.
+1026|Escolhe o que funciona e abandona o que não funciona; recua assim que a posição está perdida.
+1027|Gasta Edge só quando o ganho é claro e imediato.
+1028|Age sozinho e se posiciona longe do grupo; só coopera quando não tem escolha.
+1029|Gasta Edge pensando apenas em si.
+1030|Observa o ambiente o tempo todo e dificilmente é pego de surpresa.
+1031|Gasta Edge para evitar uma emboscada ou um ataque pelas costas.
+1032|Dá nome à pistola e fala com ela
+1033|Gira a arma no dedo antes de guardar
+1034|Limpa a pistola em toda pausa
+1035|prefere pistolas e as troca por modelos melhores da mesma linha
+1036|Fuzileiro (automáticas)
+1037|Conta os tiros em voz baixa
+1038|Prefere rajadas curtas e briga com quem desperdiça munição
+1039|Sempre confere o pente antes de entrar
+1040|vive de fuzil ou submetralhadora e sobe para armas automáticas melhores
+1041|Atirador de precisão
+1042|Espera em silêncio absoluto e odeia ruído
+1043|Mede o vento molhando o dedo, mesmo dentro de casa
+1044|Nunca atira se não tiver certeza da fuga
+1045|atira de longe e investe em mira, silenciador e rifles melhores
+1046|Recarrega de forma teatral
+1047|Só confia em arma que faz barulho
+1048|prefere escopetas de curto alcance e armadura pesada
+1049|Estala os dedos antes de lutar
+1050|Prefere resolver na mão mesmo com arma à vista
+1051|Tem os nós dos dedos sempre ralados
+1052|resolve na mão e vira uma máquina de combate corpo a corpo
+1053|Lâmina
+1054|Afia a lâmina como quem reza
+1055|Dá nome à lâmina e nunca a empresta
+1056|Faz uma reverência rápida antes de atacar
+1057|luta de lâmina e cobiça lâminas cada vez melhores
+1058|Bastão e porrete
+1059|Bate o cassetete na palma da mão a cada passo
+1060|Prefere dar um susto a derramar sangue
+1061|Reclama de bala como "coisa de covarde"
+1062|resolve com bastão e investe em armadura
+1063|Lançador
+1064|Carrega pedras no bolso "só por precaução"
+1065|Mira em tudo que está longe, até sem motivo
+1066|arremessa de longe e troca por armas de arremesso melhores
+1067|Dá apelidos às torretas
+1068|Fala com o drone como se ele ouvisse
+1069|prefere armas montadas e de veículo
+1070|Sorri antes de qualquer má notícia
+1071|Nunca fecha um acordo sem uma taça na mão
+1072|Cita preços de cabeça, centavo por centavo
+1073|negocia, cultiva contatos e cuida da imagem
+1074|Muda de nome conforme o público
+1075|Nunca conta a mesma história duas vezes
+1076|Mente até quando a verdade ajudaria
+1077|engana, improvisa e muda de rosto com facilidade
+1078|Fala baixo para que todos se aproximem
+1079|Fica de pé quando todos estão sentados
+1080|Estala o pescoço antes de falar sério
+1081|domina pela presença e pelo medo
+1082|Líder nato
+1083|Dá ordens como quem pede um favor
+1084|Come sempre por último
+1085|Sabe o nome e a família de cada subordinado
+1086|comanda, inspira e mantém o grupo unido
+1087|Anfitrião refinado
+1088|Sabe qual garfo usar até no meio do tiroteio
+1089|Faz questão de oferecer bebida a todos
+1090|frequenta a alta sociedade e cuida do guarda-roupa
+1091|Repara em detalhes que ninguém pediu
+1092|repara em tudo e investe em sensores e equipamento de campo
+1093|persegue alvos e investe em rastreio
+1094|Anda sem fazer ruído, até na própria casa
+1095|Odeia ser tocado por surpresa
+1096|Só dorme com as costas na parede
+1097|se esconde, evita confronto direto e prefere equipamento discreto
+1098|Mexe em fechaduras só por hábito
+1099|Nunca sai sem uma ferramenta escondida
+1100|abre portas e furta, e investe em ferramentas
+1101|Tecnólogo
+1102|Conserta qualquer coisa que passa na mão
+1103|Desmonta o que acabou de ganhar
+1104|Digita no ar mesmo sem luvas
+1105|vive de computadores e equipamento eletrônico
+1106|Mecânico
+1107|Cheira o motor antes de ligar
+1108|Guarda sucata "para o futuro"
+1109|conserta, modifica e investe em ferramentas
+1110|Examina o ferimento dos outros antes de se defender
+1111|Não faz perguntas a quem sangra
+1112|Carrega um sedativo "só por segurança"
+1113|cuida de feridos e investe em kits médicos
+1114|Cientista de laboratório
+1115|Cheira os frascos antes de rotular
+1116|Fala em fórmulas quando está nervoso
+1117|pesquisa e investe em proteção química
+1118|Ás do volante
+1119|Não suporta ser passageiro
+1120|Conhece o trânsito da cidade pelo horário
+1121|Fala com o carro
+1122|vive atrás do volante e prefere equipamento de pilotagem
+1123|Corredor de rua
+1124|Foge antes que o perigo apareça
+1125|Conhece cada atalho do bairro
+1126|confia nas pernas antes das armas
+1127|Não desliga a tela nunca
+1128|Sente-se nu longe de uma conexão
+1129|invade hosts e aposta em furtividade e decks melhores
+1130|Combatente de Matrix
+1131|Caça outros hackers por esporte
+1132|duela com IC e hackers rivais
+1133|Guerreiro eletrônico
+1134|Reclama de qualquer ruído no sinal
+1135|Tem três backups de cada conexão
+1136|domina sinal, jamming e vigilância
+1137|Analista de dados
+1138|Tem tudo catalogado, até as piadas
+1139|Cita arquivos de cabeça
+1140|vive de busca, análise e proteção de dados
+1141|Dá nome a todos os sprites
+1142|Fala com a Matrix como se fosse alguém
+1143|foca em sprites e formas complexas
+1144|Controla sprites com disciplina militar
+1145|Anota cada serviço devido
+1146|prende e mantém sprites a seu serviço
+1147|Adepto de combate
+1148|Aquece em silêncio antes de cada confronto
+1149|Recusa armas de fogo por princípio
+1150|luta com o corpo e investe em poderes de combate
+1151|Adepto sombra
+1152|Some do cômodo sem ninguém notar
+1153|Nunca dorme duas noites no mesmo lugar
+1154|se move sem ser visto e aposta em poderes furtivos
+1155|Adepto face
+1156|Usa a voz como instrumento e a ensaia antes de reuniões
+1157|Nunca levanta a voz, nunca precisa
+1158|persuade com presença e poderes de adepto sociais
+1159|Mago de combate
+1160|Pronuncia as palavras do feitiço em voz baixa
+1161|Evita qualquer arma de fogo "por princípio"
+1162|prefere feitiços de combate e manipulação
+1163|Cuida de quem encontra, amigo ou não
+1164|Recusa-se a causar dano letal
+1165|prefere feitiços de saúde e detecção
+1166|Adora um truque teatral
+1167|Nunca revela como fez
+1168|prefere feitiços de ilusão e detecção
+1169|Fala com os espíritos como se fossem sócios
+1170|Nunca invoca sem oferecer algo
+1171|vive de espíritos e foca em invocação
+1172|Olha demais para o ar ao redor das pessoas
+1173|Sempre comenta a "cor" de quem entra na sala
+1174|lê auras e foca em detecção
+1175|Ás do volante (rigger)
+1176|Sente o veículo como parte do corpo
+1177|Dá nome ao veículo
+1178|vive de pilotagem e sobe para veículos melhores
+1179|Artilheiro de drones
+1180|Cobra de cada drone uma taxa de acerto
+1181|prefere drones armados e sistemas de arma
+1182|Engenheiro de campo
+1183|Conserta no meio do fogo cruzado
+1184|Guarda parafusos soltos no bolso
+1185|mantém a frota e aposta em customização
+1186|Provoca antes de qualquer conversa
+1187|Sorri quando alguém recua
+1188|Gosta da briga mais do que do pagamento
+1189|Confere as saídas antes de sentar
+1190|Nunca fica em campo aberto
+1191|Só quer chegar vivo ao fim do turno
+1192|Metódico
+1193|Segue a mesma rotina todos os dias
+1194|Ordena os itens por tamanho
+1195|Tem um plano para tudo e não tolera improviso
+1196|Troca de plano no meio do plano
+1197|Vive o dia de hoje sem se preocupar com o amanhã
+1198|Reconta o dinheiro todas as vezes
+1199|Diz o preço de tudo em voz alta
+1200|Reaproveita tudo, até munição vazia
+1201|Nunca troca de equipamento sem necessidade
+1202|Guarda cada nuyen para uma emergência
+1203|Checa o reflexo em qualquer superfície
+1204|Só usa marcas conhecidas
+1205|Quer ser admirado por onde passa
+1206|Desconfia até do próprio comlink
+1207|Acredita que todos querem derrubá-lo
+1208|Conta os companheiros antes de agir
+1209|Segura o pior trabalho para si
+1210|Daria a vida pelo grupo
+1211|Suor frio ao ouvir um tiro
+1212|Procura a saída antes de qualquer coisa
+1213|Só quer sair vivo
+1214|Fanático
+1215|Reza antes de cada decisão
+1216|Cita doutrina em plena luta
+1217|Acredita numa causa maior que a própria vida
+1218|Tecnófilo
+1219|Instala melhorias sem ler o manual
+1220|Reclama de aparelho com mais de um ano
+1221|Quer o melhor equipamento disponível
+1222|Desconfia de qualquer coisa "artificial"
+1223|Come só alimento sem aditivo
+1224|Acha que o corpo vale mais que qualquer chip
+1225|Prolonga o susto de propósito
+1226|Ri de onde ninguém acha graça
+1227|Gosta de ver o medo nos outros
+1228|Nunca atira em quem está desarmado
+1229|Cumpre a palavra, custe o que custar
+1230|Tem um código que não quebra por dinheiro
+1231|Já viu pior e comenta sempre
+1232|Lembra o nome de cada operação
+1233|Ainda carrega o peso de um antigo trabalho
+1234|Uma
+1235|Abre de cobertura, em tiros únicos e precisos no alvo mais perigoso.
+1236|Controla o espaço com rajadas curtas e deixa o outro lado sem coragem de levantar a cabeça.
+1237|Escolhe posição elevada, afastada e com rota de fuga antes do primeiro tiro.
+1238|Quer o combate curto: fecha a distância e descarrega.
+1239|Prefere armas montadas: escolhe posição e deixa o poder de fogo trabalhar.
+1240|Fecha a distância o mais rápido possível e resolve na mão.
+1241|Duela um alvo por vez e mantém o alcance a seu favor.
+1242|Usa presença e força bruta para dominar; prefere o susto ao sangue.
+1243|Atira à distância, em movimento, e nunca fica parado na mesma linha.
+1244|Tenta resolver na conversa e só cede ao confronto quando percebe que perdeu o argumento.
+1245|Esconde o que sabe, mente primeiro e luta por último.
+1246|Domina pela presença: a ameaça vem antes do golpe.
+1247|Coordena antes de agir: o grupo funciona melhor se ele estiver vivo e falando.
+1248|Mantém a compostura: o conflito é um jantar que deu errado.
+1249|Passa a maior parte do tempo vendo; só se mexe quando sabe o que cada um vai fazer.
+1250|Persegue o alvo e desconsidera o resto.
+1251|Prefere não ser notado: age da sombra e some antes de o outro entender.
+1252|Atua no meio da confusão: pega o que importa e sai.
+1253|Evita o combate: o plano é chegar antes e sair antes.
+1254|Resolve o problema técnico antes do problema de combate.
+1255|Usa a oficina como arma: ferramentas, veículos e peças soltas.
+1256|Estabiliza antes de lutar: o primeiro ferido é a prioridade.
+1257|Observa, mistura, joga: o laboratório é a arma.
+1258|Usa o veículo como cobertura, arma e saída.
+1259|A luta mais importante acontece na Matrix: abre as portas e fecha os olhos do inimigo.
+1260|Procura outros hackers e caça a persona deles.
+1261|Domina o sinal: o inimigo que não se comunica não coordena.
+1262|Informação é sua arma: pesquisa, cruza dados e decide depois.
+1263|Compila sprites antes de agir; o sprite luta no lugar dele.
+1264|Prende sprites e os mantém a serviço do grupo.
+1265|Abre com feitiço de combate e mantém distância segura.
+1266|Prioriza manter o grupo de pé e só entra na luta se não houver ferido.
+1267|Confunde antes de ferir: o inimigo que duvida dos sentidos não atira bem.
+1268|Chama o espírito e cuida da linha de frente com ele.
+1269|Vê o que ninguém vê e usa isso a seu favor.
+1270|Opera o veículo como se fosse o corpo: cobertura, arma e fuga no mesmo.
+1271|Comanda os drones armados; ele fica longe e eles fazem o barulho.

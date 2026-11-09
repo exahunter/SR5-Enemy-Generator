@@ -1,0 +1,964 @@
+{
+"TRAD": [
+[
+"Hermetic",
+"19320625-bc1a-492f-8904-da6a847e5700",
+"{WIL} + {LOG}",
+"SR5",
+"279",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Air",
+"Health": "Spirit of Man",
+"Illusion": "Spirit of Water",
+"Manipulation": "Spirit of Earth"
+}
+],
+[
+"Shamanic",
+"8d185e0e-5f49-4992-babd-d1ac9c848f68",
+"{WIL} + {CHA}",
+"SR5",
+"279",
+{
+"Combat": "Spirit of Beasts",
+"Detection": "Spirit of Water",
+"Health": "Spirit of Earth",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Man"
+}
+],
+[
+"Aztec",
+"4fba452f-a240-4530-82b6-5ffd4bb83f28",
+"{WIL} + {CHA}",
+"SG",
+"41",
+{
+"Combat": "Guardian Spirit",
+"Detection": "Spirit of Fire",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Water",
+"Manipulation": "Spirit of Beasts"
+}
+],
+[
+"Black Magic",
+"66ceefed-2cb1-4027-96ca-756ab4eed7ad",
+"{WIL} + {CHA}",
+"SG",
+"41",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Water",
+"Health": "Spirit of Earth",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Man"
+}
+],
+[
+"Buddhism",
+"a283220f-2197-4526-b15a-331b9185b326",
+"{WIL} + {INT}",
+"SG",
+"43",
+{
+"Combat": "Spirit of Air",
+"Detection": "Guidance Spirit",
+"Health": "Spirit of Earth",
+"Illusion": "Spirit of Fire",
+"Manipulation": "Spirit of Water"
+}
+],
+[
+"Chaos Magic",
+"20b8e39f-a956-49bd-b417-6e1bd4a14604",
+"{WIL} + {INT}",
+"SG",
+"44",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Air",
+"Health": "Spirit of Earth",
+"Illusion": "Spirit of Man",
+"Manipulation": "Spirit of Water"
+}
+],
+[
+"Christian Theurgy",
+"5d98ea69-29b1-4fb4-b9f3-56396d1dce16",
+"{WIL} + {CHA}",
+"SG",
+"44",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Water",
+"Health": "Spirit of Air",
+"Illusion": "Spirit of Earth",
+"Manipulation": "Guidance Spirit"
+}
+],
+[
+"Druid",
+"fb6f9683-47bb-4b04-9d15-4b59a003bf69",
+"{WIL} + {INT}",
+"SG",
+"45",
+{
+"Combat": "Spirit of Beasts",
+"Detection": "Spirit of Water",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Earth"
+}
+],
+[
+"Hinduism",
+"2c924aa1-2298-4b02-b28b-946d0769dbd3",
+"{WIL} + {LOG}",
+"SG",
+"46",
+{
+"Combat": "Spirit of Beasts",
+"Detection": "Spirit of Water",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Earth"
+}
+],
+[
+"Islam",
+"9acc0a3e-3209-4274-9c98-4cbc42c456a7",
+"{WIL} + {LOG}",
+"SG",
+"46",
+{
+"Combat": "Guardian Spirit",
+"Detection": "Spirit of Earth",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Fire"
+}
+],
+[
+"Path of the Wheel",
+"7f6073fd-e7f3-41f5-a40f-2a5b1cde382e",
+"{WIL} + {CHA}",
+"SG",
+"47",
+{
+"Combat": "Spirit of Earth",
+"Detection": "Guidance Spirit",
+"Health": "Spirit of Air",
+"Illusion": "Spirit of Water",
+"Manipulation": "Spirit of Fire"
+}
+],
+[
+"Qabbalism",
+"c3604051-9f2b-4cc3-9525-f3029c611926",
+"{WIL} + {LOG}",
+"SG",
+"48",
+{
+"Combat": "Spirit of Air",
+"Detection": "Spirit of Earth",
+"Health": "Spirit of Fire",
+"Illusion": "Spirit of Water",
+"Manipulation": "Task Spirit"
+}
+],
+[
+"Quimbanda",
+"93604cb7-2e12-47be-9c2d-4b227439f07b",
+"{WIL} + {CHA}",
+"SFME",
+"13",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Water",
+"Health": "Spirit of Earth",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Man"
+}
+],
+[
+"Shinto",
+"9abbebc1-48a3-4dde-960a-af565b163a3d",
+"{WIL} + {CHA}",
+"SG",
+"48",
+{
+"Combat": "Spirit of Air",
+"Detection": "Spirit of Water",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Beasts",
+"Manipulation": "Spirit of Man"
+}
+],
+[
+"Sioux",
+"e548b126-5df3-4da5-a603-c0b6b252e982",
+"{WIL} + {INT}",
+"SG",
+"49",
+{
+"Combat": "Spirit of Beasts",
+"Detection": "Plant Spirit",
+"Health": "Spirit of Fire",
+"Illusion": "Spirit of Air",
+"Manipulation": "Guardian Spirit"
+}
+],
+[
+"Vodou",
+"35ecfae9-0c2d-4084-a899-e91c230e209d",
+"{WIL} + {CHA}",
+"SG",
+"50",
+{
+"Combat": "Guardian Spirit",
+"Detection": "Spirit of Water",
+"Health": "Spirit of Man",
+"Illusion": "Guidance Spirit",
+"Manipulation": "Task Spirit"
+}
+],
+[
+"Wicca, Gardnerian",
+"24601762-ef67-44d8-b974-03f626db848a",
+"{WIL} + {LOG}",
+"SG",
+"50",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Water",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Earth"
+}
+],
+[
+"Wicca, Goddess",
+"895b2dd2-f401-477e-9cb5-a5620598582e",
+"{WIL} + {INT}",
+"SG",
+"50",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Water",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Earth"
+}
+],
+[
+"Wuxing",
+"0cd0412c-cba4-4417-bc8f-f785fa5b821d",
+"{WIL} + {LOG}",
+"SG",
+"51",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Earth",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Water",
+"Manipulation": "Guidance Spirit"
+}
+],
+[
+"Zoroastrianism",
+"9f4bae13-56fd-43ac-a6aa-8e2384018065",
+"{WIL} + {LOG}",
+"SG",
+"52",
+{
+"Combat": "Spirit of Man",
+"Detection": "Spirit of Water",
+"Health": "Spirit of Fire",
+"Illusion": "Spirit of Air",
+"Manipulation": "Plant Spirit"
+}
+],
+[
+"Insect Shaman",
+"0d13bad3-9fa2-45fb-879c-068916944e1b",
+"{WIL} + {INT}",
+"SG",
+"94",
+{
+"Combat": "Soldier Spirit",
+"Detection": "Scout Spirit",
+"Health": "Caretaker Spirit",
+"Illusion": "Nymph Spirit",
+"Manipulation": "Worker Spirit"
+}
+],
+[
+"Aboriginal",
+"b8b6ba39-5f5e-4581-9145-6409bd59776c",
+"{WIL} + {CHA}",
+"SSP",
+"3",
+{
+"Combat": "Spirit of Beasts",
+"Detection": "Spirit of Earth",
+"Health": "Plant Spirit",
+"Illusion": "Guidance Spirit",
+"Manipulation": "Spirit of Air"
+}
+],
+[
+"Egyptian",
+"30109563-d9cb-4ced-b06b-6c3d0c4f5a34",
+"{WIL} + {INT}",
+"SSP",
+"3",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Earth",
+"Health": "Spirit of Air",
+"Illusion": "Guidance Spirit",
+"Manipulation": "Spirit of Water"
+}
+],
+[
+"Norse",
+"43bc28ad-8818-4062-9b55-317f45d1e04e",
+"{WIL} + {LOG}",
+"SSP",
+"4",
+{
+"Combat": "Guardian Spirit",
+"Detection": "Spirit of Earth",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Fire"
+}
+],
+[
+"Psionic",
+"cc9f9b43-ef41-4581-8f9c-e1000e5a1578",
+"{WIL} + {INT}",
+"SSP",
+"5",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Air",
+"Health": "Spirit of Man",
+"Illusion": "Guidance Spirit",
+"Manipulation": "Task Spirit"
+}
+],
+[
+"Obeah",
+"acbf5a08-cd21-410d-8d04-4e12cca8a927",
+"{WIL} + {CHA}",
+"HT",
+"130",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Water",
+"Health": "Spirit of Man",
+"Illusion": "Guidance Spirit",
+"Manipulation": "Task Spirit"
+}
+],
+[
+"Santeria",
+"81789f32-779d-488e-ac76-d1005b5a2d2a",
+"{WIL} + {INT}",
+"HT",
+"130",
+{
+"Combat": "Guidance Spirit",
+"Detection": "Guardian Spirit",
+"Health": "Spirit of Earth",
+"Illusion": "Spirit of Man",
+"Manipulation": "Spirit of Water"
+}
+],
+[
+"Cosmic",
+"54944188-d58b-4a45-859c-d62be9f966c2",
+"{WIL} + {LOG}",
+"FA",
+"75",
+{
+"Combat": "Spirit of Earth",
+"Detection": "Guidance Spirit",
+"Health": "Spirit of Water",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Fire"
+}
+],
+[
+"Draconic",
+"9394d173-eee7-4e5a-b520-edfdfac3cf8b",
+"{WIL} + {MAG}",
+"FA",
+"76",
+{
+"Combat": "All",
+"Detection": "All",
+"Health": "All",
+"Illusion": "All",
+"Manipulation": "All"
+}
+],
+[
+"Green Magic",
+"61819d3f-2ca6-4e1e-9d66-5d94c1560733",
+"{WIL} + {CHA}",
+"FA",
+"80",
+{
+"Combat": "Plant Spirit",
+"Detection": "Spirit of Earth",
+"Health": "Spirit of Water",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Fire"
+}
+],
+[
+"Necro Magic",
+"68a35424-6de8-4922-95ec-eb289838acb2",
+"{WIL} + {LOG}",
+"FA",
+"82",
+{
+"Combat": "Corpse Spirit",
+"Detection": "Carcass Spirit",
+"Health": "Rot Spirit",
+"Illusion": "Detritus Spirit",
+"Manipulation": "Palefire Spirit"
+}
+],
+[
+"Olympianism",
+"f87723cf-ed66-4372-8064-365151dd1089",
+"{WIL} + {LOG}",
+"FA",
+"84",
+{
+"Combat": "Guardian Spirit",
+"Detection": "Spirit of Air",
+"Health": "Spirit of Earth",
+"Illusion": "Spirit of Water",
+"Manipulation": "Spirit of Fire"
+}
+],
+[
+"Planar Magic",
+"eca20088-da31-4b00-bf81-93db882f3575",
+"{WIL} + {LOG}",
+"FA",
+"87",
+{
+"Combat": "Guardian Spirit",
+"Detection": "Guidance Spirit",
+"Health": "Spirit of Water",
+"Illusion": "Spirit of Air",
+"Manipulation": "Task Spirit"
+}
+],
+[
+"Red Magic",
+"a5c6f673-bd53-4e70-a574-af2f5a1c2e60",
+"{WIL} + {INT}",
+"FA",
+"88",
+{
+"Combat": "Spirit of Beasts",
+"Detection": "Spirit of Air",
+"Health": "Spirit of Water",
+"Illusion": "Spirit of Earth",
+"Manipulation": "Spirit of Man"
+}
+],
+[
+"Romani",
+"bd5bb80f-d1be-4ec8-b972-af45dc05e0fb",
+"{WIL} + {WIL}",
+"FA",
+"90",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Air",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Water",
+"Manipulation": "Spirit of Earth"
+}
+],
+[
+"Ancestor Shaman",
+"10c2a345-3bbf-4368-b093-e1da08530f12",
+"{WIL} + {CHA}",
+"FA",
+"74",
+{
+"Combat": "Spirit of Beasts",
+"Detection": "Spirit of Water",
+"Health": "Spirit of Earth",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Man"
+}
+],
+[
+"Tarot",
+"2cd90e8a-3674-470e-b95d-eb80c008fc4a",
+"{WIL} + {LOG}",
+"FA",
+"91",
+{
+"Combat": "Spirit of Air",
+"Detection": "Spirit of Fire",
+"Health": "Spirit of Water",
+"Illusion": "Spirit of Man",
+"Manipulation": "Spirit of Earth"
+}
+],
+[
+"Armanentradition",
+"9147b372-b55f-4b4b-8f24-04a4dd05aa1a",
+"{WIL} + {LOG}",
+"SAG",
+"111",
+{
+"Combat": "Guardian Spirit",
+"Detection": "Guidance Spirit",
+"Health": "Spirit of Earth",
+"Illusion": "Spirit of Water",
+"Manipulation": "Task Spirit"
+}
+],
+[
+"Dianism",
+"7d2ee0fa-92ab-4fec-86c9-e2f3964456e7",
+"{WIL} + {INT}",
+"SAG",
+"112",
+{
+"Combat": "Spirit of Beasts",
+"Detection": "Spirit of Fire",
+"Health": "Spirit of Air",
+"Illusion": "Spirit of Water",
+"Manipulation": "Spirit of Man"
+}
+],
+[
+"Frisian Magic",
+"a8f9687a-0999-4509-87a2-4b122fb2187c",
+"{WIL} + {LOG}",
+"SAG",
+"113",
+{
+"Combat": "Spirit of Water",
+"Detection": "Spirit of Earth",
+"Health": "Guidance Spirit",
+"Illusion": "Spirit of Air",
+"Manipulation": "Plant Spirit"
+}
+],
+[
+"Magic of Roma and Street Nomads",
+"27109795-aead-463c-848c-fa63e5aa11cd",
+"{WIL} + {CHA}",
+"SAG",
+"114",
+{
+"Combat": "Guardian Spirit",
+"Detection": "Spirit of Beasts",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Man"
+}
+],
+[
+"Svetoid",
+"4eaf37d8-1fa9-4ba3-898a-3130a62fe09e",
+"{WIL} + {CHA}",
+"SAG",
+"115",
+{
+"Combat": "Spirit of Earth",
+"Detection": "Guidance Spirit",
+"Health": "Plant Spirit",
+"Illusion": "Spirit of Man",
+"Manipulation": "Spirit of Water"
+}
+],
+[
+"Troll Shamanism",
+"232c8cfe-b70a-4fb8-9dc3-ecc993cf6203",
+"{WIL} + {CHA}",
+"SAG",
+"115",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Earth",
+"Health": "Guardian Spirit",
+"Illusion": "Spirit of Water",
+"Manipulation": "Plant Spirit"
+}
+],
+[
+"Dark Magic",
+"66826a89-61fb-4f4d-99d9-d96c0956b83f",
+"{WIL} + {CHA}",
+"DTR",
+"165",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Earth",
+"Health": "Spirit of Water",
+"Illusion": "Spirit of Air",
+"Manipulation": "Spirit of Man"
+}
+],
+[
+"Dr. Singer School",
+"c0405095-5304-4fbd-b955-203a11f88b73",
+"{WIL} + {CHA}",
+"DATG",
+"40",
+{
+"Combat": "Spirit of Beasts",
+"Detection": "Task Spirit",
+"Health": "Spirit of Earth",
+"Illusion": "Guidance Spirit",
+"Manipulation": "Spirit of Man"
+}
+],
+[
+"Storm Children",
+"53a919e6-739d-4418-aaff-79e9df17e3b6",
+"{WIL} + {INT}",
+"DATG",
+"41",
+{
+"Combat": "Spirit of Fire",
+"Detection": "Spirit of Beasts",
+"Health": "Spirit of Earth",
+"Illusion": "Plant Spirit",
+"Manipulation": "Spirit of Air"
+}
+]
+],
+"FOCI": [
+[
+"Alchemical Focus",
+"93d81bd8-52bf-4461-b2da-394aca4ce262",
+5000,
+3,
+"R",
+"SR5",
+"318"
+],
+[
+"Disenchanting Focus",
+"1efc3ad3-c5d7-4534-ab97-a059f08f1b74",
+5000,
+3,
+"R",
+"SR5",
+"319"
+],
+[
+"Centering Focus",
+"12e54f08-070f-421c-a523-c0088cbafcfc",
+9000,
+3,
+"R",
+"SR5",
+"319"
+],
+[
+"Flexible Signature Focus",
+"e946041a-0c16-49a5-811f-dfd2fba0ae8f",
+9000,
+3,
+"R",
+"SR5",
+"319"
+],
+[
+"Masking Focus",
+"62df3c6c-d080-4db9-98c0-24fc5e9a0604",
+9000,
+3,
+"R",
+"SR5",
+"319"
+],
+[
+"Spell Shaping Focus",
+"ff779a68-a360-4a68-9e57-9a363b5de0d0",
+9000,
+3,
+"R",
+"SR5",
+"319"
+],
+[
+"Power Focus",
+"62bfb38d-5515-440b-83ed-289ed926d27e",
+18000,
+4,
+"R",
+"SR5",
+"319"
+],
+[
+"Qi Focus",
+"a64c073c-8aa9-4383-b885-267f8ce1ea99",
+3000,
+3,
+"R",
+"SR5",
+"319"
+],
+[
+"Counterspelling Focus, Combat",
+"30bdbf30-929a-4221-9982-f9de8574f87b",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Ritual Spellcasting Focus, Combat",
+"e1b66500-1c39-4747-87a6-071b8b1966cc",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Spellcasting Focus, Combat",
+"2f485376-54c1-41be-8678-79cc98e04ebc",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Sustaining Focus, Combat",
+"39f2f34b-14e2-47f3-8e24-a401015a645a",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Counterspelling Focus, Detection",
+"a56807b8-e430-479d-847d-e0e294b5e937",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Ritual Spellcasting Focus, Detection",
+"2c465730-38cb-41d4-9d19-366435fb71bb",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Spellcasting Focus, Detection",
+"90885434-a40c-416d-8eb3-2d93b96414c2",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Sustaining Focus, Detection",
+"724d1b39-72e9-4df3-aba1-b4ccbe56f32c",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Counterspelling Focus, Health",
+"49e7fc11-d3c6-4021-9162-cdf217a4579a",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Ritual Spellcasting Focus, Health",
+"41842bc7-e48b-446c-b5ce-73f8399f64c0",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Spellcasting Focus, Health",
+"630114f3-b538-4a4f-ad02-36df0e577d9c",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Sustaining Focus, Health",
+"1e024c0b-d43b-49b1-87e0-c4e4474645fe",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Counterspelling Focus, Illusion",
+"8f69fd55-e5ff-404f-99ec-45a9c8498657",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Ritual Spellcasting Focus, Illusion",
+"db0e5016-8ae3-4190-ad94-fe3f318f3f3f",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Spellcasting Focus, Illusion",
+"aa849313-adf9-4134-b86b-1f6a15f6620f",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Sustaining Focus, Illusion",
+"e491973f-0bb0-4297-9c32-f02a483ecc8e",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Counterspelling Focus, Manipulation",
+"2f4f52bb-a198-4d7a-ab4c-d82de4f80cbf",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Ritual Spellcasting Focus, Manipulation",
+"7057c240-d998-4b45-a119-de8a3ffaa717",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Spellcasting Focus, Manipulation",
+"8783e50c-f80b-4efe-b440-d2963b55c54e",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Sustaining Focus, Manipulation",
+"d6cae23b-0d69-4505-a98c-a75876b457ed",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Summoning Focus",
+"469f16ea-fe25-4f01-b663-166442850018",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Banishing Focus",
+"5fae16cf-c68c-46e8-91b2-ca5220824ba5",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Binding Focus",
+"082b52f1-9109-40aa-bf0e-8cb364fa2f8c",
+4000,
+3,
+"R",
+"SR5",
+"320"
+],
+[
+"Weapon Focus",
+"25b0168d-7052-4f76-b8e5-162d67b8ab6e",
+7000,
+4,
+"R",
+"SR5",
+"320"
+]
+],
+"REAG": [
+[
+"Reagents, per dram",
+"ef37af30-1204-4918-af66-dfbdd33cd045",
+20.0,
+"0",
+"SR5",
+"317"
+],
+[
+"Refined Reagents",
+"76e908e1-9f0b-4846-bf9e-d9a3b7fe0e7c",
+350.0,
+"6",
+"SSP",
+"24"
+],
+[
+"Radical Reagents",
+"377cfe85-9280-46f9-a0c6-570b862fea70",
+4500.0,
+"8",
+"SSP",
+"24"
+]
+]
+}

@@ -1,0 +1,6 @@
+2424|Predador
+2425|Territorial
+2426|Emboscador
+2427|Sapiente
+2428|Sprite (compilado)
+2429|poder: 

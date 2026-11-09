@@ -1,0 +1,1 @@
+try{['cver','cset'].forEach(i=>{const e=document.getElementById(i),v=localStorage.getItem('sr5_'+i);if(v)e.value=v;e.addEventListener('input',()=>{try{localStorage.setItem('sr5_'+i,e.value)}catch(x){avisa('campos-persistentes',x)}})})}catch(x){avisa('campos-persistentes',x)}
