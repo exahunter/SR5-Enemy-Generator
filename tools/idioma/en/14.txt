@@ -1,0 +1,6 @@
+2424|Predator
+2425|Territorial
+2426|Ambusher
+2427|Sapient
+2428|Sprite (compiled)
+2429|power: 

@@ -1,0 +1,205 @@
+1815|Salva todas as fichas, favoritos e travas; reimporte com “Importar fichas”
+1816|.chum5, .xml, .zip ou backup .json
+1817|Rerrolar todos (não favoritos)
+1818|Rerrola cada ficha respeitando as travas dela
+1819|Confirmar rerrolar todos?
+1820|rerrolar todos (
+1821|Volta ao estado anterior à última ação em várias fichas (apagar, rerrolar todos). Fica guardado mesmo se você recarregar a página
+1822|Apagar não favoritos
+1823|Confirmar: apagar
+1824| não favoritos
+1825| todos
+1826|Favorita: protegida contra apagar e contra “Rerrolar todos”. Clique para desmarcar
+1827|Favoritar: protege esta ficha contra apagar
+1828|Favorita: tire a estrela para apagar
+1829|ficha apagada: 
+1830|Nível de competência
+1831|<span title="Critter muito forte: foi gerado no nível mínimo dele (
+1832|) em vez de 
+1833|. Você pode baixar manualmente com o botão −." style="color:#d9822b;margin:0 4px">⚠ gerado no mínimo (
+1834|); dá para baixar com −</span>
+1835|<span title="A partir do nível 11 o teto dos atributos sobe gradualmente até o dobro do máximo natural do metatipo (no nível 100)" style="color:#d9822b;margin:0 4px">⚠</span>
+1836|Clique para ajustar o nível
+1837|Gera a ficha inteira de novo, respeitando o que está travado
+1838|Sair do modo de travar
+1839|Travar: ative e clique nos elementos da ficha que devem ser mantidos ao rerrolar (
+1840|Sair do modo de rerrolar
+1841|Rerrolar parte: ative e clique no elemento da ficha que deve ser gerado de novo (o resto fica como está)
+1842|Peculiaridade
+1843|Em combate
+1844|Cultura
+1845| <span class="note">(idioma nativo 
+1846|Histórico
+1847|na ficha (perícia, conhecimento ou conduta)
+1848|item da ficha
+1849|<span class="note">nenhum marcador de ficha (só as táticas refletem este estilo)</span>
+1850|<div class="ps"><div><b>{0}</b> <span class="note">temperamento</span></div><div class="chips">{1}</div></div>
+1851|<details class="ptat"><summary>Abertura, postura e Edge</summary>⏎  {0}⏎  {1}⏎  {2}</details>
+1852|<p class="note">Manias: {0}</p>
+1853|<div class="pers" data-lk="pers"><div class="ph"><b>Perfil de atuação</b> <span class="note">{0} marcador{1} na ficha ({2} de equipamento, magia ou implante)</span></div><div class="pbar">{3}</div>{4}{5}{6}</div>
+1854|Vínculo do grupo
+1855|Lealdade ao líder
+1856|<div class="row"><span>Relação</span><span>{0}</span></div>
+1857|Munição
+1858|Precisão
+1859|Ocultação
+1860|Proc. dados
+1861|Nível 
+1862| · Seleção: 
+1863|Qualidade 
+1864| de carma
+1865|Escolha: 
+1866|/mês · 
+1867| · Armadura 
+1868|de fábrica
+1869|Armadura 
+1870|fonte não informada
+1871|Livro e página não conhecidos: leia a pasta do Chummer (painel “Ler a pasta do Chummer e índice mestre”) para o gerador achar onde este item está.
+1872|Você ainda não enviou o PDF de 
+1873|): envie-o no painel “Livros em PDF” para ver aqui o texto do livro.
+1874|Leia de novo o PDF de 
+1875|este livro
+1876| (painel “Livros em PDF”) para ver aqui o texto do livro.
+1877|Texto do livro não achado: 
+1878|">abrir o PDF nessa página</a></div>
+1879|<p class="note">… (o texto completo está no livro)</p>
+1880| Copie o texto abaixo e salve como <b>
+1881|Download indisponível neste visualizador.
+1882|Salvo. Se o nome terminar em .txt, remova essa parte.
+1883|erro
+1884|Nada para exportar.
+1885|Não foi possível gerar o .zip neste visualizador.
+1886|<div>Solte para importar fichas<small>.chum5, .xml, .zip ou backup .json</small></div>
+1887|Formato não suportado. Use .chum5, .xml, .zip ou backup .json.
+1888| (digite no campo para repetir)
+1889|Não consegui ler um dos arquivos XML.
+1890|Dados do Chummer carregados do armazenamento deste site.
+1891|Processando arquivos guardados (só desta vez)…
+1892|<button type="button" id="blankb" title="Cria uma ficha vazia para preencher à mão">Ficha em branco</button>
+1893|<button type="button" class="ex" data-a="{0}" data-i="{1}" title="Remover" aria-label="Remover">×</button>
+1894|<summary>Editar ficha</summary><div class="edb">
+1895|Metatipo
+1896|Perícias
+1897|<div class="el2" data-g="sk">{0}</div><div class="ea"><span class="eaw"><input autocomplete="off" placeholder="perícia" data-f="sk" class="ei"><div class="eac" data-r="sk" hidden></div></span><input type="number" min="1" max="24" value="3" data-f="skv" style="width:56px"><button type="button" data-a="ska">+</button></div>
+1898|<span class="note">nenhuma</span>
+1899|Conhecimentos
+1900|<input type="text" value="{0}" data-a="know" class="ew" placeholder="separados por vírgula"><input type="text" value="{1}" data-a="lang" placeholder="idioma nativo" style="width:150px">
+1901|<div class="el2" data-g="q">{0}</div><div class="ea"><span class="eaw"><input autocomplete="off" placeholder="qualidade" data-f="q" class="ei"><div class="eac" data-r="q" hidden></div></span><input type="number" min="0" max="40" value="5" data-f="qc" style="width:56px" title="Carma"><select data-f="qt"><option value="Positive">+</option><option value="Negative">−</option></select><button type="button" data-a="qa">+</button></div>
+1902|<div class="el2" data-g="g">{0}</div><div class="ea"><span class="eaw"><input type="search" autocomplete="off" placeholder="buscar item (arma, armadura, gear, cyber…)" data-f="g" class="ei"><div class="eac" data-r="g" hidden></div></span><button type="button" data-a="gc" title="Item personalizado com o nome digitado">personalizado</button><input type="number" min="0" value="0" data-f="gcost" style="width:80px" title="Custo em ¥"></div>
+1903|<span class="note">nenhum</span>
+1904|Mundano
+1905|<div class="el2" data-g="sp">{0}</div><div class="ea"><span class="eaw"><input autocomplete="off" placeholder="feitiço" data-f="sp" class="ei"><div class="eac" data-r="sp" hidden></div></span><button type="button" data-a="spa">+</button></div>
+1906|<span class="note">nenhum feitiço</span>
+1907|<div class="el2" data-g="pw">{0}</div><div class="ea"><span class="eaw"><input autocomplete="off" placeholder="poder de adepto" data-f="pw" class="ei"><div class="eac" data-r="pw" hidden></div></span><input type="number" min="1" max="6" value="1" data-f="pwl" style="width:56px"><button type="button" data-a="pwa">+</button></div>
+1908|<span class="note">nenhum poder</span>
+1909| PP por nível · máx. 
+1910|Feitiço não encontrado no catálogo.
+1911|Poder não encontrado no catálogo.
+1912|<span><b>Defesa</b> 
+1913|<span><b>Resist.</b> 
+1914|<span><b>Limites</b> 
+1915|Fís 
+1916|<table class="mw"><thead><tr><th>Arma</th><th>Dados</th><th>Prec.</th><th>Dano</th><th>PA</th><th>Modo</th><th>CR</th><th>Mun.</th></tr></thead><tbody>
+1917|<div class="note">Sem arma.</div>
+1918|<div class="ms"><b>Dados</b> 
+1919|</div><div class="mc"><div><b>Vida alta</b><ol>
+1920|</ol></div><div><b>Vida baixa</b><ol>
+1921|Sair do modo mesa
+1922|Recolher ou expandir o grupo inteiro
+1923|Expandir o grupo e todas as fichas
+1924|Recolher o grupo e todas as fichas
+1925|ficha
+1926|fichas
+1927|Baixar todos (.zip)
+1928|<summary>Ver JSON do grupo</summary>
+1929|<summary>Mais detalhes ({0})</summary>
+1930|<details class="adv" id="mi"><summary>Ler a pasta do Chummer e índice mestre</summary>⏎<div style="display:grid;gap:8px;padding:8px 0">⏎<label>Pasta do Chummer (a pasta <b>data</b> ou a pasta raiz do Chummer, com a <b>customdata</b> se você usa)<input type="file" id="dirimp" webkitdirectory multiple></label>⏎<div id="dirmsg" class="note">Escolha a pasta e o gerador lê todos os XML sozinho, guarda neste navegador e monta o índice. Nada sai do seu computador.</div>⏎<input type="search" id="mq" placeholder="Buscar por nome (ex.: Wired Reflexes, Fireball, Arnis de Mano)" autocomplete="off">⏎<div style="display:flex;gap:8px;flex-wrap:wrap"><select id="msec"><option value="">Todas as seções</option></select><select id="mbk"><option value="">Todos os livros</option></select><button id="mcsv" type="button">Baixar índice (.csv)</button></div>⏎<div id="mcount" class="note"></div>⏎<div id="mres" style="max-height:340px;overflow:auto"></div></div></details>
+1931|<option value="">Todas as seções (
+1932|<option value="">Todos os livros (
+1933|Índice vazio. Leia a pasta do Chummer acima, ou abra este painel de novo para montar o índice com os arquivos já guardados.
+1934|﻿Nome;Seção;Categoria;Livro;Página;ID;Arquivo;Nome na página⏎
+1935|Defesa
+1936|Resistência a dano
+1937|Limites
+1938|Tradição
+1939|Magia efetiva
+1940|Ressonância efetiva
+1941|Espíritos vinculados
+1942| nunca
+1943|Veículos e drones
+1944|Iniciativa
+1945|<b>Defesa</b> 
+1946|<b>Resist.</b> 
+1947|<b>Limites</b> 
+1948|<div class="row wrow"><span class="wn">Armadura</span> <span class="wd">— 
+1949| <span class="note">(valor → dados que rola)</span>
+1950| dados</b></span>
+1951|<span class="pool rg">com a especialização (+2): <b>
+1952|<span>Implantes ativos <span class="note">(os que alteram dados, iniciativa ou armadura já estão nos números)</span></span><span>
+1953|Implantes ativos
+1954|Física
+1955|Instantânea
+1956|Dano físico
+1957|Combate
+1958|Detecção
+1959|Saúde
+1960|Ilusão
+1961|Manipulação
+1962|(área)
+1963| <span class="note">(Força 
+1964|+2 especialização
+1965| · resiste ao dreno com 
+1966| dados (
+1967|Arquivo
+1968|Ícone
+1969| · resiste ao Fade com 
+1970| dados (WIL + RES)
+1971| — alvo: 
+1972|Proc. dados 
+1973| · limite 
+1974| · <b>Defesa</b> 
+1975|)</span> · <b>Resist. dano</b> 
+1976|Mais detalhes (
+1977|Nada encontrado nos livros lidos.
+1978|Leia o PDF deste livro (painel “Livros ativos e PDFs”) para ver o trecho.
+1979|Sem texto nessa página.
+1980|<div style="margin-top:6px"><a href="#" data-a="page" data-b="{0}" data-p="{1}" data-n="{2}">ver a página inteira</a>{3}</div>
+1981|armas, kits de arma, arcos, lançadores
+1982|comlinks, decks, programas, munição, equipamento
+1983|implantes (cyber e bio)
+1984|veículos e drones
+1985|perícias (IDs do Chummer)
+1986|critters e espíritos
+1987|feitiços
+1988|alcances das armas
+1989|poderes de adepto
+1990|lista de livros
+1991|veículos
+1992|O catálogo de armas está reduzido (veja o aviso no topo). Use <b>Restaurar catálogo embutido</b> ou importe o weapons.xml.
+1993|Já dá para gerar: o catálogo completo vem embutido neste arquivo. Importar XML é opcional e serve para usar exatamente os dados e livros da <b>sua</b> versão do Chummer (livros novos, itens da comunidade).
+1994| já importados)</summary><div class="note" style="margin:6px 0">Pasta <b>data</b> do seu Chummer. Selecione vários de uma vez em “Dados do seu Chummer” (Opções avançadas).</div>
+1995| <span class="rg">$1 (dados de Resist. = BOD + armadura)</span>
+1996| <span class="rg">Penalidade de ferimento: 
+1997|<summary>Ações do livro</summary>
+1998|regras só no hover
+1999|<div class="actions"><button class="go" id="jsn">Copiar JSON do grupo</button><button class="go" id="zall">Baixar todos (.zip)</button><button id="dall">Apagar todos</button><button id="prt">Imprimir / PDF</button><span class="note">
+2000|Monitor (físico / atordoamento)
+2001|Penalidade de ferimento
+2002|<div class="row"><span>Especializações</span><span>{0}</span></div>
+2003|<div class="row"><span>Conhecimentos</span><span>{0}</span></div>
+2004|<div class="row"><span>Idiomas</span><span>{0} (nativo)</span></div>
+2005|<div class="row"><span>Tradição</span><span>{0} · dreno {1} ({2} dados) · Magia efetiva {3} (Força máx. {4})</span></div>
+2006|<div class="row"><span>Feitiços</span><span>{0}</span></div>
+2007|<div class="row"><span>Espíritos vinculados</span><span>{0}</span></div>
+2008|<div class="row"><span>Submersão {0}</span><span>{1}</span></div>
+2009|<div class="row"><span>Iniciação {0}</span><span>{1}</span></div>
+2010|<div class="row"><span>Poderes</span><span>{0}</span></div>
+2011|<div class="row"><span>Veículos e drones</span><span>{0}</span></div>
+2012|Módulos: 
+2013| (Força 
+2014|<div class="row"><span>Qualidades</span><span>{0}</span></div>
+2015|<div class="row"><span>Implantes · {0} de {1}</span><span>{2}</span></div>
+2016|<div class="row"><span>Magia efetiva</span><span>{0}</span></div>
+2017|<div class="row"><span>Ressonância efetiva</span><span>{0}</span></div>
+2018|Confirmar: apagar todos?
+2019|Apagar todos

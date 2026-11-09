@@ -1,0 +1,837 @@
+{
+ "sk": {
+  "Aeronautics Mechanic": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Aerospace",
+    "Fixed Wing",
+    "LTA (blimp)",
+    "Rotary Wing",
+    "Tilt Wing",
+    "Vector Thrust"
+   ]
+  },
+  "Alchemy": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "Combat",
+    "Command",
+    "Contact",
+    "Detection",
+    "Health",
+    "Illusion",
+    "Manipulation",
+    "Time",
+    "[Trigger]"
+   ]
+  },
+  "Animal Handling": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Herding",
+    "Riding",
+    "Training",
+    "[Animal Type]"
+   ]
+  },
+  "Arcana": {
+   "c": "Pseudo-Magical Active",
+   "b": "SR5",
+   "s": [
+    "Focus Design",
+    "Magical Artifacts",
+    "Spell Design",
+    "Spirit Formula",
+    "Spirit Theory"
+   ]
+  },
+  "Archery": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": [
+    "Bow",
+    "Crossbow",
+    "Non-Standard Ammunition",
+    "Slingshot"
+   ]
+  },
+  "Armorer": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Armor",
+    "Artillery",
+    "Explosives",
+    "Firearms",
+    "Melee Weapons",
+    "Heavy Weapons",
+    "Weapon Accessories"
+   ]
+  },
+  "Artificing": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "Focus Analysis",
+    "[Focus Type]"
+   ]
+  },
+  "Artisan": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Carpentry",
+    "Cooking",
+    "Drawing",
+    "Sculpting",
+    "Fashion",
+    "Writing",
+    "[Discipline]"
+   ]
+  },
+  "Assensing": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "Aura Reading",
+    "Astral Signatures",
+    "Psychometry",
+    "[Aura Type]"
+   ]
+  },
+  "Astral Combat": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "Magicians",
+    "Mana Barriers",
+    "Spirits",
+    "[Weapon Focus Type]",
+    "[Other Opponent Type]"
+   ]
+  },
+  "Automatics": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": [
+    "Assault Rifles",
+    "Cyber-Implant",
+    "Machine Pistols",
+    "Submachine Guns",
+    "Carbines"
+   ]
+  },
+  "Automotive Mechanic": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Hover",
+    "Tracked",
+    "Walker",
+    "Wheeled"
+   ]
+  },
+  "Banishing": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "Spirits of Air",
+    "Spirits of Beasts",
+    "Spirits of Earth",
+    "Spirits of Fire",
+    "Spirits of Man",
+    "Spirits of Water",
+    "Guardian Spirit",
+    "Guidance Spirit",
+    "Plant Spirit",
+    "Task Spirit"
+   ]
+  },
+  "Binding": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "Spirits of Air",
+    "Spirits of Beasts",
+    "Spirits of Earth",
+    "Spirits of Fire",
+    "Spirits of Man",
+    "Spirits of Water",
+    "Guardian Spirit",
+    "Guidance Spirit",
+    "Plant Spirit",
+    "Task Spirit"
+   ]
+  },
+  "Biotechnology": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Bioinformatics",
+    "Bioware",
+    "Cloning",
+    "Gene Therapy",
+    "Vat Maintenance"
+   ]
+  },
+  "Blades": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": [
+    "Axes",
+    "Knives",
+    "Swords",
+    "Parrying"
+   ]
+  },
+  "Chemistry": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Analytical",
+    "Biochemistry",
+    "Drugs",
+    "Inorganic",
+    "Organic",
+    "Physical",
+    "Toxins"
+   ]
+  },
+  "Clubs": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": [
+    "Batons",
+    "Hammers",
+    "Saps",
+    "Staves",
+    "Parrying"
+   ]
+  },
+  "Compiling": {
+   "c": "Resonance Active",
+   "b": "SR5",
+   "s": [
+    "[Sprite Type]"
+   ]
+  },
+  "Computer": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Edit File",
+    "Matrix Perception",
+    "Matrix Search",
+    "[Computer Matrix Action]"
+   ]
+  },
+  "Con": {
+   "c": "Social Active",
+   "b": "SR5",
+   "s": [
+    "Fast Talk",
+    "Seduction"
+   ]
+  },
+  "Counterspelling": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "Combat",
+    "Detection",
+    "Health",
+    "Illusion",
+    "Manipulation"
+   ]
+  },
+  "Cybercombat": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Devices",
+    "Grids",
+    "IC",
+    "Personas",
+    "Sprites",
+    "[Target Type]"
+   ]
+  },
+  "Cybertechnology": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Bodyware",
+    "Cyberlimbs",
+    "Headware",
+    "Nanoware",
+    "Repair"
+   ]
+  },
+  "Decompiling": {
+   "c": "Resonance Active",
+   "b": "SR5",
+   "s": [
+    "[Sprite Type]"
+   ]
+  },
+  "Demolitions": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Commercial Explosives",
+    "Defusing",
+    "Improvised Explosives",
+    "Plastic Explosives"
+   ]
+  },
+  "Disenchanting": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "[Type]"
+   ]
+  },
+  "Disguise": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Camouflage",
+    "Cosmetic",
+    "Theatrical",
+    "Trideo & Video"
+   ]
+  },
+  "Diving": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Arctic",
+    "Cave",
+    "Commercial",
+    "Controlled Hyperventilation",
+    "Liquid Breathing Apparatus",
+    "Military",
+    "Mixed Gas",
+    "Oxygen Extraction",
+    "SCUBA",
+    "[Other Breathing Apparatus]",
+    "[Other Condition]"
+   ]
+  },
+  "Electronic Warfare": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Communications",
+    "Encryption",
+    "Jamming",
+    "Sensor Operations",
+    "[Electronic Warfare Matrix Action]"
+   ]
+  },
+  "Escape Artist": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Contortionism",
+    "Cuffs",
+    "Ropes",
+    "Zip Ties",
+    "[Other Restraint]"
+   ]
+  },
+  "Etiquette": {
+   "c": "Social Active",
+   "b": "SR5",
+   "s": [
+    "Catholic Church",
+    "Corporate",
+    "High Society",
+    "Mafia",
+    "Magic",
+    "Matrix",
+    "Media",
+    "Mercenary",
+    "Street",
+    "Yakuza",
+    "[Culture or Subculture]"
+   ]
+  },
+  "Exotic Melee Weapon": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": []
+  },
+  "Exotic Ranged Weapon": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": [
+    "Blowguns",
+    "Gyrojet Pistols",
+    "Flamethrowers",
+    "Lasers",
+    "Spidersilk"
+   ]
+  },
+  "Pilot Exotic Vehicle": {
+   "c": "Vehicle Active",
+   "b": "SR5",
+   "s": [
+    "Festo Pigeon 2.0"
+   ]
+  },
+  "First Aid": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Broken Bones",
+    "Burns",
+    "Gunshot Wounds",
+    "Resuscitation",
+    "[Type of Treatment]"
+   ]
+  },
+  "Flight": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Desert",
+    "Distance",
+    "Sprinting",
+    "Urban",
+    "Wilderness",
+    "[Terrain]"
+   ]
+  },
+  "Forgery": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Counterfeiting",
+    "Credstick Forgery",
+    "False ID",
+    "Image Doctoring",
+    "Paper Forgery"
+   ]
+  },
+  "Free-Fall": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "BASE Jumping",
+    "Break-Fall",
+    "Bungee",
+    "HALO",
+    "Low Altitude",
+    "Parachute",
+    "Rappelling",
+    "Static Line",
+    "Wingsuit",
+    "Zipline"
+   ]
+  },
+  "Gunnery": {
+   "c": "Vehicle Active",
+   "b": "SR5",
+   "s": [
+    "Artillery",
+    "Ballistic",
+    "Energy",
+    "Guided Missile",
+    "Rocket"
+   ]
+  },
+  "Gymnastics": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Balance",
+    "Climbing",
+    "Dance",
+    "Dodging",
+    "Leaping",
+    "Parkour",
+    "Rolling"
+   ]
+  },
+  "Hacking": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Devices",
+    "Files",
+    "Hosts",
+    "Personas"
+   ]
+  },
+  "Hardware": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Commlinks",
+    "Cyberdecks",
+    "Jack Out",
+    "Smartguns",
+    "[Hardware Type]",
+    "[Hardware Matrix Action]"
+   ]
+  },
+  "Heavy Weapons": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": [
+    "Assault Cannons",
+    "Grenade Launchers",
+    "Guided Missiles",
+    "Machine Guns",
+    "Rocket Launchers"
+   ]
+  },
+  "Impersonation": {
+   "c": "Social Active",
+   "b": "SR5",
+   "s": [
+    "Dwarf",
+    "Elf",
+    "Human",
+    "Ork",
+    "Troll"
+   ]
+  },
+  "Industrial Mechanic": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Electrical Power Systems",
+    "Hydraulics",
+    "HVAC",
+    "Industrial Robotics",
+    "Structural",
+    "Welding"
+   ]
+  },
+  "Instruction": {
+   "c": "Social Active",
+   "b": "SR5",
+   "s": [
+    "[Active or Knowledge Skill Category]"
+   ]
+  },
+  "Intimidation": {
+   "c": "Social Active",
+   "b": "SR5",
+   "s": [
+    "Interrogation",
+    "Mental",
+    "Physical",
+    "Torture"
+   ]
+  },
+  "Leadership": {
+   "c": "Social Active",
+   "b": "SR5",
+   "s": [
+    "Command",
+    "Direct",
+    "Inspire",
+    "Rally"
+   ]
+  },
+  "Locksmith": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Combination",
+    "Keypad",
+    "Maglock",
+    "Tumbler",
+    "Voice Recognition",
+    "[Lock Type]"
+   ]
+  },
+  "Longarms": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": [
+    "Extended-Range Shots",
+    "Long-Range Shots",
+    "Shotguns",
+    "Sniper Rifles",
+    "Sporting Rifles"
+   ]
+  },
+  "Medicine": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Cosmetic Surgery",
+    "Extended Care",
+    "Implant Surgery",
+    "Magical Health",
+    "Organ Culture",
+    "Trauma Surgery",
+    "Veterinary"
+   ]
+  },
+  "Nautical Mechanic": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Motorboat",
+    "Sailboat",
+    "Ship",
+    "Submarine"
+   ]
+  },
+  "Navigation": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Augmented Reality Markers",
+    "Celestial",
+    "Compass",
+    "Maps",
+    "GPS"
+   ]
+  },
+  "Negotiation": {
+   "c": "Social Active",
+   "b": "SR5",
+   "s": [
+    "Bargaining",
+    "Contracts",
+    "Diplomacy"
+   ]
+  },
+  "Palming": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Legerdemain",
+    "Pickpocket",
+    "Pilfering"
+   ]
+  },
+  "Perception": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Hearing",
+    "Numinous Perception",
+    "Scent",
+    "Searching",
+    "Taste",
+    "Touch",
+    "Visual"
+   ]
+  },
+  "Performance": {
+   "c": "Social Active",
+   "b": "SR5",
+   "s": [
+    "Acting",
+    "Comedy",
+    "Dance",
+    "Presentation",
+    "[Musical Instrument]"
+   ]
+  },
+  "Pilot Aerospace": {
+   "c": "Vehicle Active",
+   "b": "SR5",
+   "s": [
+    "Deep Space",
+    "Launch Craft",
+    "Remote Operation",
+    "Semiballistic",
+    "Suborbital"
+   ]
+  },
+  "Pilot Aircraft": {
+   "c": "Vehicle Active",
+   "b": "SR5",
+   "s": [
+    "Fixed-Wing",
+    "Lighter-Than-Air",
+    "Remote Operation",
+    "Rotary Wing",
+    "Tilt Wing",
+    "Vectored Thrust"
+   ]
+  },
+  "Pilot Ground Craft": {
+   "c": "Vehicle Active",
+   "b": "SR5",
+   "s": [
+    "Bike",
+    "Hovercraft",
+    "Remote Operation",
+    "Tracked",
+    "Wheeled"
+   ]
+  },
+  "Pilot Walker": {
+   "c": "Vehicle Active",
+   "b": "SR5",
+   "s": [
+    "Biped",
+    "Multiped",
+    "Quadruped",
+    "Remote Operation"
+   ]
+  },
+  "Pilot Watercraft": {
+   "c": "Vehicle Active",
+   "b": "SR5",
+   "s": [
+    "Hydrofoil",
+    "Motorboat",
+    "Remote Operation",
+    "Sail",
+    "Ship",
+    "Submarine"
+   ]
+  },
+  "Pistols": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": [
+    "Holdouts",
+    "Revolvers",
+    "Semi-Automatics",
+    "Tasers"
+   ]
+  },
+  "Registering": {
+   "c": "Resonance Active",
+   "b": "SR5",
+   "s": [
+    "[Sprite Type]"
+   ]
+  },
+  "Ritual Spellcasting": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "[Keyword]"
+   ]
+  },
+  "Running": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Desert",
+    "Distance",
+    "Sprinting",
+    "Urban",
+    "Wilderness",
+    "[Terrain]"
+   ]
+  },
+  "Sneaking": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Desert",
+    "Jungle",
+    "Urban",
+    "Vehicle",
+    "Wilderness",
+    "[Terrain]"
+   ]
+  },
+  "Software": {
+   "c": "Technical Active",
+   "b": "SR5",
+   "s": [
+    "Data Bombs",
+    "[Complex Form]",
+    "[Program Type]",
+    "[Software Matrix Action]"
+   ]
+  },
+  "Spellcasting": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "Combat",
+    "Detection",
+    "Health",
+    "Illusion",
+    "Manipulation"
+   ]
+  },
+  "Summoning": {
+   "c": "Magical Active",
+   "b": "SR5",
+   "s": [
+    "Spirits of Air",
+    "Spirits of Beasts",
+    "Spirits of Earth",
+    "Spirits of Fire",
+    "Spirits of Man",
+    "Spirits of Water",
+    "Guardian Spirit",
+    "Guidance Spirit",
+    "Plant Spirit",
+    "Task Spirit"
+   ]
+  },
+  "Survival": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Desert",
+    "Forest",
+    "Jungle",
+    "Mountain",
+    "Polar",
+    "Urban",
+    "[Terrain]"
+   ]
+  },
+  "Swimming": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Dash",
+    "Long Distance"
+   ]
+  },
+  "Throwing Weapons": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": [
+    "Aerodynamic",
+    "Blades",
+    "Non-Aerodynamic"
+   ]
+  },
+  "Tracking": {
+   "c": "Physical Active",
+   "b": "SR5",
+   "s": [
+    "Desert",
+    "Forest",
+    "Jungle",
+    "Mountain",
+    "Polar",
+    "Urban",
+    "[Terrain]"
+   ]
+  },
+  "Unarmed Combat": {
+   "c": "Combat Active",
+   "b": "SR5",
+   "s": [
+    "Blocking",
+    "Cyber Implants",
+    "Subduing Combat",
+    "[Martial Art]"
+   ]
+  }
+ }
+}

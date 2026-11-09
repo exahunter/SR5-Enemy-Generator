@@ -1,0 +1,25 @@
+2111|Sindicato (máfia, yakuza, vory)
+2112|Arruaceiro / manifestante
+2113|Capanga
+2114|Resposta de alta ameaça (HTR)
+2115|Mercenário (merc)
+2116|Contrabandista
+2117|Motorista
+2118|Sacerdote
+2119|Adepto
+2120|Adepto físico
+2121|VIP
+2122|Guarda-costas
+2123|Jornalista / repórter
+2124|Cientista
+2125|Rigger
+2126|Médico / street doc
+2127|Tecnomante
+2128|Traficante / dealer de rua
+2129|Paramédico / socorrista (resposta médica)
+2130|Leão-de-chácara (segurança de casa noturna)
+2131|Soldado de força corporativa (SecOps)
+2132|Motorista / piloto
+2133|Informante / fixer
+2134|Espião / agente de infiltração
+2135|Indiana

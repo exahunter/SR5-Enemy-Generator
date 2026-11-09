@@ -1,0 +1,16 @@
+{
+ "grupos": "dc5f5070",
+ "critters": "25eb35b",
+ "npcs": "9b42284d",
+ "taticas": "10481be",
+ "subir": "9b434260",
+ "importar": [
+  "cyberware.xml,bioware.xml=>0 [<?xml cyberware.xml?>|<?xml bioware.xml?>]",
+  "streams.xml,mentors.xml=>0 [<?xml streams.xml?>|<?xml mentors.xml?>|<?xml mentors.xml?>|<?xml streams.xml?>]",
+  "martialarts.xml=>0 [<?xml martialarts.xml?>]",
+  "weapons.xml,gear.xml,skills.xml=>3 [<?xml skills.xml?>|<?xml weapons.xml?>|<?xml gear.xml?>|<?xml skills.xml?>]",
+  "qualities.xml,metatypes.xml,critters.xml,vehicles.xml,traditions.xml,licenses.xml,lifestyles.xml=>4 [<?xml qualities.xml?>|<?xml licenses.xml?>|<?xml lifestyles.xml?>|<?xml qualities.xml?>|<?xml metatypes.xml?>|<?xml critters.xml?>|<?xml vehicles.xml?>|<?xml traditions.xml?>|<?xml licenses.xml?>]"
+ ],
+ "render": "704c549b:12",
+ "renderArmaNatural": "false->true"
+}

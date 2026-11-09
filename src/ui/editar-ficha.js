@@ -1,0 +1,6 @@
+function editable(L){document.querySelectorAll('.sheet[data-id]').forEach(sh=>{const c=charOf(L,sh),box=sh.querySelector('.sec > div:not(.mesa)');if(!c||!box)return;
+ const ks=[...ATTR,'EDG',...(c.at.MAG!==undefined?['MAG']:[]),...(c.at.RES!==undefined?['RES']:[])];
+ box.innerHTML=ks.map(k=>`<label style="display:inline-flex;flex-direction:row;align-items:center;gap:4px;margin:2px 10px 2px 0"><span class="note">${k}</span><input type="number" min="0" max="30" value="${esc(c.at[k])}" data-k="${k}" style="width:56px;padding:4px;background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:4px"></label>`).join('');
+ const rows=sh.querySelectorAll('.row .num'),refresh=()=>{if(rows.length<2)return;const d=derived(c),a=c.at;rows[0].textContent=d.ini+' +'+d.dice+'d6';rows[1].textContent=d.fis+' / '+d.atu};
+ box.querySelectorAll('input').forEach(inp=>inp.onchange=()=>{c.at[inp.dataset.k]=Math.max(0,Math.min(30,+inp.value||0));if(inp.dataset.k==='MAG')c.magic=c.at.MAG;if(typeof fichaSalvar==='function')fichaSalvar(c);else refresh()});
+ const h=sh.querySelector('h2');h.contentEditable='true';h.oninput=()=>{c.alias=h.textContent;clearTimeout(h._t);h._t=setTimeout(saveN,500)}})}

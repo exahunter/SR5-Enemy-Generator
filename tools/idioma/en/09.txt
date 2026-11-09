@@ -1,0 +1,36 @@
+2071|Specializations
+2072|Street ganger (gang)
+2073|Boss
+2074|Lieutenant
+2075|Second in command
+2076|Brazilian
+2077|Stream
+2078|Mentor spirit
+2079|Paragon
+2080|Matrix
+2081|Fake SIN
+2082|Anglo
+2083|Special operations (spec ops)
+2084|Leader
+2085|Shooter
+2086|Latin
+2087|Japanese
+2088|German / Nordic
+2089|Bounty hunter
+2090|Elven (Tír)
+2091|French
+2092|Corporate security (rent-a-cop)
+2093|Supervisor
+2094|Police (Lone Star / local force)
+2095|Sergeant
+2096|Arab / Persian
+2097|African
+2098|Russian
+2099|Detective / investigator
+2100|Decker
+2101|Wage slave (corporate employee)
+2102|Korean
+2103|Executive / Mr. Johnson
+2104|Mystic adept
+2105|Civilian (ordinary citizen)
+2106|Mage

@@ -1,0 +1,325 @@
+498|Ataca do alto: {mergulha sobre o alvo|rodeia o grupo|mantém a altitude fora do alcance das armas curtas} e só desce para atacar
+499|Aproveita a velocidade ou o modo de movimento: {corre em volta do grupo|passa por onde ninguém acompanha|ataca e some antes da resposta}
+500|Aceita o dano para ganhar tempo: {segue lutando mesmo ferido|ignora os ferimentos leves|volta ao ataque depois de se recuperar} e foge só quando a regeneração não dá mais conta
+501|Avança sem se proteger: {aproveita a armadura|ignora armas comuns|aguenta o fogo cerrado} e muda o alvo quando o inimigo passa a usar o que o fere
+502|Imita sons e vozes: {chama quem está sozinho|atrai o grupo para uma armadilha|confunde quem tenta se coordenar} e ataca quem cai na isca
+503|Controla ou persuade antes de lutar: {manda animais atacarem|desvia um aliado para o lado errado|impede um inimigo de agir} e deixa os outros fazerem o serviço
+504|Usa o ataque elemental de longe: {mantém distância|ataca em linha reta|alterna entre alvos}, e só parte para o contato quando acaba a energia
+505|Ataca com a arma natural de maior alcance e {troca para outra se o alvo recua|dá o golpe seguinte sem esperar|insiste no primeiro corte}
+506|Escolhe o alvo pelo sentido mais apurado: {pelo cheiro|pelo som|pela vibração|pelo calor} e ignora quem tenta se esconder de outro jeito
+507|Alterna entre o plano físico e o astral: {some de um quando o inimigo mira|ataca de um e se refugia no outro|escolhe o plano em que o inimigo é mais fraco}
+508|Atrapalha o inimigo antes de ferir: {desorienta quem lidera|confunde quem mira|embaralha os sentidos de quem tenta ajudar os feridos} e ataca quem perdeu o rumo
+509|Suga a energia de quem alcança: {escolhe quem já está ferido|insiste no mesmo alvo|troca de alvo a cada contato} e só se afasta quando o alvo cai
+510|Se confunde com o ambiente: {fica parado entre coisas parecidas|só se mexe quando ninguém olha|volta a se misturar depois de cada golpe} e ataca de perto
+511|Fica de guarda: {entre o alvo protegido e o inimigo|perto do ponto que protege|atacando só quem tenta passar}
+512|continua o ataque {no mesmo ritmo|mais devagar|procurando o ponto fraco}, expondo-se pouco
+513|recua um passo e {volta ao ataque|espera o inimigo se aproximar|ruge e investe}
+514|come, lambe o ferimento ou fica parado um instante e {volta ao ataque|ataca quem o feriu}
+515|continua a defender o território, sem avançar além de onde estava
+516|recua para o ponto mais seguro do território e {espera o inimigo vir|ataca só quem chega perto}
+517|se enfurece com a dor: {ignora a cobertura|investe contra o inimigo mais próximo|ataca sem se proteger}
+518|tenta fugir da luta pelo caminho mais próximo e só ataca se for impedido
+519|se esconde ou se afasta do grupo e {fica parado|espera o barulho cessar}
+520|entra em pânico: {corre sem direção|se joga contra o primeiro obstáculo|ataca o primeiro que o toca}
+521|recua para o esconderijo e {espera uma abertura|se mantém imóvel|muda de lugar}
+522|ataca de novo só se o alvo estiver ao alcance e {some em seguida|se esconde de novo}
+523|tenta sair da luta {pelo mesmo caminho|pela saída mais escura}, deixando o resto para o grupo
+524|avalia o que mudou e {procura uma saída|troca de alvo|recua para se reorganizar}
+525|usa o que sobrou do terreno e das armas à mão para {abrir caminho|ganhar tempo|trazer o inimigo para um lugar pior}
+526|pensa no objetivo e {insiste|negocia|se rende}, conforme o que for mais barato naquele momento
+527|continua a cumprir a tarefa registrada, {sem recuar|trocando de alvo|usando o host que o sustenta}
+528|perde estabilidade e {se afasta do centro da luta|volta ao nó de origem|protege o dispositivo do compilador antes de atacar}
+529|está sendo desregistrado, {agindo até o fim|seguindo a última ordem|levando consigo o que puder}
+530|continua a cumprir a ordem recebida, {sem recuar|trocando de alvo só se mandarem|ficando junto do criador}
+531|perde o vigor e {se afasta do centro da luta, se o criador mandar|volta para perto do criador|cobre o criador antes de atacar}
+532|está se desfazendo, {atacando até o fim|seguindo a última ordem|levando consigo o que puder}
+533|continua a cumprir o serviço, {sem recuar|trocando de alvo|usando o terreno que o fortalece}
+534|perde força e {se afasta do centro da luta|volta ao elemento de origem|protege quem o invocou antes de atacar}
+535|se dissolve ou se desfaz devagar, {atacando até o fim|seguindo o último comando|levando consigo o que puder}
+536|foge da luta {para o esconderijo|pela saída mais próxima|para onde veio}; sem rota de fuga, {se encolhe no canto mais protegido|luta de costas para a parede}; com aliado ferido, {passa por ele sem parar|o leva junto, se couber no caminho}; com aliado importante ainda lutando, {adia a fuga até ele cair ou ser coberto|segue para a fuga e o deixa}
+537|vai até o fim, {atacando quem estiver mais perto|puxando alguém para baixo|tentando levar o inimigo junto}
+538|fica onde está e ataca {o que se aproxima|o que o feriu}, sem recuar um passo
+539|se debate às cegas, {derrubando tudo o que está perto|rolando no chão|arranhando quem se aproxima}
+540|já sem esconderijo, {salta numa última investida|se enrola sobre si mesmo}, sem cuidado com o que vem depois
+541|sabe que está quase morto e {usa o último recurso|ataca o inimigo mais perigoso|tenta proteger o que veio proteger}
+542|está quase desregistrado e {usa tudo o que resta numa última ação|segue a última ordem do compilador|se apaga do nó em que estava}
+543|está quase desfeito e {usa tudo o que resta num último golpe|segue a última ordem do criador|fica de pé entre o inimigo e o criador até cair}
+544|está quase desfeito e {usa tudo o que resta num último golpe|obedece ao último comando|se retira para o plano de origem}
+545|Gecko Grip (for Weapon with No Stock Slot)
+546|Armanté Suit
+547|Armanté Dress
+548|Zoé: Executive Suite
+549|Zoé: Heritage 4
+550|Zoé: Heritage 6
+551|Zoé: Heritage 8
+552|Zoé: Heritage 10
+553|Zoé: Heritage 12
+554|Zoé: Nightshade/Moonsilver
+555|Zoé: Second Skin
+556|E'lyzée Elio: Bra's Suit
+557|E'lyzée Elio: Tha'il Dress
+558|E'lyzée Elio: Bra's Cape
+559|E'lyzée Elio: Tha'il Cape
+560|Ammo: Hi-De Rounds
+561|Grupo sem doutrina formal: o líder dá o ritmo e os outros acompanham.
+562|abre com o atirador cobrindo e os capangas avançando
+563|mantém a formação até alguém cair|troca de cobertura em duplas|fecha o cerco aos poucos
+564|recua em ordem|se divide se perder o atirador
+565|Gangue de rua: ataca em bando e confia mais no número do que no plano.
+566|ataca todos de uma vez, de vários lados|abre com tiros de longe e fecha em seguida|surge de becos e portas ao mesmo tempo
+567|mantém o barulho para esconder quantos são|rodeia o alvo e o cansa|põe os novatos na frente
+568|se espalha ao primeiro morto|foge em direções diferentes|volta mais tarde com mais gente
+569|Célula de sindicato: age com disciplina de negócio, resolve rápido e evita chamar atenção.
+570|entra pelo caminho menos vigiado|abre com o atirador no ponto alto e o resto na porta
+571|cumpre o objetivo antes de gastar munição|mantém o chefe fora da linha de tiro|isola o alvo e o resto da cena
+572|recua se o chefe for ferido|abandona o local se a polícia chegar|queima o que deixou para trás
+573|Multidão agitada: o efeito vem do número, não da pontaria; ninguém coordena o conjunto.
+574|começa com gritos e empurrões antes de qualquer arma|avança em onda sobre a linha de segurança|se espalha para dividir a atenção do inimigo
+575|usa os mais exaltados como ponta de lança|joga objetos e fecha o espaço|esconde os poucos armados no meio
+576|se dispersa ao primeiro disparo sério|foge em massa pelas ruas laterais|pisoteia quem cai
+577|Patrulha policial: segue protocolo, pede reforço cedo e prefere conter a abater.
+578|abre com ordem verbal e posição de cobertura|forma um perímetro com as viaturas|chama reforço antes do primeiro tiro
+579|mantém a cobertura e evita avançar|usa o veículo como barreira
+580|recua para esperar o reforço|abandona a perseguição se o risco sobe|protege o ferido antes de tudo
+581|Segurança corporativa: protege o patrimônio e o protocolo, e cada um cobre o seu setor.
+582|fecha as portas e corta o acesso|aciona o alarme e se retira para pontos de defesa|usa câmeras e sensores antes de qualquer contato
+583|segura o setor até o reforço chegar|recua para trás de portas reforçadas|usa a tecnologia do prédio contra o inimigo
+584|recua em ordem para o ponto de defesa seguinte|pede reforço e segura o corredor|abandona o setor se o contrato não cobre o risco
+585|Resposta de alta ameaça: opera em equipe treinada, com setores definidos e comunicação constante.
+586|entra por dois pontos ao mesmo tempo|abre com granada de efeito e entrada simultânea
+587|avança de setor em setor sem deixar costas descobertas|alterna fogo de cobertura e avanço|isola e elimina o alvo mais perigoso primeiro
+588|reorganiza em outra formação em vez de recuar|retira os feridos e continua|usa reforço aéreo se tiver
+589|Operações especiais: age pequeno e silencioso, com objetivo único e plano de extração.
+590|infiltra sem ser visto e só então age|abre com silenciadores e sem alarme
+591|cumpre o objetivo e só usa força quando precisa|evita o combate sempre que pode|mantém a extração aberta
+592|aborta e sai pelo plano de extração|sacrifica o objetivo secundário para salvar a equipe|apaga o rastro antes de sair
+593|Bando de mercenários: profissionais pagos, lutam pelo contrato e abandonam o que não paga.
+594|abre com fogo pesado para mostrar valor|entra em dupla e se cobre|testa a defesa e recua se ela for forte
+595|mantém a linha enquanto o contratante paga|troca de posição em turnos|negocia no meio da luta se vê chance
+596|abandona o contrato se o líder cair|exige mais para continuar|recua sem esperar o contratante
+597|Caçadores de recompensas: querem o alvo vivo e inteiro, e evitam atrair atenção.
+598|isolam o alvo e cortam as saídas|abrem com armas não letais
+599|mantêm o alvo cercado sem matá-lo|dividem a equipe entre captura e cobertura|usam rastreio e drones para não perdê-lo
+600|abandonam o alvo se o custo sobe|recuam e retomam a caçada depois|usam o que tiverem para segurar o alvo
+601|Equipe de contrabandistas: protege a carga e foge ao primeiro sinal de perigo sério.
+602|abre com o motorista pronto e a carga perto da saída
+603|protege a carga acima de tudo|evita combate prolongado|usa o veículo como cobertura e como saída
+604|abandona parte da carga para fugir|sai pelo caminho alternativo|deixa o ferido para trás só se não houver outra saída
+605|Culto ou seita: age pela fé, aceita perder gente e não recua enquanto o líder viver.
+606|avança em grupo com um ritual de abertura
+607|não recua enquanto o líder está de pé|atira os mais fiéis na frente|continua o ritual mesmo ferido
+608|perde a coesão|ataca com mais fúria quando um dos seus morre|se dispersa no escuro
+609|Equipe de runners rival: profissionais, cada um com uma função, e preparados para ser vistos como alvo.
+610|abre com o decker nas câmeras e o atirador no ponto alto
+611|troca de papéis conforme a luta pede|alterna entre fogo e Matrix
+612|recua pelo plano B|abandona o objetivo se o custo passa do pago|queima o rastro e some
+613|Comitiva VIP: o foco é tirar o alvo da cena, e os guardas existem para isso.
+614|fecha em volta do VIP e se move para a saída|abre com o motorista pronto
+615|mantém o VIP entre os guardas|abre caminho à força para o veículo
+616|sacrifica um guarda para ganhar tempo|leva o VIP ferido se for preciso|abandona o local sem esperar o resto
+617|Emboscada: o ataque é preparado e todo o plano gira em torno do primeiro minuto.
+618|espera em silêncio até o alvo entrar na zona|fecha as saídas só depois do primeiro disparo|abre fogo de várias direções ao mesmo tempo
+619|mantém a vantagem enquanto o inimigo estiver desorganizado|troca de ponto depois do primeiro ataque|cobre os flancos para o inimigo não escapar
+620|recua se a surpresa falhar|abandona o local se o inimigo se reorganiza|queima o rastro para não ser seguido
+621|{A} trava câmeras, portas e armas na Matrix antes de {B} entrar
+622|{A} protege o grupo com magia enquanto {B} atira de trás da proteção
+623|{A} mantém {B} de pé; se o médico cair, o grupo perde o ritmo
+624|{A} marca os alvos e dá o alerta; {B} os derruba de longe
+625|{A} manda os drones à frente para abrir a linha de tiro de {B}
+626|{A} segura a linha de frente enquanto {B} flanqueia ou cobre
+627|{A} mantém o veículo pronto; a retirada de {B} depende dele
+628|{A} abastece {B} de munição; sem ele, o fogo cai depois do primeiro pente
+629|{A} dá o ritmo e {B} só avança quando o líder avança
+630|{A} fecha em volta de {B} e o leva ao ponto de saída
+631|{A} usa espíritos para segurar os inimigos enquanto {B} age
+632|{A} usa sprites para cegar e travar as defesas inimigas, abrindo espaço para {B}
+633|Shadowrun 5ª edição
+634|No Future
+635|João
+636|Natália
+637|Otávio
+638|Araújo
+639|Lucía
+640|Nicolás
+641|Sofía
+642|Andrés
+643|Rocío
+644|Tomás
+645|García
+646|Rodríguez
+647|Martínez
+648|López
+649|Hernández
+650|Domínguez
+651|Echeverría
+652|Étienne
+653|Élodie
+654|Océane
+655|Chloé
+656|Léa
+657|Rémy
+658|Oisín
+659|Ó Cathasaigh
+660|Ní Bhraonáin
+661|Sintética
+662|age por instinto: foge, se esconde ou pede ajuda, sem plano nem coordenação
+663|segue procedimento e evita o confronto; chama a segurança antes de reagir
+664|deixa os contratados na frente e protege o próprio patrimônio; negocia antes de lutar
+665|só reage atrás de escoltas e prazos; troca de lado se o custo subir
+666|protege o trabalho, calcula o risco e só age por necessidade
+667|prefere improvisar com o equipamento a lutar; segue ordens de quem entende de combate
+668|trata primeiro e luta depois; só pega em arma para defender o paciente
+669|age em multidão, no calor do momento: barulho, provocação e arremesso
+670|luta em bando e por impulso: provoca, muda de ideia e raramente segue plano; a lealdade vai e vem
+671|obedece à hierarquia da organização: frio, disciplinado e discreto, sem gastar o que não rende
+672|luta por crença: não recua, não negocia e se sacrifica pela seita
+673|planeja a rota antes da luta e prefere escapar a vencer
+674|segue o procedimento, mantém posição e pede reforço antes de arriscar
+675|dá voz de comando, usa cobertura e reforço, e segue as regras de engajamento
+676|só pensa no protegido: vigia, cobre, retira e aceita o risco no lugar dele
+677|observa, evita o confronto direto e prefere capturar a matar
+678|age como equipe: setores, rádio, avanço em lances e fogo coordenado
+679|age em silêncio e em sincronia: reconhece, entra por etapas e cumpre o plano ao pé da letra
+680|profissional e prático: cumpre o contrato, coordena-se com a equipe e sai quando o contrato não compensa
+681|rastreia e captura: paciência, armadilha e pressa só no fim
+682|mantém o veículo pronto e a rota aberta; a saída vem antes do tiro
+683|evita o combate, vende o que sabe e fica do lado de quem estiver ganhando
+684|Operador de equipe tática
+685|Confirma cada movimento por sinais de mão
+686|Só entra depois do "pronto" de todos
+687|Repete a ordem de volta antes de executar
+688|age como parte de uma equipe: comunica, cobre setores e avança em lances
+689|Anota tudo em um caderno que ninguém lê
+690|Só fala em sussurros, mesmo em local seguro
+691|vai na frente, observa e volta com informação antes de qualquer tiro
+692|Patrulheiro (policial de rua)
+693|Dá voz de prisão mesmo quando está claro que não vai prender
+694|Anota a placa de tudo que passa
+695|Chama todo mundo de "senhor", até quem vai algemar
+696|faz ronda, dá ordem de parar e pede reforço antes de arriscar
+697|Nunca senta de costas para a porta
+698|Vigia as mãos de todos antes de olhar o rosto
+699|Impede que o cliente cumprimente estranhos
+700|vive para manter o protegido vivo: vigia, cobre e retira sem aceitar riscos
+701|Membro de bando (rua)
+702|Mostra as cores da gangue em tudo que veste
+703|Desafia estranhos só para ver quem recua
+704|Muda de humor sem aviso, rindo e xingando na mesma frase
+705|luta em bando, de perto e com o que tiver: a coragem vem da multidão
+706|Chefão (comando de organização)
+707|Nunca toca em dinheiro, só em contratos
+708|Manda recado por outro, nunca pessoalmente
+709|Lembra de todos os favores e de todas as dívidas
+710|comanda por reputação e medo, e delega o trabalho sujo
+711|Executor (braço armado de organização)
+712|Veste-se como alguém que vai a um funeral
+713|Nunca pergunta o motivo do trabalho
+714|Só fala com quem dá as ordens
+715|cumpre as ordens da organização com frieza e discrição
+716|Zelote (fé como arma)
+717|Canta ou reza durante a luta
+718|Não aceita rendição de ninguém, nem a própria
+719|Marca a pele com símbolos da seita
+720|luta por crença: não negocia, não recua e não pede cobertura
+721|Estaciona sempre de frente para a saída
+722|Tem uma segunda rota e uma terceira
+723|Mantém o motor ligado até o último segundo
+724|planeja a saída antes da entrada: rota, veículo e plano B
+725|Só decide depois de uma reunião sobre a decisão
+726|Guarda cópia de todos os e-mails
+727|Responde ao perigo pedindo um relatório
+728|resolve com prazos, contratos e seguranças: evita o confronto direto
+729|Guardião arcano
+730|Traça símbolos no ar antes de entrar em um cômodo
+731|Verifica o plano astral antes de abrir qualquer porta
+732|protege os aliados com barreiras, cura e contrafeitiços
+733|Adepto guardião
+734|Posiciona-se entre o grupo e a porta
+735|Medita antes de cada missão e depois de cada luta
+736|usa o corpo como escudo e investe em poderes defensivos
+737|Hacker de campo
+738|Narra o que vê na Matrix pelo rádio
+739|Mantém o deck sempre à vista dos aliados
+740|trabalha junto da equipe, em campo, com a Matrix a serviço do plano
+741|Comandante de enxame (rigger)
+742|Dá comandos a vários drones ao mesmo tempo
+743|Fala com a equipe como se fosse a voz de todos os drones
+744|comanda vários drones em apoio coordenado à equipe
+745|Entra em equipe: cada um cobre um setor e ninguém avança sem a confirmação dos outros.
+746|Vai na frente, reconhece o terreno em silêncio e só passa o que viu para o grupo.
+747|Dá a voz de comando, procura cobertura e chama reforço antes de arriscar.
+748|Põe o corpo entre o protegido e a ameaça e só pensa em retirar.
+749|Entra gritando e em bando, sem plano: a coragem vem de quem está ao lado.
+750|Deixa o trabalho para os outros e só aparece quando a vitória já é certa.
+751|Cumpre a ordem com frieza e sem teatro; não gasta nada além do necessário.
+752|Entra cantando ou rezando e não considera recuar.
+753|Define a rota de fuga antes de abrir fogo e mantém o veículo pronto.
+754|Evita o confronto: negocia, adia e deixa a segurança agir.
+755|Ergue barreiras e cura aliados antes de qualquer feitiço ofensivo.
+756|Entra na frente do grupo e usa o corpo como escudo.
+757|Prepara a Matrix para a equipe entrar: câmeras, portas e sensores.
+758|Libera os drones em ondas e os comanda como extensão da equipe.
+759|Confirma a posição de cada aliado antes de se mover
+760|Fala pouco e só passa informação útil
+761|Acredita que o grupo vence quando age como um corpo só
+762|"Posição confirmada."
+763|"Cubro seu lado."
+764|Tático
+765|Estuda saídas, ângulos e linhas de tiro ao entrar em qualquer lugar
+766|Desenha o terreno com o dedo no ar
+767|O plano certo vale mais do que a pontaria
+768|"Ângulo livre."
+769|"Mudamos de posição."
+770|Volátil
+771|Muda de ideia no meio da frase
+772|Passa do riso à fúria sem aviso
+773|Reage ao momento, não ao plano
+774|"Sabe de uma coisa? Dane-se."
+775|"Mudei de ideia."
+776|Imprevisível
+777|Nunca age do mesmo jeito duas vezes
+778|Decide no instinto, às vezes jogando uma moeda
+779|Gosta de manter todos sem saber o que virá
+780|"Achou mesmo que eu ia fazer isso?"
+781|Solitário
+782|Evita ficar perto de qualquer pessoa em combate
+783|Prefere resolver tudo sozinho
+784|Só confia em si mesmo
+785|"Não preciso de ajuda."
+786|Responde "sim, senhor" antes de entender a ordem
+787|Espera ordens antes de qualquer decisão
+788|A cadeia de comando existe por um motivo
+789|Fala alto para impressionar quem está perto
+790|Exagera cada vitória e esquece cada derrota
+791|Precisa mostrar que não tem medo de nada
+792|"Isso é tudo que vocês têm?"
+793|"Eu faria de novo!"
+794|Pragmático (lealdade condicional)
+795|Pesa o custo de cada risco em voz alta
+796|Ajuda quem está do mesmo lado, enquanto o lado for o mesmo
+797|Fica enquanto compensa e sai quando deixa de compensar
+798|Faz o trabalho e não comenta
+799|Mantém o equipamento sempre conferido
+800|Faz o que foi combinado, do jeito combinado
+801|"Trabalho é trabalho."
+802|Move-se com o grupo, confirma posições e cobre os setores dos outros.
+803|Gasta Edge para salvar a formação, não para brilhar.
+804|Escolhe ângulo, cobertura e rota antes de atirar; muda de posição quando o plano deixa de funcionar.
+805|Guarda Edge para Tomar a iniciativa e abrir a luta na posição que escolheu.
+806|Reage ao último estímulo: ataca, recua ou grita sem plano.
+807|Gasta Edge cedo, em um impulso, e fica sem nada para o fim.
+808|Faz o que o grupo não espera e nunca repete a mesma conduta.
+809|Usa Edge em um momento inesperado, até em ações sem importância.
+810|Age sozinho e não espera nem ajuda os aliados.
+811|Gasta Edge em si mesmo, sem pensar no grupo.
+812|Cumpre a ordem recebida e mantém a posição até alguém mandar o contrário.
+813|Só usa Edge quando o líder ou o plano mandam.
+814|Faz barulho, provoca e se expõe para mostrar coragem.
+815|Gasta Edge em ações teatrais para impressionar os outros.
+816|Pesa o custo e o ganho a cada rodada; muda de conduta quando o cálculo muda.
+817|Guarda Edge para sair vivo, não para vencer.
+818|Faz o combinado do jeito combinado, sem teatro e sem improviso desnecessário.
+819|Gasta Edge só em ações que protegem o objetivo.
+820|estabiliza o ferido antes de tudo, recusa lado e só reage para proteger o paciente
+821|evita o confronto, observa, copia o que puder e some antes que alguém perceba que estava lá
+822|trata a rua como negócio: foge de briga que não paga, mas defende o ponto e o estoque a qualquer custo

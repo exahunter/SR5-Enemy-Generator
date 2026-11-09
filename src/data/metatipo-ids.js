@@ -1,0 +1,1 @@
+function META_IDS(){const I={"Human":"a53d885d-a4a4-443d-b6a6-b0a55b0a96c7","Elf":"b3259991-b315-4dbe-ae3c-51f71a1116e2","Dwarf":"08f2c9cc-f9f8-4f1a-9efb-63555af71788","Ork":"8ed6892f-88e6-42d0-a704-b805778ec13e","Troll":"77fa1ed8-f4e6-4763-9f0b-f125318b9782"};for(const n in I)if(META[n]&&!META[n].id)META[n].id=I[n]}

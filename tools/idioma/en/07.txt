@@ -1,0 +1,205 @@
+1815|Saves all sheets, favorites and locks; re-import with "Import sheets"
+1816|.chum5, .xml, .zip or .json backup
+1817|Reroll all (non-favorites)
+1818|Rerolls each sheet respecting its locks
+1819|Confirm reroll all?
+1820|reroll all (
+1821|Goes back to the state before the last action across several sheets (delete, reroll all). It stays saved even if you reload the page
+1822|Delete non-favorites
+1823|Confirm: delete
+1824| non-favorites
+1825| all
+1826|Favorite: protected against deletion and against "Reroll all". Click to unmark
+1827|Favorite: protects this sheet against deletion
+1828|Favorite: remove the star to delete
+1829|sheet deleted: 
+1830|Skill level
+1831|<span title="Very strong critter: generated at its minimum level (
+1832|) instead of 
+1833|. You can lower it manually with the − button." style="color:#d9822b;margin:0 4px">⚠ generated at minimum (
+1834|); you can lower it with −</span>
+1835|<span title="From level 11 on, the attribute cap rises gradually up to twice the metatype's natural maximum (at level 100)" style="color:#d9822b;margin:0 4px">⚠</span>
+1836|Click to adjust the level
+1837|Generates the whole sheet again, respecting what is locked
+1838|Exit lock mode
+1839|Lock: turn on and click the sheet elements that should be kept when rerolling (
+1840|Exit reroll mode
+1841|Reroll part: turn on and click the sheet element that should be generated again (the rest stays as it is)
+1842|Quirk
+1843|In combat
+1844|Culture
+1845| <span class="note">(native language 
+1846|History
+1847|on the sheet (skill, knowledge or conduct)
+1848|sheet item
+1849|<span class="note">no sheet markers (only the tactics reflect this style)</span>
+1850|<div class="ps"><div><b>{0}</b> <span class="note">temperament</span></div><div class="chips">{1}</div></div>
+1851|<details class="ptat"><summary>Opening, stance and Edge</summary>⏎  {0}⏎  {1}⏎  {2}</details>
+1852|<p class="note">Habits: {0}</p>
+1853|<div class="pers" data-lk="pers"><div class="ph"><b>Acting profile</b> <span class="note">{0} marker{1} on the sheet ({2} from gear, spell or implant)</span></div><div class="pbar">{3}</div>{4}{5}{6}</div>
+1854|Group bond
+1855|Loyalty to the leader
+1856|<div class="row"><span>Relationship</span><span>{0}</span></div>
+1857|Ammo
+1858|Accuracy
+1859|Concealability
+1860|Data Proc.
+1861|Level 
+1862| · Selection: 
+1863|Quality 
+1864| karma
+1865|Choice: 
+1866|/month · 
+1867| · Armor 
+1868|factory-fitted
+1869|Armor 
+1870|source not given
+1871|Book and page not known: read the Chummer folder (“Read the Chummer folder and master index” panel) so the generator can find where this item is.
+1872|You haven't uploaded the PDF for 
+1873|): upload it in the “PDF books” panel to see the book text here.
+1874|Read the PDF again for 
+1875|this book
+1876| (“PDF books” panel) to see the book text here.
+1877|Book text not found: 
+1878|">open the PDF at that page</a></div>
+1879|<p class="note">… (the full text is in the book)</p>
+1880| Copy the text below and save it as <b>
+1881|Download not available in this viewer.
+1882|Saved. If the name ends in .txt, remove that part.
+1883|error
+1884|Nothing to export.
+1885|Could not generate the .zip in this viewer.
+1886|<div>Drop to import sheets<small>.chum5, .xml, .zip or .json backup</small></div>
+1887|Unsupported format. Use .chum5, .xml, .zip or a .json backup.
+1888| (type in the field to repeat)
+1889|Could not read one of the XML files.
+1890|Chummer data loaded from this site's storage.
+1891|Processing stored files (this time only)…
+1892|<button type="button" id="blankb" title="Creates an empty sheet to fill in by hand">Blank sheet</button>
+1893|<button type="button" class="ex" data-a="{0}" data-i="{1}" title="Remove" aria-label="Remove">×</button>
+1894|<summary>Edit sheet</summary><div class="edb">
+1895|Metatype
+1896|Skills
+1897|<div class="el2" data-g="sk">{0}</div><div class="ea"><span class="eaw"><input autocomplete="off" placeholder="skill" data-f="sk" class="ei"><div class="eac" data-r="sk" hidden></div></span><input type="number" min="1" max="24" value="3" data-f="skv" style="width:56px"><button type="button" data-a="ska">+</button></div>
+1898|<span class="note">none</span>
+1899|Knowledges
+1900|<input type="text" value="{0}" data-a="know" class="ew" placeholder="comma-separated"><input type="text" value="{1}" data-a="lang" placeholder="native language" style="width:150px">
+1901|<div class="el2" data-g="q">{0}</div><div class="ea"><span class="eaw"><input autocomplete="off" placeholder="quality" data-f="q" class="ei"><div class="eac" data-r="q" hidden></div></span><input type="number" min="0" max="40" value="5" data-f="qc" style="width:56px" title="Karma"><select data-f="qt"><option value="Positive">+</option><option value="Negative">−</option></select><button type="button" data-a="qa">+</button></div>
+1902|<div class="el2" data-g="g">{0}</div><div class="ea"><span class="eaw"><input type="search" autocomplete="off" placeholder="search item (weapon, armor, gear, cyber…)" data-f="g" class="ei"><div class="eac" data-r="g" hidden></div></span><button type="button" data-a="gc" title="Custom item with the typed name">custom</button><input type="number" min="0" value="0" data-f="gcost" style="width:80px" title="Cost in ¥"></div>
+1903|<span class="note">none</span>
+1904|Mundane
+1905|<div class="el2" data-g="sp">{0}</div><div class="ea"><span class="eaw"><input autocomplete="off" placeholder="spell" data-f="sp" class="ei"><div class="eac" data-r="sp" hidden></div></span><button type="button" data-a="spa">+</button></div>
+1906|<span class="note">no spells</span>
+1907|<div class="el2" data-g="pw">{0}</div><div class="ea"><span class="eaw"><input autocomplete="off" placeholder="adept power" data-f="pw" class="ei"><div class="eac" data-r="pw" hidden></div></span><input type="number" min="1" max="6" value="1" data-f="pwl" style="width:56px"><button type="button" data-a="pwa">+</button></div>
+1908|<span class="note">no powers</span>
+1909| PP per level · max. 
+1910|Spell not found in the catalog.
+1911|Power not found in the catalog.
+1912|<span><b>Defense</b> 
+1913|<span><b>Resist.</b> 
+1914|<span><b>Limits</b> 
+1915|Phys 
+1916|<table class="mw"><thead><tr><th>Weapon</th><th>Dice</th><th>Acc.</th><th>Damage</th><th>AP</th><th>Mode</th><th>RC</th><th>Ammo</th></tr></thead><tbody>
+1917|<div class="note">No weapon.</div>
+1918|<div class="ms"><b>Dice</b> 
+1919|</div><div class="mc"><div><b>High life</b><ol>
+1920|</ol></div><div><b>Low life</b><ol>
+1921|Exit table mode
+1922|Collapse or expand the whole group
+1923|Expand the group and all sheets
+1924|Collapse the group and all sheets
+1925|sheet
+1926|sheets
+1927|Download all (.zip)
+1928|<summary>View group JSON</summary>
+1929|<summary>More details ({0})</summary>
+1930|<details class="adv" id="mi"><summary>Read the Chummer folder and master index</summary>⏎<div style="display:grid;gap:8px;padding:8px 0">⏎<label>Chummer folder (the <b>data</b> folder or the Chummer root folder, with <b>customdata</b> if you use it)<input type="file" id="dirimp" webkitdirectory multiple></label>⏎<div id="dirmsg" class="note">Choose the folder and the generator reads all the XML files by itself, stores them in this browser and builds the index. Nothing leaves your computer.</div>⏎<input type="search" id="mq" placeholder="Search by name (e.g.: Wired Reflexes, Fireball, Arnis de Mano)" autocomplete="off">⏎<div style="display:flex;gap:8px;flex-wrap:wrap"><select id="msec"><option value="">All sections</option></select><select id="mbk"><option value="">All books</option></select><button id="mcsv" type="button">Download index (.csv)</button></div>⏎<div id="mcount" class="note"></div>⏎<div id="mres" style="max-height:340px;overflow:auto"></div></div></details>
+1931|<option value="">All sections (
+1932|<option value="">All books (
+1933|Empty index. Read the Chummer folder above, or open this panel again to build the index from the files already stored.
+1934|﻿Name;Section;Category;Book;Page;ID;File;Name on the page⏎
+1935|Defense
+1936|Damage resistance
+1937|Limits
+1938|Tradition
+1939|Effective Magic
+1940|Effective Resonance
+1941|Bound spirits
+1942|never
+1943|Vehicles and drones
+1944|Initiative
+1945|<b>Defense</b> 
+1946|<b>Resist.</b> 
+1947|<b>Limits</b> 
+1948|<div class="row wrow"><span class="wn">Armor</span> <span class="wd">— 
+1949| <span class="note">(value → dice it rolls)</span>
+1950| dice</b></span>
+1951|<span class="pool rg">with the specialization (+2): <b>
+1952|<span>Active implants <span class="note">(those that change dice, initiative or armor are already in the numbers)</span></span><span>
+1953|Active implants
+1954|Physical
+1955|Instant
+1956|Physical damage
+1957|Combat
+1958|Detection
+1959|Health
+1960|Illusion
+1961|Manipulation
+1962|(area)
+1963| <span class="note">(Force 
+1964|+2 specialization
+1965| · resists drain with 
+1966| dice (
+1967|File
+1968|Icon
+1969| · resists Fade with 
+1970| dice (WIL + RES)
+1971| — target: 
+1972|Data Proc. 
+1973| · limit 
+1974| · <b>Defense</b> 
+1975|)</span> · <b>Dmg resist.</b> 
+1976|More details (
+1977|Nothing found in the books read.
+1978|Read this book's PDF (“Active books and PDFs” panel) to see the excerpt.
+1979|No text on that page.
+1980|<div style="margin-top:6px"><a href="#" data-a="page" data-b="{0}" data-p="{1}" data-n="{2}">view the whole page</a>{3}</div>
+1981|weapons, weapon kits, bows, launchers
+1982|commlinks, decks, programs, ammo, gear
+1983|implants (cyber and bio)
+1984|vehicles and drones
+1985|skills (Chummer IDs)
+1986|critters and spirits
+1987|spells
+1988|weapon ranges
+1989|adept powers
+1990|book list
+1991|vehicles
+1992|The weapon catalog is reduced (see the notice at the top). Use <b>Restore built-in catalog</b> or import weapons.xml.
+1993|You can generate now: the full catalog is built into this file. Importing XML is optional and is for using exactly the data and books of <b>your</b> Chummer version (new books, community items).
+1994| already imported)</summary><div class="note" style="margin:6px 0">Your Chummer <b>data</b> folder. Select several at once in “Your Chummer data” (Advanced options).</div>
+1995| <span class="rg">$1 (Resist. dice = BOD + armor)</span>
+1996| <span class="rg">Wound penalty: 
+1997|<summary>Book actions</summary>
+1998|rules on hover only
+1999|<div class="actions"><button class="go" id="jsn">Copy group JSON</button><button class="go" id="zall">Download all (.zip)</button><button id="dall">Delete all</button><button id="prt">Print / PDF</button><span class="note">
+2000|Monitor (physical / stun)
+2001|Wound penalty
+2002|<div class="row"><span>Specializations</span><span>{0}</span></div>
+2003|<div class="row"><span>Knowledges</span><span>{0}</span></div>
+2004|<div class="row"><span>Languages</span><span>{0} (native)</span></div>
+2005|<div class="row"><span>Tradition</span><span>{0} · drain {1} ({2} dice) · Effective Magic {3} (max. Force {4})</span></div>
+2006|<div class="row"><span>Spells</span><span>{0}</span></div>
+2007|<div class="row"><span>Bound spirits</span><span>{0}</span></div>
+2008|<div class="row"><span>Submersion {0}</span><span>{1}</span></div>
+2009|<div class="row"><span>Initiation {0}</span><span>{1}</span></div>
+2010|<div class="row"><span>Powers</span><span>{0}</span></div>
+2011|<div class="row"><span>Vehicles and drones</span><span>{0}</span></div>
+2012|Modules: 
+2013| (Force 
+2014|<div class="row"><span>Qualities</span><span>{0}</span></div>
+2015|<div class="row"><span>Implants · {0} of {1}</span><span>{2}</span></div>
+2016|<div class="row"><span>Effective Magic</span><span>{0}</span></div>
+2017|<div class="row"><span>Effective Resonance</span><span>{0}</span></div>
+2018|Confirm: delete all?
+2019|Delete all

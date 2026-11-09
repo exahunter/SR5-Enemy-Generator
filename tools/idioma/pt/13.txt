@@ -1,0 +1,7 @@
+2417|Especialista
+2418|Batedor
+2419|Armeiro
+2420|Novato
+2421|Mago de segurança
+2422|Fiel
+2423|Assistente

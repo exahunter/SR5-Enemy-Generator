@@ -1,0 +1,156 @@
+194|Uses {DECK} to open doors and shut down cameras before the entry
+195|Aims with {W1} at the {legs|hands|shoulders} to knock the enemy's weapon away
+196|keeps shooting and {falls back a step, staying behind the allies|ducks behind the nearest ally|switches cover}, exposing himself as little as possible
+197|tries to stop the bleeding with {a medkit|a slap patch|a stimulant|an improvised compress} before going back to the fight
+198|asks the allies for cover and {steps back|changes position|reloads} without leaving the fight
+199|switches to {W2} or charges with whatever is at hand
+200|charges with whatever is at hand, {the butt, the knife or the fist|a chair or a piece of iron|anything that cuts}
+201|the wound enrages him: {ignores cover|shouts and picks up the pace|advances faster}
+202|calls for reinforcements ({RF}) {by radio|by phone|with an agreed signal} and holds the position until they arrive
+203|shows no pain: {keeps the same pace|grits his teeth|ignores the blood} so as not to shake the allies
+204|tells the team about the wound and {asks to be covered|hands the flank to an ally|swaps places with an ally}
+205|takes a firmer firing position: {braces the weapon|kneels|leans against a wall} and keeps shooting
+206|feeds on the fury of the fight: {shoots faster|aims at whoever wounded him|goes after whoever wounded him}
+207|counts how many enemies are left and {decides to save ammo|picks the next targets|reorganizes the attack}
+208|ignores the damage and {stays on his feet|keeps advancing|stays in the same position} because the group needs him
+209|shouts to the allies that he {is wounded but holding on|will hold the door|will keep shooting}
+210|starts looking at the exits and {shoots less|drifts away a little|moves closer to the door} without telling anyone
+211|thinks of his own skin: {shoots from behind safer cover|starts falling back every round|keeps his head down the whole time}
+212|tries to {hold the wound|bandage himself|take a stimulant}, but returns less willing
+213|slows down: {fires fewer shots|only shoots when it is safe|avoids leaving cover}
+214|looks at the leader waiting for an order to fall back{ and hesitates| and already steps back|, but stays in the fight}
+215|looks for the nearest exit and {moves toward it|starts to fall back|waits for the first distraction}
+216|starts shooting just to look like he is fighting: {aims high|fires without looking|wastes ammo for nothing}
+217|lowers the weapon for a moment and {looks at the enemy|asks if they can talk|asks how much they are paying}
+218|hides behind an ally and {lets him take the shot|waits for it to pass|slips out of the line of fire}
+219|throws away the heaviest weapon and {gets light to run|gets ready to run|looks at the exits}
+220|signals to the enemy that {he doesn't want to die|there may be a deal|the fight isn't his}
+221|collects what he can from an ally's body and {moves away|gets ready to leave}
+222|loyalty starts to give way: {looks back|counts the exits|thinks of his family} and hesitates
+223|realizes the fight is lost and {drifts away from the group|stops covering the others|keeps ammo for himself}
+224|the pain reminds him what his own life is worth: {leaves the line|shrinks back|lowers the weapon for a moment}
+225|starts to doubt: {is it worth dying for this?|this isn't in the contract|would the allies do the same?}
+226|leans on an ally and {asks for a moment|takes a deep breath|checks the magazine} before going back to the fight
+227|swaps places with a less wounded ally {and starts covering him|and goes to the second line|and reloads}
+228|closes the wound with {duct tape|a bandage|skin spray} and {goes back to shooting|goes back to his post}
+229|shouts to the nearest ally to {cover the flank|take over the attack|stay alert} and moves on
+230|takes a moment to {think|get his bearings|look around} and decides whether it is worth continuing
+231|puts a hand to the wound and {swears loudly|groans|breathes with difficulty}, losing accuracy
+232|mutters that {this isn't what he came for|he doesn't get paid enough|he doesn't want to die here} and takes a step back
+233|takes off the vest or the heavy backpack and {drops it on the ground|throws it to an ally|leaves it behind}
+234|stops aiming at the enemies and {looks at the ground|looks at the sky|can only think about getting out}
+235|the wound makes him think of {who is waiting at home|what he has lost|the price of the contract}
+236|fights until he falls and {covers the allies' retreat|holds the door for the allies to pass|lets the allies carry the wounded}, abandoning no one
+237|stands in front of the allies as a shield {to the end|while they regroup|while the leader decides}
+238|falls back in order, {covering the most wounded allies|pulling a fallen ally|firing to buy time}
+239|holds the position a little longer {for the allies|for the objective|for the leader|for the contract}
+240|drags a wounded ally {out of the line of fire|behind cover|to the medic}, even while bleeding
+241|blocks the corridor with his own body: {shoots from his knees|braces against the wall|uses the door as a support}
+242|gives an order {for the allies to fall back|for the group to reorganize|to close the formation} while he keeps fighting
+243|uses everything that is left: {ammo, grenades, adrenaline|the last magazines|whatever he finds on the ground} and keeps fighting
+244|fights more carefully: {saves his shots|picks each target|stays put} but doesn't leave his spot
+245|reports by radio {where the enemy is|what is left to do|that he can hold a little longer} and keeps fighting
+246|doesn't even think about falling back: {the fight is the only way out|honor lies in staying|he has already chosen where to fall}
+247|flees the fight {through the nearest exit|toward the car|through the back}, without looking back; with no escape route, {falls back to the most protected corner|shrinks behind cover and stops shooting}; with a wounded ally, {walks past him without stopping|only takes the wounded ally if he is in the way}; with an important ally still fighting, {delays the escape until he falls or is covered|stays one more round in the fight, eyes on the exit}
+248|drops the weapon and surrenders {with hands in the air|shouting that he gives up|on his knees}
+249|holds the position, {but is already choosing a way out|but looking back|but with a hand on the doorknob}
+250|falls back in order, covering himself behind the allies {without warning|without leaving the formation|until he reaches the door}
+251|turns his back and {leaves|runs|vanishes among the allies} taking advantage of the distraction; with no escape route, {hides behind the allies|stands still, without shooting}; with a wounded ally, {uses the wounded ally as cover|leaves the wounded ally where he is}; with an important ally still fighting, {waits for him to be covered before leaving|only leaves when he is distracted}
+252|asks the allies to {cover|wait|hold} and withdraws from the fight, promising to return; with no escape route, {stays behind whoever is covering|falls back only to the back of the position}; with a wounded ally, {takes the wounded ally along, if he can|hands the wounded ally to whoever is covering}; with an important ally still fighting, {doesn't leave before he is protected|stays close and returns sooner}
+253|fights a little longer, but {with one eye on the exit|looking back|already with a hand on the door}
+254|drops the weapon, {raises his hands|kneels|takes a step back} and shouts that he gives up
+255|turns his coat: {offers information|proposes a deal|asks to switch sides} in exchange for his life
+256|flees through the nearest exit, {abandoning the allies|dropping the backpack|without looking back}; with no escape route, {shoves an ally to clear a path|throws himself on the ground and waits}; with a wounded ally, {steps over the wounded ally|leaves the wounded ally behind}; with an important ally still fighting, {flees anyway|hesitates a moment and flees}
+257|throws himself on the ground and {plays dead|pretends to have fainted|waits for it to pass}
+258|shouts to the enemy that he {is on their side|has already crossed over|wants to talk to the boss}
+259|tries to slip away bit by bit, {crawling|in the smoke|behind a piece of furniture}; with no escape route, {waits for an opening without moving|goes back to the previous cover}; with a wounded ally, {takes the wounded ally if he can walk|doesn't move while the wounded ally is in sight}; with an important ally still fighting, {gives up leaving and goes back to shooting|moves slowly, without drawing attention}
+260|hands his weapon to an enemy and {asks to be taken in|promises to cooperate|says he knows where the others are}
+261|loyalty has a limit: {flees through the back|leaves|runs to the car} and leaves the allies behind; with no escape route, {tries to push through the allies|stays and fights with rage}; with a wounded ally, {doesn't even look at the wounded ally|had already dropped the wounded ally}; with an important ally still fighting, {looks at him once and leaves anyway|hesitates and stays one more round}
+262|loyalty has a limit: {surrenders|drops the weapon|raises his hands} and gives up the allies' position to save his skin
+263|loyalty has a limit: turns his coat if the enemy {promises to let him live|offers protection|offers money}
+264|changes his mind from one moment to the next: {leaves the fight|hides|hands over the weapon}; with no escape route, {changes his mind again and goes back to fighting|stays where he is, doing nothing}; with a wounded ally, {helps the wounded ally take cover first|forgets the wounded ally}; with an important ally still fighting, {returns to his side|ignores him and goes on with the new idea}
+265|asks the allies to {step back|take the front|close the rear} and stays to cover
+266|leans against the wall and {shoots more slowly|shoots without pause|keeps the corridor closed}
+267|uses his own body as a barricade: {at the door|in the corridor|on the stairs}
+268|sends an ally to carry the information while he {stays behind|holds off the enemies|delays the pursuit}
+269|decides the fight has gone too far and {walks out slowly|asks for a truce|gives an agreed signal}; with no escape route, {falls back slowly to the wall|stands still, without shooting}; with a wounded ally, {takes the wounded ally along|drags the wounded ally to cover}; with an important ally still fighting, {delays leaving and covers him|doesn't move away while he is standing}
+270|proposes to the enemies {a truce|a prisoner exchange|that they let the wounded go} while he holds the position
+271|shrinks behind cover and {refuses to come out|shouts that he surrenders|begs them to stop}
+272|hands over the gear {without resisting|in silence|complaining} and kneels
+273|shouts to the enemy {where the others are|where the money is|that the boss is to blame}
+274|loyalty ends here: {hides|leaves|throws the weapon away}; with no escape route, {stays and fights reluctantly|hides in the worst possible place}; with a wounded ally, {leaves the wounded ally without help|walks straight past the wounded ally}; with an important ally still fighting, {leaves anyway|waits for him to turn around and leaves}
+275|fires a last burst from the ground, {until he blacks out|until the magazine runs out|until the enemy falls or he does}
+276|blows himself up running toward the enemies {(pulls the pin on a grenade)|(with an improvised charge)|(with the last grenade)} to clear the way for the allies
+277|throws himself on the nearest enemy and {fights in melee|won't let go|holds him} so the allies can pass
+278|falls to his knees, but {keeps shooting|passes his ammo to an ally|shouts one last order} until he passes out
+279|uses what is left: {adrenaline|one last stimulant|the last grenade} to gain one more round
+280|hugs an enemy and {pulls the pin|won't let go|throws himself off a balcony with him} to buy the group time
+281|falls back dragging himself {to cover|behind an ally|to the medic}, still shooting
+282|holds the weapon with both hands and {shoots until he falls|aims at the enemy leader|aims at whoever is closest}
+283|if caught, {surrenders and begs for his life|turns his coat and gives up what he knows|cries and asks to live}
+284|falls and plays dead {to escape when he can|until everyone leaves|until someone passes by}
+285|turns his coat: {offers information|switches sides|gives up an ally} to save his life
+286|goes all the way: {fires the last burst|blows himself up running|throws the last grenade} if he still has the charge
+287|falls to his knees and {asks for help|shouts for a medic|promises to leave crime}
+288|if caught during the escape, {fights again|spins and shoots|throws the last grenade}; with no escape route, {fights where he is|leans against the wall and shoots}; with a wounded ally, {uses the wounded ally as an obstacle|protects the wounded ally by reflex}; with an important ally still fighting, {returns to his side|uses his fight as a distraction}
+289|blows himself up running toward the enemies to clear the way, {even without being loyal|out of pride|out of debt}
+290|if caught during the escape, {surrenders on the spot|begs for his life|hands over everything}; with no escape route, {surrenders before being attacked|drops the weapon and raises his hands}; with a wounded ally, {points out the wounded ally to buy time|surrenders along with the wounded ally}; with an important ally still fighting, {stays out until the fight is over|doesn't surrender while he is still fighting}
+291|if caught during the escape, turns his coat and {gives up his former allies|gives up the plan|gives up the hideout}; with no escape route, {switches sides quickly|joins the nearest group}; with a wounded ally, {gives up the wounded ally too|says nothing about the wounded ally}; with an important ally still fighting, {delays the betrayal until he falls|betrays before he notices}
+292|at the first distraction, {slips away and flees|vanishes through the window|runs again}; with no escape route, {waits for a bigger distraction|hides where he is}; with a wounded ally, {uses the wounded ally as a distraction|leaves without the wounded ally}; with an important ally still fighting, {uses his fight to get out|stays near him until the right moment}
+293|if the new side turns him down, {flees|surrenders|tries another side}; with no escape route, {tries another side again|surrenders to the first one who looks at him}; with a wounded ally, {offers the wounded ally to the new side|hides along with the wounded ally}; with an important ally still fighting, {tries to go back to his side|stays out of his fight}
+294|tries to slip away dragging himself, {crawling|rolling|sliding} to where no one can see
+295|tries one more negotiation: {offers money|offers information|offers a fake identity} in exchange for being left behind
+296|loses his nerve for good and {faints from fear|shrinks back|cries}
+297|walks off as if nothing were wrong: {slips out the door|turns the corner|blends into the street} and never comes back; with no escape route, {stays in the middle of the confusion as if it had nothing to do with him|mixes in with the wounded}; with a wounded ally, {walks past the wounded ally without looking|leaves the wounded ally on the floor}; with an important ally still fighting, {keeps walking without looking back|stops for a moment and leaves}
+298|blows himself up running toward the enemies {(a fanatic to the end)|(with the last grenade)|(with an improvised charge)}
+299|with his last breath, {loses his nerve and flees|gives up and runs|turns his back}, abandoning whoever was beside him; with no escape route, {stays on his feet and fights until he falls|falls to his knees and stops fighting}; with a wounded ally, {keeps the wounded ally at his side anyway|covers the wounded ally with his body for a moment}; with an important ally still fighting, {looks at him and stays a moment longer|follows the impulse and abandons his post}
+300|with his last breath, {surrenders and begs|drops everything and begs|raises his hands} to live
+301|with his last breath, shouts that he {switches sides|gives himself up|betrays the group} and points the weapon at the allies
+302|with his last breath, {grabs the money|grabs the keys|grabs the most valuable item} and flees alone; with no escape route, {hides with what he grabbed|stays and fights clutching what he grabbed}; with a wounded ally, {walks past the wounded ally without looking|leaves the wounded ally behind}; with an important ally still fighting, {leaves anyway|waits for him to get distracted and leaves}
+303|picks up the fallen ally's weapon and {keeps shooting|fires one more burst|shoots until it's empty}
+304|shouts a message {to his family|to the leader|to the allies} before falling
+305|gets up again {in spite of everything|out of stubbornness|for those left behind}
+306|uses his body as a door: {shuts the passage|blocks the stairs|holds the exit}
+307|uses his last hope: {calls for help by radio|calls the reinforcements|fires a flare}
+308|tries one last deal with {the enemy|their leader|whoever is closest}
+309|falls to the side and {lies still|takes a deep breath|calls for the allies}
+310|faints from pain {in the middle of the fight|behind cover|at the door}
+311|hides what he knows {in his pocket|in his memory|in a message} to sell later
+312|stops moving and {waits to be carried|waits for it to pass|waits for the end}
+313|promises to {serve the new side|never come back|give everything he has}
+314|sells out the allies {for a price|for a way out|for a favor}
+315|with his last breath, {hides the money|grabs the best weapon|steals the ammo} and leaves the allies with nothing; with no escape route, {curls up over what he grabbed|fights not to lose what he grabbed}; with a wounded ally, {steals from the wounded ally too|ignores the wounded ally}; with an important ally still fighting, {avoids being seen by him|keeps going with what he grabbed, without looking at him}
+316|with his last breath, {denies having stayed|swears he was never loyal|says he was only following orders} and surrenders
+317|Enters in stages: {clears room by room|advances from one door to the next|takes one sector at a time} and only moves on when the sector is secure
+318|Follows the mission plan: {meets the objectives in the agreed order|doesn't improvise without orders|returns to the plan after every surprise} even when it is tempting to act otherwise
+319|Attacks as a mob, without a plan: {all at once|each from a different side|shouting and shooting at the same time} and leaves the rest to chance
+320|Changes tactics without warning: {starts from afar and suddenly advances|switches targets every round|does the opposite of what the group expects} just to keep the enemy guessing what comes next
+321|Team ambush: {splits the shooters into two sides|closes the triangle of fire|syncs the first shot with the leader} and only opens fire when everyone is in position
+322|Shows force before attacking: {displays the weapons|shouts the gang colors|kicks the door and announces who has arrived} to make the enemy back down without a fight
+323|Gives the command: {orders them to drop the weapon and lie down|gives the formal notice of arrest|identifies himself and orders them to stop} and only shoots if ignored
+324|Opening ritual: {offers a group prayer|chants the sect's song|lights a symbol and attacks} before the first blow
+325|Reconnoiters before acting: {stays in a lookout position|studies the terrain|counts the enemies and the exits} and only then passes what he saw to the group
+326|Dominates the environment: {seals the exits and stays calm|speaks low and firm|lets the silence do the work} and only attacks when the target understands it has lost
+327|Support from a distance: {stays behind the group and casts|casts spells over the allies|keeps a line of sight to the group} and leaves the melee to the others
+328|Commands the fight through the Matrix: {shuts off the cameras before the first shot|opens the doors at the right time|locks the enemy weapons} and only then does the team enter
+329|Fire from {DR}: {puts the drones in front|releases the drones in two waves|uses the drones as bait} while staying behind cover
+330|Adept fighting: {goes into melee first|is the first to close the distance|uses speed to get there before everyone}
+331|Advances in bounds: {one covers while the other runs|alternates between running and shooting|never moves without someone covering} to the next position
+332|Keeps formation: {stays a few steps from the allies|moves in a wedge|follows the column without opening gaps} and goes no further than the group covers
+333|Runs with no clear direction: {changes direction with every step|runs back and forth|advances and retreats without thinking} leaving the enemy unsure where to aim
+334|Doesn't leave the position he was given: {holds the sector until he gets another order|stays at the agreed spot even under fire|only moves when told}
+335|Chases on impulse: {goes after the first one who runs|abandons cover to follow an enemy|runs after whoever insulted him}
+336|Plans the retreat before the entry: {marks the escape route|leaves the vehicle running|sets the meeting point} and always moves toward it; with no escape route, {changes the plan and heads for the meeting point|stays put and fights until he opens a way}; with a wounded ally, {takes the wounded ally to the meeting point|leaves the wounded ally in the vehicle}; with an important ally still fighting, {holds the vehicle until he gets out|delays the retreat while he is still standing}
+337|Covers the ally's sector: {looks at the side he can't see|stands back to back with him|changes position to close the angle he opened}
+338|Disappears from the fight when it heats up: {slips down the corridor|hides behind a vehicle|goes behind the group} and waits for the result
+339|Divides the sectors of fire: {each covers one angle|marks who watches each window|checks the allies' line of fire} and only shoots in his own
+340|Uses cover theatrically: {kicks the table over to make a shield|jumps behind the car with a shout|shoots standing and only ducks when they miss}
+341|Doesn't stay still: {changes cover every round|never uses the same cover twice|changes place as soon as he is seen}
+342|Team cover: {opens fire so the others can change position|covers whoever is moving|lays down suppressive fire at the exact moment}
+343|Magic barrier: {raises a barrier between the group and the enemy|casts protection over the allies|uses protective magic before any shot}
+344|Cover through the Matrix: {zeroes out the enemy sensors|locks the electronic sights|scrambles their vision}
+345|Follows the chain of command: {waits for the leader's order|carries out the order without arguing|repeats the order and executes it}
+346|Keeps constant communication: {announces position and ammo by radio|reports every change of sector|says who fell and who is advancing} so the group acts together
+347|Covers the partner: {picks a colleague and never loses sight of him|forms a fixed pair|watches the partner's blind spot}
+348|Takes point: {goes first, opening the way|serves as the spearhead|enters first for the others}
+349|Attacks on his own: {ignores the plan and starts shooting|decides alone whom to attack|acts before the group understands what is happening}

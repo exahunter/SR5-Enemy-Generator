@@ -1,0 +1,543 @@
+1272|Keeps the fleet running in the middle of the fight.
+1273|Attacks first and ignores cover when winning; only falls back if the physical monitor goes past half.
+1274|Spends Edge to blow up an attack (Push the Limit).
+1275|Checks exits and cover before anything; leaves combat before the situation turns bad.
+1276|Saves Edge to Seize the Initiative and to avoid damage.
+1277|Follows the plan to the end; whatever wasn't in the plan is handled late.
+1278|Spends Edge to reverse a mistake in the plan, not to attack.
+1279|Changes plans during the fight; decides fast and regrets it later.
+1280|Spends Edge early, without waiting for the need.
+1281|Asks the price before acting; drops the job if the other side offers more.
+1282|Spends Edge to protect what he carries, not the group.
+1283|Saves ammo, time and risk; only shoots when he has to.
+1284|Hoards Edge and rarely spends it.
+1285|Picks the angle that makes him look best in the scene and avoids what dirties or hurts him.
+1286|Spends Edge so as not to be visibly wounded.
+1287|Assumes a trap: positions himself near the exit and watches every gesture.
+1288|Spends Edge early, to Seize the Initiative and avoid surprises.
+1289|Puts the group in front of himself; falls back only with everyone safe.
+1290|Spends Edge to save an ally, not himself.
+1291|Avoids combat and looks for an exit as soon as the shooting starts.
+1292|Spends Edge to escape, not to wound.
+1293|Neither retreats nor surrenders; picks the target that symbolizes the cause.
+1294|Spends Edge without hesitating when the cause is at stake.
+1295|Uses the new equipment whenever possible, even if it isn't the best for the situation.
+1296|Spends Edge to force a failure in the other side's equipment.
+1297|Avoids technology: trusts the body, instinct and terrain.
+1298|Spends Edge on physical tests, never on electronic ones.
+1299|Drags out the confrontation to see the fear: picks the weakest targets before the strong.
+1300|Spends Edge to inflict extra damage on someone already down.
+1301|Doesn't attack the unarmed or from behind; gives a chance to surrender.
+1302|Spends Edge to keep his word, not to cheat.
+1303|Calm under fire: uses the right cover and counts every shot; has seen worse.
+1304|Spends Edge with calculation, only when it changes the outcome of the scene.
+1305|Máquina Conversion
+1306|Simple Action
+1307|Complex Action
+1308|Free Action
+1309|Interrupt
+1310|Defense test
+1311|Extended Action
+1312| Initiative)
+1313|Weapon accuracy
+1314|of the weapon
+1315|Physical
+1316|of the natural weapon
+1317|; pool 
+1318|; limit 
+1319|book actions
+1320|Book actions cited in the tactics and conduct: 
+1321|natural weapon
+1322|<b>Files stored on this site (
+1323|<div class="row"><span>{0} <span class="note">{1} KB</span></span><button class="rm" data-n="{2}">Remove</button></div>
+1324|<span class="note">No files stored yet. The XML files you import are saved in this browser and reloaded every time you open the site.</span>
+1325|: mk must be a function
+1326|<option value="rand">Random (with sub-metatypes)</option><option value="randbase">Random (base only)</option>
+1327|Defense (Reaction + Intuition)
+1328|Damage resistance (Body + armor)
+1329| <span class="note">(armor 
+1330|Limits (physical / mental / social)
+1331|<div class="note" style="margin-top:6px">Weapons</div>
+1332|a grenade
+1333| · Occupation doctrine: 
+1334|Conduct at high health: 
+1335|action: 
+1336|skill: 
+1337|<span title="sheet skill that supports this conduct">
+1338|<span title="sheet power that motivated this conduct">power 
+1339|Book actions cited in the conducts: 
+1340|Temperament: 
+1341|Conduct at low health: 
+1342|<option value="rand">Random</option>
+1343| · Data Proc. 
+1344|Matrix initiative (VR) 
+1345|Nothing to undo.
+1346| sheet
+1347| had already changed or reverted
+1348|weapon
+1349|implant kit: weapons and gear
+1350|Reduced weapon catalog: only 
+1351| weapons (the full one has more than 400). This usually comes from an old XML stored on this site. Without the full catalog, the weapon kits (Smartgun, Rocketeer, Bowman…), bows, launchers and machine guns are left out, and NPCs only use basic weapons. To fix it: use the button below (it deletes the stored XML and reloads with the full catalog already included in this file) or import weapons.xml and gear.xml again (Advanced options > Your Chummer data).
+1352|Restore built-in catalog
+1353|Deletes the XML files stored on this site (your sheets are kept) and reloads the page
+1354|Delete the XML files stored on this site and reload with the built-in catalog? Your generated sheets are kept.
+1355|gear
+1356|coherent gear
+1357|specializations (skills.xml)
+1358|specializations from the final profile
+1359| dice in spells of 
+1360| dice in 
+1361| free levels
+1362| free level
+1363|Chummer extras
+1364|Chummer data (spirit powers, vessel)
+1365|, armor 
+1366| dice) · Effective Resonance 
+1367| <span class="note">(resonant stream, 20 karma)</span>
+1368|<br><span class="note">Applied to the sheet: 
+1369|AI Programs
+1370| (max. 
+1371|SIN and licenses
+1372| · fake licenses: 
+1373| · licenses: 
+1374|Spirit Powers
+1375|Lifestyle
+1376|licenses and mentor
+1377|Licenses (legal): 
+1378|limit 
+1379|quality 
+1380|Chummer extras (streams, mentors, drugs…)
+1381|Supports the family with two jobs and can't lose either
+1382|Owes a medical bill to someone dangerous
+1383|Wants out of the sprawl and has saved almost enough
+1384|Just wants to get home alive today
+1385|Hides a secret the neighborhood can't know
+1386|Saw something he shouldn't have and doesn't know whom to tell
+1387|Wants the promotion and will walk over anyone necessary
+1388|Protects a project he has realized is dangerous
+1389|Embezzled funds and needs no one to look at the numbers
+1390|Wants out of the corporation without being hunted
+1391|Is loyal to the company out of fear, not by choice
+1392|Negotiates in secret with a rival corporation
+1393|Needs to prove his worth to the boss before being discarded
+1394|Avenges someone from his own gang killed by a rival faction
+1395|Is in debt to a loan shark and accepts any job
+1396|Wants the neighbor's territory and will get it even if the bridge falls
+1397|Protects the family living on the block
+1398|Likes the power the gun gives and doesn't know how to live without it
+1399|Fulfills the contract and goes home; heroism doesn't pay overtime
+1400|Believes in the law, but is tired of watching it lose
+1401|Receives a monthly bribe and hesitates to break the deal
+1402|Has something to prove after a mistake in the past
+1403|Wants the medal, the bonus or the promotion at the end of the shift
+1404|Wants to avenge a colleague killed in the same neighborhood
+1405|Follows the money and the contract, no questions
+1406|Has a code of honor and only breaks it for a good reason
+1407|Carries the guilt of an operation that went wrong
+1408|Is paying for someone's treatment and needs every nuyen
+1409|Likes the job and doesn't know what to do with life without it
+1410|Looks for the right target to settle old scores
+1411|Lives on information and sells to the highest bidder
+1412|Wants to quit the game with one last big score
+1413|Owes a big favor to someone he can't refuse
+1414|Pays a relative's tuition with every run
+1415|Works for two parties at once
+1416|Looks for a name that came up in an old run
+1417|Wants to be remembered by someone, somehow
+1418|Is scared and tries to hide it
+1419|Distrusts everyone and has been betrayed before
+1420|Has a personal goal that has nothing to do with the job
+1421|Believes this is just a job
+1422|Talks to himself when nervous
+1423|Never takes off his gloves
+1424|Smells of perfume too expensive for the job
+1425|Counts coins or cartridges before every decision
+1426|Collects a strange kind of trinket
+1427|Stutters only when he lies
+1428|Always whistles the same tune
+1429|Has a scar whose story changes every time
+1430|Prays or makes a protective gesture before acting
+1431|Eats nonstop when tense
+1432|Hates weapons of a certain brand and refuses to use them
+1433|Can't stand silence and strikes up a conversation with anyone
+1434|Carries an old photo and looks at it at the wrong moments
+1435|Apologizes before threatening
+1436|Has an animal's name tattooed on his neck
+1437|Avoids eye contact and fixes on the forehead
+1438|Cracks a joke at the wrong time and regrets it
+1439|Corrects other people's grammar even under fire
+1440|Has a nervous tic in his dominant hand
+1441|Uses slang nobody else understands
+1442|Only sleeps with the light on
+1443|Chews all the time (gum, a toothpick or nothing)
+1444|Is too polite to whoever pointed a gun at him
+1445|Is devoted to a stray cat that follows him
+1446|Over-tips everywhere
+1447|Touches the amulet before shooting
+1448|Has an accent that changes when he gets angry
+1449|Has a phobia of elevators and escalators
+1450|the local police
+1451|the building security
+1452|the corporation's response team
+1453|the rest of the gang
+1454|a partner with a car
+1455|the local cell
+1456|the nearest patrol car
+1457|the response team
+1458|the supervisor with two more guards
+1459|the rest of the squad
+1460|a support helicopter
+1461|a well-armed contact
+1462|the driver with backup
+1463|a favor owed
+1464|more of the cult's faithful
+1465|the rest of the entourage
+1466|the venue's security
+1467|the unit's support
+1468|the second squad
+1469|the district's patrol cars
+1470|a tactical squad
+1471|Doesn't flee: fights until he falls
+1472|gancho.pen.sem
+1473|Calls for reinforcements in round {0}: about {1} people ({2}), arriving in ~{3} min
+1474|Doesn't call for reinforcements
+1475|Surrenders if cornered
+1476|Doesn't surrender
+1477|Motivation: 
+1478|Quirk: 
+1479|In combat: 
+1480|Culture: 
+1481| (native language 
+1482|Same gang
+1483|Contract with a megacorporation
+1484|Ex-military from the same unit
+1485|Cult or sect
+1486|Organized crime family
+1487|Hired private security
+1488|Smuggling crew
+1489|Group of radicalized protesters
+1490|Relative of {0}
+1491|Ex-partner of {0} (it ended badly)
+1492|Rival of {0} for prestige in the group
+1493|Creditor of {0}
+1494|Mentor of {0}
+1495|Protégé of {0}
+1496|Secret romance with {0}
+1497|Is blackmailed by {0}
+1498|Served in the same unit as {0}
+1499|Undercover informant: passes information to a rival faction
+1500|Bought loyalty: betrays for a better offer
+1501|Generic group (leader, shooter and goons)
+1502|Street gang (gangers)
+1503|Gang allied with a syndicate
+1504|Gang in a turf war
+1505|Syndicate cell (mafia, yakuza, vory)
+1506|Cell of a local syndicate
+1507|Rowdy crowd (riot or protest)
+1508|Rioting fans
+1509|Police patrol (Lone Star / local force)
+1510|Local police force
+1511|Knight Errant unit
+1512|Corporate security team (rent-a-cops)
+1513|High threat response squad (HTR)
+1514|A megacorp's high threat response
+1515|Special operations team (spec ops)
+1516|Corporate special operations
+1517|Band of mercenaries
+1518|Hired by a Mr. Johnson
+1519|Bounty hunter team
+1520|Contract from a megacorporation
+1521|Smuggler crew
+1522|A syndicate's smuggling network
+1523|Rival runner team
+1524|VIP entourage (target and bodyguards)
+1525|Politicians and their security
+1526|Ambush (gang, syndicate or mercenaries)
+1527|the leader coordinates and keeps morale up
+1528|the boss sets the pace and the others follow
+1529|the sergeant keeps the formation
+1530|the supervisor coordinates from a distance
+1531|shooters cover from a distance
+1532|the scout clears the way and gives the alert
+1533|the decker controls cameras, doors and communication
+1534|the mage supports with spells and spirits
+1535|the security mage watches the astral
+1536|the adept goes into melee
+1537|the technomancer dominates the Matrix
+1538|the field medic keeps the wounded on their feet
+1539|the armorer carries extra weapons
+1540|the goons make up the numbers and flank
+1541|the rookies hesitate under fire
+1542|the bodyguards close around the target
+1543|the VIP tries to flee as soon as the shooting starts
+1544|group summary
+1545|<div class="gcard" data-gid="{0}"><h3>{1} <span class="chip k">{2} people · average level {3}</span><span class="gx"><button class="gcopy" type="button">Copy summary</button><button class="gdl" type="button">Download .txt</button></span></h3>
+1546|Group
+1547|Threat
+1548|<b>{0}</b> <span class="note">(score {1}: level+2 per person, plus 2 per awakened and 1 per decker, rigger or technomancer)</span>
+1549|Average initiative
+1550| (with dice)
+1551|Bond
+1552|Cultural origin
+1553|Standard equipment
+1554|Doctrine
+1555|Opening
+1556|Development
+1557|Synergies
+1558|Roles
+1559|Breaking point
+1560|Tactic
+1561| people · average level 
+1562|Threat: 
+1563| (score 
+1564|Average initiative: 
+1565|Bond: 
+1566|Cultural origin: 
+1567|Standard equipment: 
+1568|Tactic: 
+1569|, level 
+1570|Group summary copied.
+1571|Couldn't copy; use "Download .txt".
+1572|group
+1573|the leader
+1574|the group closes ranks and fights more carefully
+1575|half keeps fighting and the other half falls back
+1576|the group loses its bearings and each decides for himself
+1577|. When it breaks, 
+1578|; with no escape route, 
+1579|the group huddles in the most protected corner and holds the position
+1580|whoever can't get out surrenders or hides behind the allies
+1581|; with a wounded ally, 
+1582|takes the wounded if he can walk
+1583|leaves the wounded where he is
+1584|an ally stays behind to cover the wounded
+1585|; with an important ally still fighting, 
+1586|the group delays the retreat until he falls or is covered
+1587|the retreat begins and he is left behind
+1588|whoever is closest covers him until he can leave
+1589|The group 
+1590|Doctrine: 
+1591|Opening: 
+1592|Development: 
+1593|Synergies: 
+1594|Roles: 
+1595|Breaking point: 
+1596|Group tactic (
+1597|Nationality
+1598|Childhood
+1599|Adolescence
+1600|Higher education
+1601|Adult life
+1602|life history
+1603|Life history: 
+1604|contacts, complex forms, lifestyles, mentors
+1605|Invalid XML
+1606|not a Chummer sheet (.chum5)
+1607|JSON is not a generator backup
+1608|JSZip unavailable
+1609| sheets, favorites and locks included).
+1610|I couldn't find any Chummer XML files in that folder. Choose the "data" folder (or Chummer's root folder).
+1611|Importing the data into the generator…
+1612|Building the index…
+1613|I couldn't read the folder: 
+1614|Building the index from the 
+1615| stored files…
+1616|Index built from the stored files.
+1617|Role: 
+1618|Threat 
+1619|Group: 
+1620|Initiative 
+1621|Physical/stun monitor 
+1622|Defense 
+1623|Limits 
+1624|The item notes are a summary generated by the app (source, page and rules data). The full text of the books comes from the PDFs: link them in the Chummer options.
+1625|implants, kits and magic
+1626|post-generation steps (npcPos)
+1627|full text not found — 
+1628|Extracting the text of 
+1629|: page 
+1630|<div class="row"><span>I couldn't identify: {0} <span class="note">({1} pages)</span></span><span><select data-u="{2}">{3}</select> offset <input type="number" value="0" style="width:70px" data-o="{4}"> <button type="button" data-ok="{5}">Use</button></span></div>
+1631|Book 
+1632| pages, offset 
+1633|Error reading the PDF: 
+1634| · no PDF
+1635|You uploaded this book's PDF
+1636|You haven't uploaded this book's PDF
+1637| (and it is checked: the generator uses its items, but doesn't show the text or the page)
+1638|<div class="row"><span>{0}</span><span class="bkpdf no{1}">no PDF</span></div>
+1639|<div class="pdfno"><b>Books without a PDF</b> 
+1640|<span class="note">No PDF uploaded yet.</span>
+1641| checked books have a PDF.</span>
+1642|<div class="note pdfwarn">Checked in "Active books", but without a PDF (
+1643|): the generator draws items from them, it just doesn't show the book text, the right page or the search.</div>
+1644|<div class="note">All checked books have a PDF.</div>
+1645|<details><summary class="note">Other books without a PDF (
+1646|, not checked)</summary>
+1647|Active books and PDFs: right page and text search
+1648| · no PDF uploaded
+1649| · all checked ones have a PDF
+1650|<b>Books read</b>
+1651|text stored
+1652|old text: re-read this PDF for the full excerpt
+1653|no text stored
+1654| · PDF open in this session
+1655|<div class="note">Chummer: in Options > Books, set each book's offset so it opens the PDF at the right page. <button type="button" id="pdfcp">Copy list</button></div>
+1656|without the PDF of 
+1657|): you did not upload it
+1658|old text of 
+1659|invalid page (
+1660|text of 
+1661| not loaded
+1662|title not found in 
+1663| (page 
+1664|<b>Last export (JSON):</b> 
+1665| items with the book text.
+1666| without text: 
+1667|PDF p. 
+1668|no similar line near page 
+1669|error: 
+1670|no source
+1671|no page
+1672|acts on his own
+1673|average coordination
+1674|tactical
+1675|average tactics
+1676|volatile and unpredictable
+1677|a bit unstable
+1678|predictable
+1679|stable
+1680|fragile
+1681|personality kit
+1682|personality and tactics
+1683|personality and guaranteed weapon
+1684| (skill)
+1685|Vehicle/drone
+1686|Spirits
+1687|Skill
+1688|Weapon
+1689|Accessory
+1690|Gear
+1691|Powers
+1692|Armor
+1693|tactic
+1694|Implant
+1695|Quality
+1696|Knowledge
+1697|Armor mod
+1698|Implants
+1699|doesn't flee
+1700|flees at 
+1701|% of the monitor
+1702|surrenders if cornered
+1703|doesn't surrender
+1704|calls for reinforcements
+1705|doesn't call for reinforcements
+1706|Motivation
+1707|Select the field text and copy it (Ctrl+C).
+1708|download not supported
+1709|.zip (extract it to get the .chum5).
+1710|.chum5 (see your browser's downloads folder). In Chummer: File > Open.
+1711|qualities
+1712|initiation/submersion
+1713|power points (mystic)
+1714|extra skills/knowledges
+1715|contacts above the free quota
+1716|<div class="row"><span>Karma</span><span>{0} of {1} <span class="note">(initial {2} + career {3})</span>{4}</span></div>
+1717| · spent: 
+1718|<div class="row"><span>Money</span><span><b>{0}</b> in account · {1} in gear · resources {2} <span class="note">(level {3}{4})</span></span></div>
+1719|; gear above the table
+1720|name
+1721|metatype
+1722|skills
+1723|type
+1724|strength
+1725|acting profile
+1726|weapons
+1727|armor
+1728|Nothing to undo on this sheet.
+1729| went back to the previous state.
+1730|Conduct of 
+1731| redrawn (the rest of the sheet didn't change).
+1732|powers
+1733|tradition
+1734|Skills: 
+1735|knowledges
+1736|I couldn't reroll the conduct: 
+1737|The draw for 
+1738| landed on the same set (its profile has few options). Nothing changed.
+1739|Rerolled only 
+1740|I couldn't reroll: 
+1741| New qualities: 
+1742| New gear: 
+1743|Strength 
+1744|level 
+1745| (same type and name).
+1746| (name, metatype, qualities and gear kept; attributes and skills adjusted; implants and magic redone).
+1747|I couldn't change the level: 
+1748|Acting profile: 
+1749|; temperament: 
+1750| markers on the sheet)
+1751|Opening (
+1752|Stance (
+1753|Habits: 
+1754|Mentor Spirit (add it in Chummer, costs 5 karma): 
+1755|Group bond: 
+1756|Loyalty to the leader: 
+1757|Creation order
+1758|Name (A–Z)
+1759|Level: highest first
+1760|Level: lowest first
+1761|Occupation (A–Z)
+1762|Expand all
+1763|Collapse all
+1764| sheets
+1765|<button type="button" id="ach-col">Collapse all</button><button type="button" id="ach-clr" hidden>Clear</button></div>
+1766|<input type="search" id="ach-q" placeholder="Name, occupation, weapon, gear…" aria-label="Search sheets"></label>
+1767|<div class="ach-r"><label class="ach-f"><span>Occupation</span><select id="ach-t"><option value="">All</option>
+1768|<div class="ach-f"><span>Level</span><span class="ach-lv"><input type="number" id="ach-min" min="0" placeholder="from" aria-label="Minimum level"> – <input type="number" id="ach-max" min="0" placeholder="to" aria-label="Maximum level"></span></div>
+1769|<button type="button" id="ach-fav" class="ach-chip" aria-pressed="false">★ Favorites only</button></div></div></div>
+1770|Collapse / expand the sheet
+1771|Collapse or expand the sheet
+1772|Name
+1773|Type
+1774|Strength
+1775|Qualities
+1776|Weapons
+1777|Magic
+1778|Acting profile
+1779|the name (and the contacts tied to it)
+1780|the attributes
+1781|the skills
+1782|the qualities
+1783|the weapons, with accessories and ammo
+1784|the armor
+1785|the other items (commlink, kits, drones…)
+1786|the implants
+1787|the magic (tradition, spells, powers)
+1788|the acting profile (and what it picks on the sheet)
+1789|the combat conducts (high health and low health)
+1790|the critter type
+1791|the Strength
+1792|Adjust this sheet <span class="note">reroll only a part or lock what you liked</span>
+1793|Reroll only 
+1794| (the rest doesn't change)
+1795|Reroll only: 
+1796|<span class="note">Click on the sheet:</span>
+1797|Turns the shortcut on/off: click a block of the sheet (name, attributes, skills…) to lock or unlock it
+1798|Turns the shortcut on/off: click a block of the sheet to reroll only that block
+1799|Locked: doesn't change when rerolling the rest. Click to unlock
+1800| (applies to "Reroll the rest")
+1801|Removes all locks from this sheet
+1802|Locks every item on this sheet
+1803|Confirm? is a favorite
+1804|Generates the sheet again keeping only what is locked
+1805|Nothing locked: generates the whole sheet again
+1806|Goes back to this sheet's previous state (
+1807|Nothing to undo yet
+1808|<details class="pcd"><summary>Combat conduct</summary><p><b>Temperament:</b> {0}</p><p class="ph hi"><b>High health (3)</b></p><ol class="hi">{1}</ol><p class="ph lo"><b>Low health (3)</b></p><ol class="lo">{2}</ol>{3}</details>
+1809|<p><b>Book actions</b> <span class="note">(actions.xml; critter dice pool when the sheet allows)</span></p><ul>{0}</ul>
+1810|<details class="pcd"><summary>Combat conduct</summary>{0}<p class="ph hi"><b>High health (5)</b></p><ol class="hi">{1}</ol><p class="ph lo"><b>{2}</b></p><ol class="lo">{3}</ol>{4}</details>
+1811|<p><b>Profile:</b> {0}</p>{1}
+1812|<p class="note">Occupation doctrine: {0}</p>
+1813|<p><b>Book actions</b> <span class="note">(actions.xml; NPC dice pool when the sheet allows)</span></p><ul>{0}</ul>
+1814|; powers: 

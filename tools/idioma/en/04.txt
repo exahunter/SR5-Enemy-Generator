@@ -1,0 +1,325 @@
+498|Attacks from above: {dives on the target|circles the group|keeps altitude out of reach of short weapons} and only comes down to attack
+499|Takes advantage of speed or movement mode: {runs around the group|passes where no one can follow|attacks and vanishes before the response}
+500|Accepts damage to buy time: {keeps fighting even wounded|ignores light wounds|returns to the attack after recovering} and flees only when regeneration can no longer cope
+501|Advances without protecting itself: {makes use of its armor|ignores ordinary weapons|withstands heavy fire} and changes target when the enemy starts using what hurts it
+502|Imitates sounds and voices: {calls whoever is alone|lures the group into a trap|confuses whoever tries to coordinate} and attacks whoever falls for the bait
+503|Controls or persuades before fighting: {orders animals to attack|diverts an ally the wrong way|stops an enemy from acting} and lets the others do the work
+504|Uses the elemental attack from afar: {keeps its distance|attacks in a straight line|alternates between targets}, and only goes to contact when the energy runs out
+505|Attacks with the longest-reaching natural weapon and {switches to another if the target backs off|delivers the next blow without waiting|keeps at the first cut}
+506|Picks the target by its keenest sense: {by smell|by sound|by vibration|by heat} and ignores whoever tries to hide another way
+507|Alternates between the physical and the astral plane: {vanishes from one when the enemy aims|attacks from one and takes refuge in the other|picks the plane where the enemy is weakest}
+508|Disrupts the enemy before wounding: {disorients whoever leads|confuses whoever aims|scrambles the senses of whoever tries to help the wounded} and attacks whoever lost their bearings
+509|Drains the energy of whoever it reaches: {picks whoever is already wounded|keeps at the same target|switches target at every contact} and only moves away when the target falls
+510|Blends in with the surroundings: {stands still among similar things|only moves when no one is looking|goes back to blending in after each blow} and attacks up close
+511|Stands guard: {between the protected target and the enemy|near the spot it protects|attacking only whoever tries to pass}
+512|keeps attacking {at the same pace|more slowly|looking for the weak point}, exposing itself little
+513|falls back a step and {returns to the attack|waits for the enemy to approach|roars and charges}
+514|eats, licks the wound or stands still for a moment and {returns to the attack|attacks whoever wounded it}
+515|keeps defending the territory, without advancing beyond where it was
+516|falls back to the safest point of the territory and {waits for the enemy to come|attacks only whoever gets close}
+517|is enraged by the pain: {ignores cover|charges the nearest enemy|attacks without protecting itself}
+518|tries to flee the fight by the nearest path and only attacks if prevented
+519|hides or moves away from the group and {stays still|waits for the noise to stop}
+520|panics: {runs without direction|throws itself against the first obstacle|attacks the first one that touches it}
+521|falls back to its hiding place and {waits for an opening|stays motionless|changes place}
+522|attacks again only if the target is within reach and {vanishes right after|hides again}
+523|tries to leave the fight {by the same path|by the darkest exit}, leaving the rest to the group
+524|assesses what has changed and {looks for an exit|switches target|falls back to regroup}
+525|uses what is left of the terrain and the weapons at hand to {clear a path|buy time|bring the enemy to a worse place}
+526|thinks about the objective and {insists|negotiates|surrenders}, whichever is cheapest at that moment
+527|keeps carrying out the registered task, {without retreating|switching targets|using the host that sustains it}
+528|loses stability and {moves away from the center of the fight|returns to the origin node|protects the compiler's device before attacking}
+529|is being deregistered, {acting to the end|following the last order|taking with it what it can}
+530|keeps carrying out the order received, {without retreating|switching targets only if told|staying next to the creator}
+531|loses vigor and {moves away from the center of the fight, if the creator orders it|returns to the creator's side|covers the creator before attacking}
+532|is coming undone, {attacking to the end|following the last order|taking with it what it can}
+533|keeps carrying out the service, {without retreating|switching targets|using the terrain that strengthens it}
+534|loses strength and {moves away from the center of the fight|returns to its element of origin|protects whoever summoned it before attacking}
+535|dissolves or slowly comes undone, {attacking to the end|following the last command|taking with it what it can}
+536|flees the fight {to its hiding place|by the nearest exit|back where it came from}; with no escape route, {curls up in the most protected corner|fights with its back to the wall}; with a wounded ally, {passes by without stopping|takes him along, if he fits on the way}; with an important ally still fighting, {delays the flight until he falls or is covered|goes for the escape and leaves him}
+537|goes all the way, {attacking whoever is closest|dragging someone down|trying to take the enemy along}
+538|stays where it is and attacks {whatever approaches|whatever wounded it}, without retreating a step
+539|thrashes blindly, {knocking over everything nearby|rolling on the ground|clawing whoever approaches}
+540|with no hiding place left, {leaps in one last charge|curls up on itself}, careless of what comes next
+541|knows it is nearly dead and {uses the last resource|attacks the most dangerous enemy|tries to protect what it came to protect}
+542|is nearly deregistered and {uses everything that remains in one last action|follows the compiler's last order|erases itself from the node it was in}
+543|is nearly undone and {uses everything that remains in one last blow|follows the creator's last order|stands between the enemy and the creator until it falls}
+544|is nearly undone and {uses everything that remains in one last blow|obeys the last command|withdraws to its plane of origin}
+545|Gecko Grip (for Weapon with No Stock Slot)
+546|Armanté Suit
+547|Armanté Dress
+548|Zoé: Executive Suite
+549|Zoé: Heritage 4
+550|Zoé: Heritage 6
+551|Zoé: Heritage 8
+552|Zoé: Heritage 10
+553|Zoé: Heritage 12
+554|Zoé: Nightshade/Moonsilver
+555|Zoé: Second Skin
+556|E'lyzée Elio: Bra's Suit
+557|E'lyzée Elio: Tha'il Dress
+558|E'lyzée Elio: Bra's Cape
+559|E'lyzée Elio: Tha'il Cape
+560|Ammo: Hi-De Rounds
+561|Group with no formal doctrine: the leader sets the pace and the others follow.
+562|opens with the shooter covering and the goons advancing
+563|keeps formation until someone falls|swaps cover in pairs|closes the circle little by little
+564|falls back in order|splits up if the shooter is lost
+565|Street gang: attacks as a mob and trusts numbers more than a plan.
+566|all attack at once, from several sides|opens with shots from afar and closes in right after|appears from alleys and doors at the same time
+567|keeps up the noise to hide how many they are|surrounds the target and wears it down|puts the rookies in front
+568|scatters at the first death|flees in different directions|comes back later with more people
+569|Syndicate cell: acts with business discipline, settles things fast and avoids drawing attention.
+570|enters by the least watched path|opens with the shooter on high ground and the rest at the door
+571|meets the objective before spending ammo|keeps the boss out of the line of fire|isolates the target and the rest of the scene
+572|falls back if the boss is wounded|leaves the place if the police arrive|burns what they left behind
+573|Rowdy crowd: the effect comes from numbers, not aim; no one coordinates the whole.
+574|starts with shouting and shoving before any weapon|advances in a wave on the security line|spreads out to split the enemy's attention
+575|uses the most worked-up as a spearhead|throws objects and closes the space|hides the few armed ones in the middle
+576|disperses at the first serious shot|flees en masse down the side streets|tramples whoever falls
+577|Police patrol: follows protocol, calls for backup early and prefers to contain rather than take down.
+578|opens with a verbal order and a cover position|forms a perimeter with the patrol cars|calls for backup before the first shot
+579|holds cover and avoids advancing|uses the vehicle as a barrier
+580|falls back to wait for backup|abandons the pursuit if the risk rises|protects the wounded before anything else
+581|Corporate security: protects the property and the protocol, and each one covers his own sector.
+582|shuts the doors and cuts off access|triggers the alarm and falls back to defensive points|uses cameras and sensors before any contact
+583|holds the sector until backup arrives|falls back behind reinforced doors|uses the building's technology against the enemy
+584|falls back in order to the next defensive point|calls for backup and holds the corridor|abandons the sector if the contract doesn't cover the risk
+585|High threat response: operates as a trained team, with defined sectors and constant communication.
+586|enters from two points at once|opens with a flash grenade and simultaneous entry
+587|advances sector by sector leaving no backs uncovered|alternates covering fire and advance|isolates and eliminates the most dangerous target first
+588|reorganizes into another formation instead of retreating|extracts the wounded and continues|uses air support if available
+589|Special operations: acts small and silent, with a single objective and an extraction plan.
+590|infiltrates unseen and only then acts|opens with suppressors and no alarm
+591|meets the objective and only uses force when needed|avoids combat whenever possible|keeps the extraction open
+592|aborts and leaves by the extraction plan|sacrifices the secondary objective to save the team|wipes the trail before leaving
+593|Mercenary band: paid professionals, they fight for the contract and abandon whatever doesn't pay.
+594|opens with heavy fire to show their worth|enters in pairs and covers each other|tests the defense and falls back if it is strong
+595|holds the line while the employer pays|swaps positions in turns|negotiates mid-fight if they see a chance
+596|abandons the contract if the leader falls|demands more to continue|falls back without waiting for the employer
+597|Bounty hunters: want the target alive and intact, and avoid drawing attention.
+598|isolate the target and cut off the exits|open with non-lethal weapons
+599|keep the target surrounded without killing|split the team between capture and cover|use tracking and drones so as not to lose it
+600|abandon the target if the cost rises|fall back and resume the hunt later|use whatever they have to hold the target
+601|Smuggler crew: protects the cargo and flees at the first sign of serious danger.
+602|opens with the driver ready and the cargo near the exit
+603|protects the cargo above all|avoids prolonged combat|uses the vehicle as cover and as an exit
+604|abandons part of the cargo to flee|leaves by the alternate route|leaves the wounded behind only if there is no other way
+605|Cult or sect: acts on faith, accepts losing people and doesn't retreat while the leader lives.
+606|advances as a group with an opening ritual
+607|doesn't retreat while the leader is standing|throws the most faithful in front|continues the ritual even wounded
+608|loses cohesion|attacks with more fury when one of their own dies|scatters into the dark
+609|Rival runner team: professionals, each with a role, and prepared to be seen as a target.
+610|opens with the decker on the cameras and the shooter on high ground
+611|swaps roles as the fight requires|alternates between fire and Matrix
+612|falls back by plan B|abandons the objective if the cost exceeds the pay|burns the trail and vanishes
+613|VIP entourage: the focus is getting the target out of the scene, and the guards exist for that.
+614|closes around the VIP and moves to the exit|opens with the driver ready
+615|keeps the VIP among the guards|forces a way to the vehicle
+616|sacrifices a guard to buy time|takes the wounded VIP if needed|leaves the place without waiting for the rest
+617|Ambush: the attack is prepared and the whole plan revolves around the first minute.
+618|waits in silence until the target enters the zone|closes the exits only after the first shot|opens fire from several directions at once
+619|keeps the advantage while the enemy is disorganized|changes spot after the first attack|covers the flanks so the enemy can't escape
+620|falls back if the surprise fails|leaves the place if the enemy reorganizes|burns the trail so as not to be followed
+621|{A} locks cameras, doors and weapons in the Matrix before {B} enters
+622|{A} protects the group with magic while {B} shoots from behind the protection
+623|{A} keeps {B} on his feet; if the medic falls, the group loses its rhythm
+624|{A} marks the targets and gives the alert; {B} takes them down from afar
+625|{A} sends the drones ahead to open {B}'s line of fire
+626|{A} holds the front line while {B} flanks or covers
+627|{A} keeps the vehicle ready; {B}'s retreat depends on it
+628|{A} keeps {B} supplied with ammo; without him, the fire drops after the first magazine
+629|{A} sets the pace and {B} only advances when the leader advances
+630|{A} closes around {B} and takes him to the exit point
+631|{A} uses spirits to hold the enemies while {B} acts
+632|{A} uses sprites to blind and lock the enemy defenses, opening space for {B}
+633|Shadowrun 5th Edition
+634|No Future
+635|João
+636|Natália
+637|Otávio
+638|Araújo
+639|Lucía
+640|Nicolás
+641|Sofía
+642|Andrés
+643|Rocío
+644|Tomás
+645|García
+646|Rodríguez
+647|Martínez
+648|López
+649|Hernández
+650|Domínguez
+651|Echeverría
+652|Étienne
+653|Élodie
+654|Océane
+655|Chloé
+656|Léa
+657|Rémy
+658|Oisín
+659|Ó Cathasaigh
+660|Ní Bhraonáin
+661|Synthetic
+662|acts on instinct: flees, hides or calls for help, with no plan or coordination
+663|follows procedure and avoids confrontation; calls security before reacting
+664|leaves the hired hands in front and protects his own property; negotiates before fighting
+665|only reacts behind escorts and deadlines; switches sides if the cost rises
+666|protects the work, calculates the risk and only acts out of necessity
+667|prefers to improvise with equipment rather than fight; follows orders from whoever understands combat
+668|treats first and fights later; only picks up a weapon to defend the patient
+669|acts in a crowd, in the heat of the moment: noise, provocation and throwing things
+670|fights as a mob and on impulse: provokes, changes his mind and rarely follows a plan; loyalty comes and goes
+671|obeys the organization's hierarchy: cold, disciplined and discreet, spending nothing that doesn't pay
+672|fights out of belief: doesn't retreat, doesn't negotiate and sacrifices himself for the sect
+673|plans the route before the fight and prefers escaping to winning
+674|follows procedure, holds position and calls for backup before taking risks
+675|gives the command voice, uses cover and backup, and follows the rules of engagement
+676|thinks only of the protectee: watches, covers, extracts and accepts the risk in his place
+677|observes, avoids direct confrontation and prefers capturing to killing
+678|acts as a team: sectors, radio, advancing in bounds and coordinated fire
+679|acts in silence and in sync: reconnoiters, enters in stages and follows the plan to the letter
+680|professional and practical: meets the contract, coordinates with the team and leaves when the contract doesn't pay off
+681|tracks and captures: patience, traps and haste only at the end
+682|keeps the vehicle ready and the route open; the exit comes before the shot
+683|avoids combat, sells what he knows and sides with whoever is winning
+684|Tactical team operator
+685|Confirms every move with hand signals
+686|Only goes in after everyone's "ready"
+687|Repeats the order back before carrying it out
+688|acts as part of a team: communicates, covers sectors and advances in bounds
+689|Writes everything in a notebook nobody reads
+690|Speaks only in whispers, even in a safe place
+691|goes first, observes and comes back with information before any shot
+692|Patrolman (street cop)
+693|Announces an arrest even when it is clear he won't make one
+694|Notes the plate of everything that passes
+695|Calls everyone "sir", even those he is about to cuff
+696|makes rounds, orders people to stop and calls for backup before taking risks
+697|Never sits with his back to the door
+698|Watches everyone's hands before looking at the face
+699|Keeps the client from greeting strangers
+700|lives to keep the protectee alive: watches, covers and extracts without accepting risks
+701|Gang member (street)
+702|Shows the gang colors in everything he wears
+703|Challenges strangers just to see who backs down
+704|Changes mood without warning, laughing and cursing in the same sentence
+705|fights as a mob, up close and with whatever he has: courage comes from the crowd
+706|Boss (organization command)
+707|Never touches money, only contracts
+708|Sends word through someone else, never in person
+709|Remembers every favor and every debt
+710|commands through reputation and fear, and delegates the dirty work
+711|Enforcer (armed arm of an organization)
+712|Dresses like someone going to a funeral
+713|Never asks the reason for the job
+714|Only speaks to whoever gives the orders
+715|carries out the organization's orders with coldness and discretion
+716|Zealot (faith as a weapon)
+717|Sings or prays during the fight
+718|Accepts no one's surrender, not even his own
+719|Marks his skin with the sect's symbols
+720|fights out of belief: doesn't negotiate, doesn't retreat and doesn't ask for cover
+721|Always parks facing the exit
+722|Has a second route and a third
+723|Keeps the engine running until the last second
+724|plans the exit before the entry: route, vehicle and plan B
+725|Only decides after a meeting about the decision
+726|Keeps a copy of every email
+727|Answers danger by asking for a report
+728|settles things with deadlines, contracts and guards: avoids direct confrontation
+729|Arcane guardian
+730|Traces symbols in the air before entering a room
+731|Checks the astral plane before opening any door
+732|protects the allies with barriers, healing and counterspells
+733|Guardian adept
+734|Positions himself between the group and the door
+735|Meditates before each mission and after each fight
+736|uses his body as a shield and invests in defensive powers
+737|Field hacker
+738|Narrates what he sees in the Matrix over the radio
+739|Keeps the deck always in view of the allies
+740|works alongside the team, in the field, with the Matrix serving the plan
+741|Swarm commander (rigger)
+742|Gives commands to several drones at once
+743|Talks to the team as if he were the voice of all the drones
+744|commands several drones in coordinated support of the team
+745|Enters as a team: each covers a sector and no one advances without the others' confirmation.
+746|Goes first, reconnoiters the terrain in silence and only passes what he saw to the group.
+747|Gives the command voice, seeks cover and calls for backup before taking risks.
+748|Puts his body between the protectee and the threat and thinks only of extraction.
+749|Enters shouting and as a mob, with no plan: courage comes from whoever is beside him.
+750|Leaves the work to the others and only shows up when victory is already certain.
+751|Carries out the order coldly and without theatrics; spends nothing beyond what is necessary.
+752|Enters singing or praying and doesn't consider retreating.
+753|Sets the escape route before opening fire and keeps the vehicle ready.
+754|Avoids confrontation: negotiates, stalls and lets security act.
+755|Raises barriers and heals allies before any offensive spell.
+756|Steps in front of the group and uses his body as a shield.
+757|Prepares the Matrix for the team to enter: cameras, doors and sensors.
+758|Releases the drones in waves and commands them as an extension of the team.
+759|Confirms each ally's position before moving
+760|Speaks little and only passes on useful information
+761|Believes the group wins when it acts as one body
+762|"Position confirmed."
+763|"I've got your side."
+764|Tactical
+765|Studies exits, angles and lines of fire when entering any place
+766|Draws the terrain with a finger in the air
+767|The right plan is worth more than good aim
+768|"Angle clear."
+769|"We're changing position."
+770|Volatile
+771|Changes his mind mid-sentence
+772|Goes from laughter to fury without warning
+773|Reacts to the moment, not the plan
+774|"You know what? Screw it."
+775|"I changed my mind."
+776|Unpredictable
+777|Never acts the same way twice
+778|Decides on instinct, sometimes flipping a coin
+779|Likes to keep everyone guessing what comes next
+780|"You really thought I'd do that?"
+781|Loner
+782|Avoids staying near anyone in combat
+783|Prefers to handle everything alone
+784|Only trusts himself
+785|"I don't need help."
+786|Answers "yes, sir" before understanding the order
+787|Waits for orders before any decision
+788|The chain of command exists for a reason
+789|Talks loud to impress whoever is nearby
+790|Exaggerates every victory and forgets every defeat
+791|Needs to show he isn't afraid of anything
+792|"Is that all you've got?"
+793|"I'd do it again!"
+794|Pragmatic (conditional loyalty)
+795|Weighs the cost of each risk out loud
+796|Helps whoever is on the same side, as long as the side is the same
+797|Stays while it pays and leaves when it stops paying
+798|Does the job and doesn't comment
+799|Always keeps his equipment checked
+800|Does what was agreed, the way it was agreed
+801|"Work is work."
+802|Moves with the group, confirms positions and covers the others' sectors.
+803|Spends Edge to save the formation, not to shine.
+804|Picks angle, cover and route before shooting; changes position when the plan stops working.
+805|Saves Edge to Seize the Initiative and open the fight from the position he chose.
+806|Reacts to the latest stimulus: attacks, falls back or shouts with no plan.
+807|Spends Edge early, on impulse, and is left with nothing for the end.
+808|Does what the group doesn't expect and never repeats the same conduct.
+809|Uses Edge at an unexpected moment, even on unimportant actions.
+810|Acts alone and neither waits for nor helps the allies.
+811|Spends Edge on himself, without thinking of the group.
+812|Carries out the order received and holds position until someone orders otherwise.
+813|Only uses Edge when the leader or the plan says so.
+814|Makes noise, provokes and exposes himself to show courage.
+815|Spends Edge on theatrical actions to impress the others.
+816|Weighs cost and gain every round; changes conduct when the calculation changes.
+817|Saves Edge to get out alive, not to win.
+818|Does what was agreed the way it was agreed, with no theatrics and no unnecessary improvisation.
+819|Spends Edge only on actions that protect the objective.
+820|stabilizes the wounded before anything else, refuses sides and only reacts to protect the patient
+821|avoids confrontation, observes, copies what he can and vanishes before anyone notices he was there
+822|treats the street as business: flees a fight that doesn't pay, but defends the spot and the stock at any cost

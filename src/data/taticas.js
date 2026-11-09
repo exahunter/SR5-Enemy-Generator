@@ -1,0 +1,76 @@
+/* ===== v28/v43: TÁTICAS da personalidade =====
+ * Lido por logic/personalidade.js e logic/taticas.js (persTactics). O que cada NPC faz em combate sai das condutas (logic/condutas.js); aqui ficam só a abertura, a postura e o Edge.
+ * v43: a lista de ações por estilo (a) e os multiplicadores por traço (m) foram removidos: eram da tabela d100 antiga e nada mais os lia.
+ *
+ * TAT_ST  estilo → {o: abertura (1 frase)}
+ * TAT_TR  traço → {p: postura, e: uso de Edge}
+ * ST_GRP  estilo → grupo;  TR_AFF  grupo de estilo → afinidade com traços (soma ao peso da ocupação) */
+const ST_GRP={pistoleiro:'fogo',fuzileiro:'fogo',atirador:'fogo',escopeteiro:'fogo',artilheiro:'fogo',lutador:'corpo',esgrimista:'corpo',cassetete:'corpo',arremessador:'corpo',
+ diplomata:'social',trambiqueiro:'social',intimidador:'social',lider:'social',cortes:'social',observador:'furtivo',rastreador:'furtivo',furtivo:'furtivo',ladino:'furtivo',corredor:'furtivo',
+ tecnico:'tecnico',mecanico:'tecnico',medico:'tecnico',quimico:'tecnico',piloto:'piloto',pilotorigger:'piloto',artilheirorigger:'piloto',mecanicorigger:'piloto',
+ invasor:'matrix',ciberlutador:'matrix',guerreletronica:'matrix',analista:'matrix',compilador:'matrix',registrador:'matrix',magocombate:'magia',adeptocombate:'corpo',adeptosombra:'furtivo',adeptoface:'social',curandeiro:'magia',ilusionista:'magia',invocador:'magia',vidente:'magia'};
+const TR_AFF={
+ fogo:{agressivo:1.3,veterano:1.4,cauteloso:1,metodico:.8,honrado:.6,leal:.5},
+ corpo:{agressivo:1.8,impulsivo:1,honrado:.8,sadico:.7,fanatico:.5,veterano:.5},
+ social:{vaidoso:1.5,ganancioso:1.3,paranoico:.4,metodico:.6,leal:.4,covarde:.3},
+ furtivo:{cauteloso:1.6,paranoico:1.3,ganancioso:.8,metodico:.6,covarde:.4},
+ tecnico:{metodico:1.6,tecnofilo:1.5,frugal:.6,paranoico:.5,cauteloso:.6},
+ piloto:{impulsivo:1.2,tecnofilo:.8,vaidoso:.6,ganancioso:.5,agressivo:.4},
+ matrix:{paranoico:1.5,tecnofilo:1.6,metodico:1.2,ganancioso:.5,cauteloso:.5},
+ magia:{naturalista:.8,fanatico:.7,metodico:.6,vaidoso:.5,honrado:.4,cauteloso:.4}};
+const TAT_ST={
+ pistoleiro:{o:xl('Abre de cobertura, em tiros únicos e precisos no alvo mais perigoso.')},
+ fuzileiro:{o:xl('Controla o espaço com rajadas curtas e deixa o outro lado sem coragem de levantar a cabeça.')},
+ atirador:{o:xl('Escolhe posição elevada, afastada e com rota de fuga antes do primeiro tiro.')},
+ escopeteiro:{o:xl('Quer o combate curto: fecha a distância e descarrega.')},
+ artilheiro:{o:xl('Prefere armas montadas: escolhe posição e deixa o poder de fogo trabalhar.')},
+ lutador:{o:xl('Fecha a distância o mais rápido possível e resolve na mão.')},
+ esgrimista:{o:xl('Duela um alvo por vez e mantém o alcance a seu favor.')},
+ cassetete:{o:xl('Usa presença e força bruta para dominar; prefere o susto ao sangue.')},
+ arremessador:{o:xl('Atira à distância, em movimento, e nunca fica parado na mesma linha.')},
+ diplomata:{o:xl('Tenta resolver na conversa e só cede ao confronto quando percebe que perdeu o argumento.')},
+ trambiqueiro:{o:xl('Esconde o que sabe, mente primeiro e luta por último.')},
+ intimidador:{o:xl('Domina pela presença: a ameaça vem antes do golpe.')},
+ lider:{o:xl('Coordena antes de agir: o grupo funciona melhor se ele estiver vivo e falando.')},
+ cortes:{o:xl('Mantém a compostura: o conflito é um jantar que deu errado.')},
+ observador:{o:xl('Passa a maior parte do tempo vendo; só se mexe quando sabe o que cada um vai fazer.')},
+ rastreador:{o:xl('Persegue o alvo e desconsidera o resto.')},
+ furtivo:{o:xl('Prefere não ser notado: age da sombra e some antes de o outro entender.')},
+ ladino:{o:xl('Atua no meio da confusão: pega o que importa e sai.')},
+ corredor:{o:xl('Evita o combate: o plano é chegar antes e sair antes.')},
+ tecnico:{o:xl('Resolve o problema técnico antes do problema de combate.')},
+ mecanico:{o:xl('Usa a oficina como arma: ferramentas, veículos e peças soltas.')},
+ medico:{o:xl('Estabiliza antes de lutar: o primeiro ferido é a prioridade.')},
+ quimico:{o:xl('Observa, mistura, joga: o laboratório é a arma.')},
+ piloto:{o:xl('Usa o veículo como cobertura, arma e saída.')},
+ invasor:{o:xl('A luta mais importante acontece na Matrix: abre as portas e fecha os olhos do inimigo.')},
+ ciberlutador:{o:xl('Procura outros hackers e caça a persona deles.')},
+ guerreletronica:{o:xl('Domina o sinal: o inimigo que não se comunica não coordena.')},
+ analista:{o:xl('Informação é sua arma: pesquisa, cruza dados e decide depois.')},
+ compilador:{o:xl('Compila sprites antes de agir; o sprite luta no lugar dele.')},
+ registrador:{o:xl('Prende sprites e os mantém a serviço do grupo.')},
+ magocombate:{o:xl('Abre com feitiço de combate e mantém distância segura.')},
+ curandeiro:{o:xl('Prioriza manter o grupo de pé e só entra na luta se não houver ferido.')},
+ ilusionista:{o:xl('Confunde antes de ferir: o inimigo que duvida dos sentidos não atira bem.')},
+ invocador:{o:xl('Chama o espírito e cuida da linha de frente com ele.')},
+ vidente:{o:xl('Vê o que ninguém vê e usa isso a seu favor.')},
+ pilotorigger:{o:xl('Opera o veículo como se fosse o corpo: cobertura, arma e fuga no mesmo.')},
+ artilheirorigger:{o:xl('Comanda os drones armados; ele fica longe e eles fazem o barulho.')},
+ mecanicorigger:{o:xl('Mantém a frota funcionando no meio da luta.')}};
+const TAT_TR={
+ agressivo:{p:xl('Ataca primeiro e ignora cobertura quando está ganhando; só recua se o monitor físico passa da metade.'),e:xl('Gasta Edge para estourar um ataque (Empurrar o limite).')},
+ cauteloso:{p:xl('Confere saídas e cobertura antes de tudo; sai do combate antes de a situação ficar ruim.'),e:xl('Guarda Edge para Tomar a iniciativa e para evitar dano.')},
+ metodico:{p:xl('Segue o plano até o fim; o que não estava no plano é tratado com atraso.'),e:xl('Gasta Edge para reverter um erro do plano, não para atacar.')},
+ impulsivo:{p:xl('Muda de plano durante a luta; decide depressa e se arrepende depois.'),e:xl('Gasta Edge cedo, sem esperar a necessidade.')},
+ ganancioso:{p:xl('Pergunta o preço antes de agir; larga o serviço se o outro lado oferece mais.'),e:xl('Gasta Edge para proteger o que carrega, não o grupo.')},
+ frugal:{p:xl('Economiza munição, tempo e risco; só atira quando tem que atirar.'),e:xl('Guarda Edge ao máximo e raramente gasta.')},
+ vaidoso:{p:xl('Escolhe o ângulo que o deixa melhor na cena e evita o que o suja ou machuca.'),e:xl('Gasta Edge para não ser ferido de forma visível.')},
+ paranoico:{p:xl('Presume uma armadilha: posiciona-se perto da saída e fica de olho em cada gesto.'),e:xl('Gasta Edge cedo, para Tomar a iniciativa e evitar surpresas.')},
+ leal:{p:xl('Põe o grupo na frente de si; recua só com todos a salvo.'),e:xl('Gasta Edge para salvar um aliado, não a si mesmo.')},
+ covarde:{p:xl('Evita o combate e procura uma saída assim que o tiro começa.'),e:xl('Gasta Edge para escapar, não para ferir.')},
+ fanatico:{p:xl('Não recua nem se rende; escolhe o alvo que simboliza a causa.'),e:xl('Gasta Edge sem hesitar quando a causa está em jogo.')},
+ tecnofilo:{p:xl('Usa o equipamento novo sempre que possível, mesmo que não seja o melhor para a situação.'),e:xl('Gasta Edge para forçar uma falha no equipamento do outro lado.')},
+ naturalista:{p:xl('Evita a tecnologia: confia no corpo, no instinto e no terreno.'),e:xl('Gasta Edge em testes físicos, nunca em eletrônicos.')},
+ sadico:{p:xl('Prolonga o confronto para ver o medo: escolhe os alvos mais fracos antes dos fortes.'),e:xl('Gasta Edge para infligir dano extra a quem já está caído.')},
+ honrado:{p:xl('Não ataca quem está desarmado nem pelas costas; dá chance de se render.'),e:xl('Gasta Edge para cumprir a palavra, não para trapacear.')},
+ veterano:{p:xl('Calmo sob fogo: usa a cobertura certa e conta cada tiro; já viu pior.'),e:xl('Gasta Edge com cálculo, só quando muda o resultado da cena.')}};

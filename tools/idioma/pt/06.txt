@@ -1,0 +1,543 @@
+1272|Mantém a frota funcionando no meio da luta.
+1273|Ataca primeiro e ignora cobertura quando está ganhando; só recua se o monitor físico passa da metade.
+1274|Gasta Edge para estourar um ataque (Empurrar o limite).
+1275|Confere saídas e cobertura antes de tudo; sai do combate antes de a situação ficar ruim.
+1276|Guarda Edge para Tomar a iniciativa e para evitar dano.
+1277|Segue o plano até o fim; o que não estava no plano é tratado com atraso.
+1278|Gasta Edge para reverter um erro do plano, não para atacar.
+1279|Muda de plano durante a luta; decide depressa e se arrepende depois.
+1280|Gasta Edge cedo, sem esperar a necessidade.
+1281|Pergunta o preço antes de agir; larga o serviço se o outro lado oferece mais.
+1282|Gasta Edge para proteger o que carrega, não o grupo.
+1283|Economiza munição, tempo e risco; só atira quando tem que atirar.
+1284|Guarda Edge ao máximo e raramente gasta.
+1285|Escolhe o ângulo que o deixa melhor na cena e evita o que o suja ou machuca.
+1286|Gasta Edge para não ser ferido de forma visível.
+1287|Presume uma armadilha: posiciona-se perto da saída e fica de olho em cada gesto.
+1288|Gasta Edge cedo, para Tomar a iniciativa e evitar surpresas.
+1289|Põe o grupo na frente de si; recua só com todos a salvo.
+1290|Gasta Edge para salvar um aliado, não a si mesmo.
+1291|Evita o combate e procura uma saída assim que o tiro começa.
+1292|Gasta Edge para escapar, não para ferir.
+1293|Não recua nem se rende; escolhe o alvo que simboliza a causa.
+1294|Gasta Edge sem hesitar quando a causa está em jogo.
+1295|Usa o equipamento novo sempre que possível, mesmo que não seja o melhor para a situação.
+1296|Gasta Edge para forçar uma falha no equipamento do outro lado.
+1297|Evita a tecnologia: confia no corpo, no instinto e no terreno.
+1298|Gasta Edge em testes físicos, nunca em eletrônicos.
+1299|Prolonga o confronto para ver o medo: escolhe os alvos mais fracos antes dos fortes.
+1300|Gasta Edge para infligir dano extra a quem já está caído.
+1301|Não ataca quem está desarmado nem pelas costas; dá chance de se render.
+1302|Gasta Edge para cumprir a palavra, não para trapacear.
+1303|Calmo sob fogo: usa a cobertura certa e conta cada tiro; já viu pior.
+1304|Gasta Edge com cálculo, só quando muda o resultado da cena.
+1305|Máquina Conversion
+1306|Ação Simples
+1307|Ação Complexa
+1308|Ação Livre
+1309|Interrupção
+1310|Teste de defesa
+1311|Ação Estendida
+1312| Iniciativa)
+1313|Precisão da arma
+1314|da arma
+1315|Físico
+1316|da arma natural
+1317|; reserva 
+1318|; limite 
+1319|ações do livro
+1320|Ações do livro citadas nas táticas e condutas: 
+1321|arma natural
+1322|<b>Arquivos guardados neste site (
+1323|<div class="row"><span>{0} <span class="note">{1} KB</span></span><button class="rm" data-n="{2}">Remover</button></div>
+1324|<span class="note">Nenhum arquivo guardado ainda. Os XML que você importar ficam salvos neste navegador e são recarregados toda vez que abrir o site.</span>
+1325|: mk deve ser função
+1326|<option value="rand">Aleatório (com submetatipos)</option><option value="randbase">Aleatório (só base)</option>
+1327|Defesa (Reação + Intuição)
+1328|Resistência a dano (Corpo + armadura)
+1329| <span class="note">(armadura 
+1330|Limites (físico / mental / social)
+1331|<div class="note" style="margin-top:6px">Armas</div>
+1332|uma granada
+1333| · Doutrina da ocupação: 
+1334|Condutas com a vida alta: 
+1335|ação: 
+1336|perícia: 
+1337|<span title="perícia da ficha que sustenta esta conduta">
+1338|<span title="poder da ficha que motivou esta conduta">poder 
+1339|Ações do livro citadas nas condutas: 
+1340|Temperamento: 
+1341|Condutas com a vida baixa: 
+1342|<option value="rand">Aleatório</option>
+1343| · Proc. dados 
+1344|Iniciativa Matrix (RV) 
+1345|Nada para desfazer.
+1346| ficha
+1347| já tinham mudado ou voltado
+1348|arma
+1349|kit de implante: armas e gear
+1350|Catálogo de armas reduzido: só 
+1351| armas (o completo tem mais de 400). Isso costuma vir de XML antigo guardado neste site. Sem o catálogo completo, os kits de arma (Smartgun, Rocketeer, Bowman…), arcos, lançadores e metralhadoras não entram, e os NPCs usam só armas básicas. Para resolver: use o botão abaixo (apaga os XML guardados e recarrega com o catálogo completo que já vem neste arquivo) ou importe de novo o weapons.xml e o gear.xml (Opções avançadas > Dados do seu Chummer).
+1352|Restaurar catálogo embutido
+1353|Apaga os XML guardados neste site (suas fichas ficam) e recarrega a página
+1354|Apagar os XML guardados neste site e recarregar com o catálogo embutido? Suas fichas geradas são mantidas.
+1355|equipamento
+1356|equipamento coerente
+1357|especializações (skills.xml)
+1358|especializações pelo perfil final
+1359| dados em magias de 
+1360| dados em 
+1361| níveis grátis
+1362| nível grátis
+1363|extras do Chummer
+1364|dados do Chummer (poderes de espírito, vessel)
+1365|, armadura 
+1366| dados) · Resonance efetiva 
+1367| <span class="note">(stream ressonante, 20 de carma)</span>
+1368|<br><span class="note">Aplicado na ficha: 
+1369|Programas de IA
+1370| (máx. 
+1371|SIN e licenças
+1372| · licenças falsas: 
+1373| · licenças: 
+1374|Poderes dos espíritos
+1375|Estilo de vida
+1376|licenças e mentor
+1377|Licenças (legais): 
+1378|limite 
+1379|qualidade 
+1380|extras do Chummer (streams, mentores, drogas…)
+1381|Sustenta a família com dois empregos e não pode perder nenhum
+1382|Deve uma conta médica a alguém perigoso
+1383|Quer sair do sprawl e juntou quase o suficiente
+1384|Só quer chegar em casa vivo hoje
+1385|Esconde um segredo que a vizinhança não pode saber
+1386|Viu algo que não devia e não sabe a quem contar
+1387|Quer a promoção e passa por cima de quem for preciso
+1388|Protege um projeto que já percebeu ser perigoso
+1389|Desviou verba e precisa que ninguém olhe os números
+1390|Quer sair da corporação sem ser caçado
+1391|É leal à empresa por medo, não por gosto
+1392|Negocia em segredo com uma corporação rival
+1393|Precisa provar valor ao chefe antes de ser descartado
+1394|Vinga alguém da própria gangue morto por uma facção rival
+1395|Está endividado com um agiota e aceita qualquer serviço
+1396|Quer o território do vizinho e vai chegar lá nem que a ponte caia
+1397|Protege a família que mora no quarteirão
+1398|Gosta do poder que a arma dá e não sabe viver sem ele
+1399|Cumpre o contrato e vai para casa; heroísmo não paga hora extra
+1400|Acredita na lei, mas está cansado de vê-la perder
+1401|Recebe uma propina mensal e hesita em quebrar o acordo
+1402|Tem algo a provar depois de um erro no passado
+1403|Quer a medalha, o bônus ou a promoção no fim do turno
+1404|Quer vingar um colega morto no mesmo bairro
+1405|Segue o dinheiro e o contrato, sem perguntas
+1406|Tem um código de honra e só quebra com um bom motivo
+1407|Carrega a culpa de uma operação que deu errado
+1408|Está pagando o tratamento de alguém e precisa de cada nuyen
+1409|Gosta do trabalho e não sabe o que fazer da vida sem ele
+1410|Procura o alvo certo para acertar contas antigas
+1411|Vive de informação e vende a quem pagar mais
+1412|Quer sair do jogo com uma última grande vez
+1413|Deve um favor grande a alguém que não pode recusar
+1414|Paga a faculdade de um parente com cada corrida
+1415|Trabalha para duas partes ao mesmo tempo
+1416|Procura um nome que apareceu numa corrida antiga
+1417|Quer ser lembrado por alguém, de algum jeito
+1418|Está com medo e tenta esconder
+1419|Desconfia de todo mundo e já foi traído antes
+1420|Tem um objetivo pessoal que nada tem a ver com o serviço
+1421|Acredita que isso é só um trabalho
+1422|Fala sozinho quando está nervoso
+1423|Nunca tira as luvas
+1424|Cheira a perfume caro demais para o serviço
+1425|Conta moedas ou cartuchos antes de cada decisão
+1426|Coleciona um tipo estranho de bugiganga
+1427|Gagueja só quando mente
+1428|Assobia sempre a mesma melodia
+1429|Tem uma cicatriz que muda de história a cada vez
+1430|Reza ou faz um gesto de proteção antes de agir
+1431|Come sem parar quando está tenso
+1432|Odeia armas de determinada marca e se recusa a usá-las
+1433|Não suporta silêncio e puxa conversa com qualquer um
+1434|Carrega uma foto antiga e a olha em momentos errados
+1435|Pede desculpas antes de ameaçar
+1436|Tem o nome de um animal tatuado no pescoço
+1437|Evita olhar nos olhos e fixa na testa
+1438|Faz piada na hora errada e se arrepende
+1439|Corrige a gramática dos outros mesmo sob fogo
+1440|Tem tique nervoso na mão dominante
+1441|Usa uma gíria que ninguém mais entende
+1442|Só dorme com a luz acesa
+1443|Mastiga o tempo todo (chiclete, palito ou nada)
+1444|É educado demais com quem apontou uma arma para ele
+1445|Dedica-se a um gato de rua que o segue
+1446|Dá gorjeta exagerada em qualquer lugar
+1447|Toca o amuleto antes de atirar
+1448|Tem um sotaque que muda quando fica com raiva
+1449|Tem fobia de elevador e escada rolante
+1450|a polícia local
+1451|a segurança do prédio
+1452|a equipe de resposta da corporação
+1453|o resto da gangue
+1454|um parceiro com carro
+1455|a célula local
+1456|a viatura mais próxima
+1457|a equipe de resposta
+1458|o supervisor com mais dois guardas
+1459|o resto do esquadrão
+1460|um helicóptero de apoio
+1461|um contato bem armado
+1462|o motorista com reforço
+1463|um favor devido
+1464|mais fiéis do culto
+1465|o resto da comitiva
+1466|a segurança do local
+1467|o apoio da unidade
+1468|o segundo esquadrão
+1469|as viaturas do distrito
+1470|um esquadrão tático
+1471|Não foge: luta até cair
+1472|gancho.pen.sem
+1473|Chama reforço na {0}ª rodada: cerca de {1} pessoas ({2}), chegam em ~{3} min
+1474|Não chama reforço
+1475|Rende-se se encurralado
+1476|Não se rende
+1477|Motivação: 
+1478|Peculiaridade: 
+1479|Em combate: 
+1480|Cultura: 
+1481| (idioma nativo 
+1482|Mesma gangue
+1483|Contrato com uma megacorporação
+1484|Ex-militares da mesma unidade
+1485|Culto ou seita
+1486|Família do crime organizado
+1487|Segurança privada contratada
+1488|Equipe de contrabando
+1489|Grupo de manifestantes radicalizados
+1490|Parente de {0}
+1491|Ex-parceiro de {0} (terminaram mal)
+1492|Rival de {0} por prestígio no grupo
+1493|Credor de {0}
+1494|Mentor de {0}
+1495|Protegido de {0}
+1496|Relação amorosa secreta com {0}
+1497|É chantageado por {0}
+1498|Serviu na mesma unidade que {0}
+1499|Informante infiltrado: passa informações a uma facção rival
+1500|Lealdade comprada: trai por uma oferta melhor
+1501|Grupo genérico (líder, atirador e capangas)
+1502|Gangue de rua (gangers)
+1503|Gangue aliada a um sindicato
+1504|Gangue em guerra de território
+1505|Célula de sindicato (máfia, yakuza, vory)
+1506|Célula de um sindicato local
+1507|Multidão agitada (arruaça ou protesto)
+1508|Torcida em tumulto
+1509|Patrulha policial (Lone Star / força local)
+1510|Força policial local
+1511|Unidade da Knight Errant
+1512|Equipe de segurança corporativa (rent-a-cops)
+1513|Esquadrão de resposta de alta ameaça (HTR)
+1514|Resposta de alta ameaça de uma megacorp
+1515|Equipe de operações especiais (spec ops)
+1516|Operações especiais corporativas
+1517|Bando de mercenários
+1518|Contratados por um Mr. Johnson
+1519|Equipe de caçadores de recompensas
+1520|Contrato de uma megacorporação
+1521|Equipe de contrabandistas
+1522|Rede de contrabando de um sindicato
+1523|Equipe de runners rival
+1524|Comitiva VIP (alvo e guarda-costas)
+1525|Políticos e seus seguranças
+1526|Emboscada (gangue, sindicato ou mercenários)
+1527|o líder coordena e mantém o moral
+1528|o chefe dita o ritmo e os outros o seguem
+1529|o sargento mantém a formação
+1530|o supervisor coordena à distância
+1531|atiradores cobrem à distância
+1532|o batedor abre caminho e dá o alerta
+1533|o decker controla câmeras, portas e comunicação
+1534|o mago apoia com magias e espíritos
+1535|o mago de segurança vigia o astral
+1536|o adepto parte para o corpo a corpo
+1537|o tecnomante domina a Matrix
+1538|o médico de campo mantém os feridos de pé
+1539|o armeiro leva armas extras
+1540|os capangas fazem volume e flanqueiam
+1541|os novatos hesitam sob fogo
+1542|os guarda-costas fecham em volta do alvo
+1543|o VIP tenta fugir assim que o tiroteio começa
+1544|resumo do grupo
+1545|<div class="gcard" data-gid="{0}"><h3>{1} <span class="chip k">{2} pessoas · nível médio {3}</span><span class="gx"><button class="gcopy" type="button">Copiar resumo</button><button class="gdl" type="button">Baixar .txt</button></span></h3>
+1546|Grupo
+1547|Ameaça
+1548|<b>{0}</b> <span class="note">(pontuação {1}: nível+2 por pessoa, mais 2 por desperto e 1 por decker, rigger ou tecnomante)</span>
+1549|Iniciativa média
+1550| (com dados)
+1551|Vínculo
+1552|Origem cultural
+1553|Equipamento padrão
+1554|Doutrina
+1555|Abertura
+1556|Desenvolvimento
+1557|Sinergias
+1558|Papéis
+1559|Ruptura
+1560|Tática
+1561| pessoas · nível médio 
+1562|Ameaça: 
+1563| (pontuação 
+1564|Iniciativa média: 
+1565|Vínculo: 
+1566|Origem cultural: 
+1567|Equipamento padrão: 
+1568|Tática: 
+1569|, nível 
+1570|Resumo do grupo copiado.
+1571|Não foi possível copiar; use "Baixar .txt".
+1572|grupo
+1573|o líder
+1574|o grupo se fecha em volta e luta com mais cuidado
+1575|metade segue lutando e a outra metade recua
+1576|o grupo perde o rumo e cada um decide por si
+1577|. Ao romper, 
+1578|; sem rota de fuga, 
+1579|o grupo se amontoa no canto mais protegido e segura a posição
+1580|quem não consegue sair se rende ou se esconde atrás dos aliados
+1581|; com aliado ferido, 
+1582|leva o ferido se ele puder andar
+1583|deixa o ferido onde está
+1584|um aliado fica para cobrir o ferido
+1585|; com aliado importante ainda lutando, 
+1586|o grupo adia a retirada até ele cair ou ser coberto
+1587|a retirada começa e ele é deixado para trás
+1588|quem está mais perto o cobre até ele poder sair
+1589|O grupo 
+1590|Doutrina: 
+1591|Abertura: 
+1592|Desenvolvimento: 
+1593|Sinergias: 
+1594|Papéis: 
+1595|Ruptura: 
+1596|Tática do grupo (
+1597|Nacionalidade
+1598|Infância
+1599|Adolescência
+1600|Educação superior
+1601|Vida adulta
+1602|histórico de vida
+1603|Histórico de vida: 
+1604|contatos, formas complexas, estilos de vida, mentores
+1605|XML inválido
+1606|não é uma ficha do Chummer (.chum5)
+1607|JSON não é um backup do gerador
+1608|JSZip indisponível
+1609| fichas, favoritos e travas incluídos).
+1610|Não achei arquivos XML do Chummer nessa pasta. Escolha a pasta “data” (ou a pasta raiz do Chummer).
+1611|Importando os dados no gerador…
+1612|Montando o índice…
+1613|Não consegui ler a pasta: 
+1614|Montando o índice com os 
+1615| arquivos guardados…
+1616|Índice montado a partir dos arquivos guardados.
+1617|Função: 
+1618|Ameaça 
+1619|Grupo: 
+1620|Iniciativa 
+1621|Monitor físico/atordoamento 
+1622|Defesa 
+1623|Limites 
+1624|As notas dos itens são um resumo gerado pelo app (fonte, página e dados de regra). O texto integral dos livros vem dos PDFs: vincule-os nas opções do Chummer.
+1625|implantes, kits e magia
+1626|etapas pós-geração (npcPos)
+1627|texto completo não achado — 
+1628|Extraindo o texto de 
+1629|: página 
+1630|<div class="row"><span>Não identifiquei: {0} <span class="note">({1} páginas)</span></span><span><select data-u="{2}">{3}</select> deslocamento <input type="number" value="0" style="width:70px" data-o="{4}"> <button type="button" data-ok="{5}">Usar</button></span></div>
+1631|Livro 
+1632| páginas, deslocamento 
+1633|Erro lendo o PDF: 
+1634| · sem PDF
+1635|Você enviou o PDF deste livro
+1636|Você não enviou o PDF deste livro
+1637| (e ele está marcado: o gerador usa os itens dele, mas não mostra o texto nem a página)
+1638|<div class="row"><span>{0}</span><span class="bkpdf no{1}">sem PDF</span></div>
+1639|<div class="pdfno"><b>Livros sem PDF</b> 
+1640|<span class="note">Nenhum PDF enviado ainda.</span>
+1641| livros marcados têm PDF.</span>
+1642|<div class="note pdfwarn">Marcados em “Livros ativos”, mas sem PDF (
+1643|): o gerador sorteia itens deles, só não mostra o texto do livro, a página certa nem a busca.</div>
+1644|<div class="note">Todos os livros marcados têm PDF.</div>
+1645|<details><summary class="note">Outros livros sem PDF (
+1646|, não marcados)</summary>
+1647|Livros ativos e PDFs: página certa e busca no texto
+1648| · nenhum PDF enviado
+1649| · todos os marcados têm PDF
+1650|<b>Livros lidos</b>
+1651|texto guardado
+1652|texto antigo: releia este PDF para o trecho completo
+1653|sem texto guardado
+1654| · PDF aberto nesta sessão
+1655|<div class="note">Chummer: em Opções > Livros, coloque o deslocamento de cada livro para ele abrir o PDF na página certa. <button type="button" id="pdfcp">Copiar lista</button></div>
+1656|sem o PDF de 
+1657|): você não enviou
+1658|texto antigo de 
+1659|página inválida (
+1660|texto de 
+1661| não carregado
+1662|título não achado em 
+1663| (página 
+1664|<b>Última exportação (JSON):</b> 
+1665| itens com o texto do livro.
+1666| sem texto: 
+1667|PDF pág. 
+1668|nenhuma linha parecida perto da página 
+1669|erro: 
+1670|sem fonte
+1671|sem página
+1672|age por conta própria
+1673|coordenação média
+1674|tático
+1675|tática média
+1676|volátil e imprevisível
+1677|um pouco instável
+1678|previsível
+1679|estável
+1680|frágil
+1681|kit da personalidade
+1682|personalidade e táticas
+1683|personalidade e arma garantida
+1684| (perícia)
+1685|Veículo/drone
+1686|Espíritos
+1687|Perícia
+1688|Arma
+1689|Acessório
+1690|Equipamento
+1691|Poderes
+1692|Armadura
+1693|tática
+1694|Implante
+1695|Qualidade
+1696|Conhecimento
+1697|Mod de armadura
+1698|Implantes
+1699|não foge
+1700|foge com 
+1701|% do monitor
+1702|rende-se se encurralado
+1703|não se rende
+1704|chama reforço
+1705|não chama reforço
+1706|Motivação
+1707|Selecione o texto do campo e copie (Ctrl+C).
+1708|sem suporte a download
+1709|.zip (extraia para obter o .chum5).
+1710|.chum5 (veja a pasta de downloads do navegador). No Chummer: Arquivo > Abrir.
+1711|qualidades
+1712|iniciação/submersão
+1713|pontos de poder (místico)
+1714|habilidades/conhecimentos extras
+1715|contatos acima da cota grátis
+1716|<div class="row"><span>Carma</span><span>{0} de {1} <span class="note">(inicial {2} + carreira {3})</span>{4}</span></div>
+1717| · gastos: 
+1718|<div class="row"><span>Dinheiro</span><span><b>{0}</b> em conta · {1} em equipamento · recursos {2} <span class="note">(nível {3}{4})</span></span></div>
+1719|; equipamento acima da tabela
+1720|nome
+1721|metatipo
+1722|habilidades
+1723|tipo
+1724|força
+1725|perfil de atuação
+1726|armas
+1727|armadura
+1728|Nada para desfazer nesta ficha.
+1729| voltou ao estado anterior.
+1730|Condutas de 
+1731| sorteadas de novo (o resto da ficha não mudou).
+1732|poderes
+1733|tradição
+1734|Habilidades: 
+1735|conhecimentos
+1736|Não consegui rerrolar as condutas: 
+1737|O sorteio de 
+1738| caiu no mesmo conjunto (o perfil dele tem poucas opções). Nada mudou.
+1739|Rerrolado só 
+1740|Não consegui rerrolar: 
+1741| Novas qualidades: 
+1742| Novo equipamento: 
+1743|Força 
+1744|nível 
+1745| (mesmo tipo e nome).
+1746| (nome, metatipo, qualidades e equipamento mantidos; atributos e perícias ajustados; implantes e magia refeitos).
+1747|Não consegui mudar o nível: 
+1748|Perfil de atuação: 
+1749|; temperamento: 
+1750| marcadores na ficha)
+1751|Abertura (
+1752|Postura (
+1753|Manias: 
+1754|Mentor Spirit (adicione no Chummer, custa 5 karma): 
+1755|Vínculo do grupo: 
+1756|Lealdade ao líder: 
+1757|Ordem de criação
+1758|Nome (A–Z)
+1759|Nível: maior primeiro
+1760|Nível: menor primeiro
+1761|Ocupação (A–Z)
+1762|Expandir todas
+1763|Recolher todas
+1764| fichas
+1765|<button type="button" id="ach-col">Recolher todas</button><button type="button" id="ach-clr" hidden>Limpar</button></div>
+1766|<input type="search" id="ach-q" placeholder="Nome, ocupação, arma, equipamento…" aria-label="Buscar fichas"></label>
+1767|<div class="ach-r"><label class="ach-f"><span>Ocupação</span><select id="ach-t"><option value="">Todas</option>
+1768|<div class="ach-f"><span>Nível</span><span class="ach-lv"><input type="number" id="ach-min" min="0" placeholder="de" aria-label="Nível mínimo"> – <input type="number" id="ach-max" min="0" placeholder="a" aria-label="Nível máximo"></span></div>
+1769|<button type="button" id="ach-fav" class="ach-chip" aria-pressed="false">★ Só favoritas</button></div></div></div>
+1770|Recolher / expandir a ficha
+1771|Recolher ou expandir a ficha
+1772|Nome
+1773|Tipo
+1774|Força
+1775|Qualidades
+1776|Armas
+1777|Magia
+1778|Perfil de atuação
+1779|o nome (e os contatos ligados a ele)
+1780|os atributos
+1781|as habilidades
+1782|as qualidades
+1783|as armas, com acessórios e munição
+1784|a armadura
+1785|os demais itens (comlink, kits, drones…)
+1786|os implantes
+1787|a magia (tradição, feitiços, poderes)
+1788|o perfil de atuação (e o que ele escolhe na ficha)
+1789|as condutas em combate (vida alta e vida baixa)
+1790|o tipo de critter
+1791|a Força
+1792|Ajustar esta ficha <span class="note">rerrole só uma parte ou trave o que gostou</span>
+1793|Rerrolar só 
+1794| (o resto não muda)
+1795|Rerrolar só: 
+1796|<span class="note">Clicar na ficha:</span>
+1797|Liga/desliga o atalho: clique num bloco da ficha (nome, atributos, habilidades…) para travar ou destravar
+1798|Liga/desliga o atalho: clique num bloco da ficha para rerrolar só ele
+1799|Travado: não muda ao rerrolar o resto. Clique para destravar
+1800| (vale para “Rerrolar o resto”)
+1801|Remove todas as travas desta ficha
+1802|Trava todos os itens desta ficha
+1803|Confirmar? é favorita
+1804|Gera a ficha de novo mantendo só o que está travado
+1805|Nada travado: gera a ficha inteira de novo
+1806|Volta ao estado anterior desta ficha (
+1807|Ainda não há o que desfazer
+1808|<details class="pcd"><summary>Condutas em combate</summary><p><b>Temperamento:</b> {0}</p><p class="ph hi"><b>Vida alta (3)</b></p><ol class="hi">{1}</ol><p class="ph lo"><b>Vida baixa (3)</b></p><ol class="lo">{2}</ol>{3}</details>
+1809|<p><b>Ações do livro</b> <span class="note">(actions.xml; reserva de dados do critter quando a ficha permite)</span></p><ul>{0}</ul>
+1810|<details class="pcd"><summary>Condutas em combate</summary>{0}<p class="ph hi"><b>Vida alta (5)</b></p><ol class="hi">{1}</ol><p class="ph lo"><b>{2}</b></p><ol class="lo">{3}</ol>{4}</details>
+1811|<p><b>Perfil:</b> {0}</p>{1}
+1812|<p class="note">Doutrina da ocupação: {0}</p>
+1813|<p><b>Ações do livro</b> <span class="note">(actions.xml; reserva de dados do NPC quando a ficha permite)</span></p><ul>{0}</ul>
+1814|; poderes: 

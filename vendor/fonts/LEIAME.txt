@@ -1,0 +1,6 @@
+Fonte Chakra Petch (opcional, licença OFL). Coloque aqui:
+  ChakraPetch-500.woff2
+  ChakraPetch-700.woff2
+e rode `node build.js`: elas entram em base64 no HTML e os títulos ficam iguais mesmo offline.
+Sem esses arquivos, o HTML usa a fonte do sistema (system-ui) nos títulos e botões.
+Baixe em https://fonts.google.com/specimen/Chakra+Petch (converta para woff2 se vier em ttf).

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Gerador de Inimigos SR5</title>
+<script>
+@@JSZIP@@
+</script>
+@@PDFJS@@
+<style>
+@@CSS@@
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<div id="langw" role="group" data-i18n-aria="lang.rotulo"><button type="button" data-lang="pt" lang="pt" title="Português" aria-label="Português">PT</button><button type="button" data-lang="en" lang="en" title="English" aria-label="English">EN</button></div>
+<h1 data-i18n="cab.titulo"></h1>
+<p data-i18n="cab.sub"></p>
+</header>
+
+<section class="panel"><div id="tabs" role="tablist" data-i18n-aria="modo.rotulo"><button role="tab" data-m="grp" data-i18n="aba.grp"></button><button role="tab" data-m="npc" data-i18n="aba.npc"></button><button role="tab" data-m="critter" data-i18n="aba.critter"></button></div><select id="mode" hidden><option value="grp" data-i18n="aba.grp"></option><option value="npc" data-i18n="modo.npc1"></option><option value="critter" data-i18n="modo.crit1"></option></select><div class="fields"><div id="npcc"><label><span id="nprt"></span><select id="npr"><option value="rand" data-i18n="npr.rand"></option><optgroup data-i18n-label="npr.faixas"><option value="civil" data-i18n="npr.civil"></option><option value="baixo" data-i18n="npr.baixo"></option><option value="medio" data-i18n="npr.medio"></option><option value="alto" data-i18n="npr.alto"></option><option value="lendario" data-i18n="npr.lend"></option></optgroup><option value="custom" data-i18n="npr.custom"></option></select><span class="nprc" id="nprc" hidden><input id="nprlo" type="text" inputmode="numeric" maxlength="2" value="0" data-i18n-aria="npr.min"><span data-i18n="npr.ate"></span><input id="nprhi" type="text" inputmode="numeric" maxlength="2" value="10" data-i18n-aria="npr.max"></span><small id="lvwarn" class="note" hidden data-i18n="npr.aviso"></small></label><label id="ntl"><span data-i18n="tpl.ocup"></span><select id="ntype"></select></label><label id="nsl"><span data-i18n="tpl.espec"></span><select id="nspec"><option value="rand" data-i18n="modo.rand"></option><option value="" data-i18n="esp.nenhuma"></option><option value="Lieutenant" data-i18n="esp.lider"></option><option value="Decker" data-i18n="esp.decker"></option><option value="Adept" data-i18n="esp.adepto"></option><option value="Mage" data-i18n="esp.mago"></option><option value="Mystic" data-i18n="esp.misti"></option><option value="Technomancer" data-i18n="esp.tecno"></option><option value="Rigger" data-i18n="esp.rigger"></option></select></label><label id="ncl"><span data-i18n="tpl.critter"></span><select id="ncrit"></select></label><label id="ngl"><span data-i18n="tpl.comp"></span><select id="ngrp"><option value="grp" data-i18n="tpl.grpgen"></option></select></label><label><span id="nszt"></span><select id="nsize"><option value="1">1</option><option>2-4</option><option>3-6</option><option>4-10</option></select></label></div><label><span data-i18n="tpl.meta"></span>
+<select id="meta">
+<option value="rand" data-i18n="modo.rand"></option><option value="randbase" data-i18n="meta.randbase"></option><option>Human</option><option>Elf</option><option>Dwarf</option><option>Ork</option><option>Troll</option>
+</select></label><label class="chk" id="wildl" data-i18n-title="tpl.wild.t"><input type="checkbox" id="wild"><span data-i18n="tpl.wild"></span></label><button class="go" id="gen"></button><button type="button" id="impc" data-i18n="tpl.impc" data-i18n-title="tpl.impc.t"></button><input type="file" id="impcf" hidden multiple accept=".chum5,.xml,.zip,.json,.txt"></div><span id="seedmsg" class="note"></span><details class="adv" id="advd"><summary data-i18n="adv.sum"></summary><div class="advgrid"><label id="npl" data-i18n-title="adv.estilos.t"><span data-i18n="adv.estilos"></span><select id="npers"><option value="auto" data-i18n="adv.auto15"></option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option></select></label><label id="nil"><span data-i18n="adv.imp"></span><select id="nimp"><option value="auto" data-i18n="adv.imp.auto"></option><option value="0" data-i18n="adv.nenhum"></option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option></select></label><label class="chk" data-i18n-title="adv.notas.t"><input type="checkbox" id="notesOn" checked><span data-i18n="adv.notas"></span></label><label data-i18n-title="adv.fer.t"><span data-i18n="adv.fer"></span><select id="fer"><option value="3" data-i18n="fer.3"></option><option value="2" data-i18n="fer.2"></option><option value="1" data-i18n="fer.1"></option><option value="0" data-i18n="fer.0"></option></select></label><label><span data-i18n="adv.cset"></span><input id="cset" value="default.xml"></label><label><span data-i18n="adv.cver"></span><input id="cver" value="5.226.0"></label><label><span data-i18n="adv.seed"></span><input id="seed" data-i18n-ph="adv.seed.ph"></label><label><span data-i18n="adv.dados"></span><input type="file" id="imp" multiple accept=".xml"></label><details id="bk"><summary data-i18n="bk.sum"></summary><div class="btnrow"><button id="allb" data-i18n="bk.todos"></button><button id="nob" data-i18n="bk.nenhum"></button><button id="clr" data-i18n="bk.apagar"></button></div><div class="books" id="bklist"></div><div id="stored"></div><div id="pp"></div><p class="note" id="impmsg" data-i18n="bk.msg"></p></details></div></details></section>
+<div id="out" aria-live="polite"></div>
+<details class="help"><summary data-i18n="help.sum"></summary><p data-i18n="help.txt"></p></details>
+<footer class="creditos"><p data-i18n="cred.copy"></p><p><a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank" rel="noopener" data-i18n="cred.lic"></a> · <span data-i18n="cred.fonte"></span> @@FONTE@@</p><p data-i18n="cred.catalyst"></p><p data-i18n="cred.ideia"></p><p data-i18n="cred.prog"></p><p><span data-i18n="cred.chummer"></span> <a href="https://github.com/chummer5a/chummer5a" target="_blank" rel="noopener">Chummer5a</a> · GPL-3.0</p></footer>
+</div>
+
+@@SCRIPTS@@
+</body>
+</html>

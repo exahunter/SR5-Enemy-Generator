@@ -1,0 +1,4 @@
+2107|Chinese
+2108|Politician / bureaucrat
+2109|Technician / engineer
+2110|Cultist / fanatic

@@ -1,0 +1,194 @@
+0|Luta de perto: {fecha a distância sem hesitar|investe contra o inimigo mais próximo|gruda no alvo sem deixar espaço} e resolve no corpo a corpo
+1|Luta de longe: {mantém a distância máxima|usa todo o alcance que a arma tem|escolhe o ponto mais afastado com visão limpa} e não deixa o inimigo chegar perto
+2|Distância mista: abre de longe e fecha {quando o alvo hesita|depois de ferir o primeiro inimigo|quando os inimigos recarregam|assim que o grupo adversário se divide}
+3|Emboscador: {espera imóvel em silêncio|se esconde no caminho previsto dos inimigos|monta posição antes de a equipe adversária chegar|prepara o local com antecedência} e só abre fogo quando todos estão à vista
+4|Emboscador de curta distância: {salta de uma porta|surge de trás de uma esquina|cai de uma altura|sai de dentro de um veículo parado} e ataca antes de o inimigo reagir
+5|Emboscada em dois tempos: {deixa a vanguarda passar|ignora o primeiro a aparecer|deixa o batedor inimigo seguir caminho} e ataca o grupo principal pelas costas
+6|Isca e armadilha: {finge fugir|deixa uma pista falsa|faz barulho de propósito} para atrair os inimigos até onde esperam
+7|Golpe e sumiço: {ataca de surpresa e muda de lugar|derruba um inimigo em segundos e desaparece|bate uma vez e some no escuro}
+8|Duelo: {escolhe um único inimigo|desafia o melhor atirador|procura o líder adversário} e ignora todos os outros até o fim
+9|Guerra de desgaste: {atira devagar e economiza munição|pressiona sem se expor|vai cansando os inimigos com tiros esparsos} esperando que eles errem
+10|Ataque violento e curto: {gasta tudo nos primeiros segundos|abre com rajadas longas|tenta resolver a luta em duas rodadas}
+11|Pressão constante: {não deixa os inimigos respirarem|atira sem parar para mantê-los abaixados|usa tiros de supressão contínuos} enquanto os aliados se movem
+12|Só reage: {espera ser atacado|deixa o inimigo começar|fica em guarda até o primeiro tiro} e só então responde com tudo
+13|Não mata: {mira em pernas e braços|usa munição não letal|usa munição de choque|tenta apenas desarmar} e só mata se não tiver outro jeito
+14|Nunca mata: {derruba os inimigos com golpes e choque|usa só armas de atordoamento|usa gás e munição não letal} e carrega algemas para quem cair
+15|Combate sujo: {areia nos olhos, chutes baixos e tiros à queima-roupa|golpes baixos e coronhadas|qualquer truque que encurte a luta}
+16|Combate técnico: {faz cada ataque contar|dispara em rajadas curtas|escolhe o momento certo de cada golpe} e não desperdiça ações
+17|Caçador: {segue o alvo à distância|rastreia pelo som e pelo cheiro|persegue o inimigo ferido até alcançá-lo} em vez de esperar que ele venha
+18|Cerco: {fecha as saídas|corta a retirada inimiga|ocupa as portas e janelas} antes de começar a atirar
+19|Combate de corredor: {usa a porta como ponto de estrangulamento|atira só por onde o inimigo precisa passar|prende os inimigos numa passagem estreita}
+20|Tiro de interdição: {atira contra a saída|fecha a rota de fuga a tiros|mira onde o inimigo vai passar, não onde está}
+21|Silencioso de perto: {usa faca, soco-inglês ou arte marcial|estrangula por trás|usa arma silenciada de perto} para não alertar o resto
+22|Barulhento de propósito: {atira para o alto antes de entrar|grita para assustar|usa estampidos e granadas de som} para desorganizar o inimigo
+23|Combate defensivo: {fica perto da saída|nunca se afasta da rota de fuga|mantém sempre uma porta atrás} e luta só até onde é seguro; sem rota de fuga, {luta com mais agressividade que o normal|se agarra à melhor cobertura}; com aliado ferido, {protege o aliado ferido só se isso mantiver a saída à vista|deixa o aliado ferido para trás}; com aliado importante ainda lutando, {continua perto da saída e lhe dá cobertura|adia a saída enquanto ele estiver de pé}
+24|Combate suicida: {ignora a própria segurança|não recua um passo|atira como se já estivesse morto} e tenta arrastar o máximo de inimigos
+25|Falso ataque: {manda o primeiro golpe barulhento|distrai de um lado|finge uma retirada} e golpeia de verdade pelo outro
+26|Perseguidor: {corre atrás de quem recua|não deixa ninguém sair da luta|ataca primeiro quem tenta fugir}
+27|Mestre da paciência: {conta os tiros do inimigo|espera o recarregamento dele|estuda o padrão de movimento} e só então ataca
+28|Combate em círculos: {orbita o alvo|gira ao redor do grupo inimigo|muda sempre de lado} sem deixar que o acertem
+29|Luta por rodadas: {ataca forte e recua|alterna golpe e defesa|ataca uma vez e volta à guarda}
+30|Ataque de oportunidade: {espera o inimigo recarregar|espera o inimigo se mexer|espera o tropeço} e só nesse momento investe
+31|Foco no objetivo: {derruba rápido só o que precisa|conclui a tarefa e se retira|não procura vitória, só o resultado}
+32|Controle da área: {ocupa o centro do local|domina o ponto de passagem|fica onde todos têm que passar} e obriga os inimigos a se mexerem
+33|Prefere tiro único: {um tiro, um alvo|dispara pausado e preciso|não gasta rajada em alvo fraco}
+34|Corre na direção dos inimigos {atirando durante o avanço|gritando e disparando|sem parar nem para recarregar|usando os aliados como cobertura móvel}
+35|Atira e anda para trás, {mantendo os inimigos longe|recuando um passo a cada tiro|sempre na borda do alcance deles|puxando-os para onde os aliados esperam}
+36|Avança de cobertura em cobertura, {sem expor o corpo inteiro|só quando o aliado cobre|medindo cada salto|de olho no flanco}
+37|Segura a posição e {deixa os inimigos virem|obriga os inimigos a atravessar terreno aberto|ocupa o ponto mais alto}
+38|Flanqueia: {contorna pelo lado|passa por dentro do prédio|usa o esgoto ou a escada de serviço|sobe até o andar de cima} e entra por onde não esperam
+39|Rasteja ou se agacha o tempo todo, {mantendo o corpo baixo|usando mato, entulho e carros|passando por baixo da linha de visão}
+40|Muda de posição depois de cada disparo: {nunca atira duas vezes do mesmo lugar|sempre troca de cobertura|anda em zigue-zague}
+41|Recua em ordem, {fazendo os inimigos entrarem em terreno ruim|puxando-os para o corredor|cobrindo cada passo com fogo}, e luta onde escolheu
+42|Avança junto de um aliado, {coberto por ele|passando por trás dele|alternando tiro e movimento com ele}
+43|Ocupa o ponto alto {(telhado, passarela ou janela de cima)|(escada ou mezanino)|(veículo ou contêiner)} e atira de lá
+44|Procura o ponto mais escuro: {apaga as luzes e atira da sombra|usa o escuro para chegar perto|evita os lugares iluminados}
+45|Usa o veículo para se mover: {entra com o carro pela porta|bloqueia a rua e luta de trás dele|move o carro para fechar o ângulo dos inimigos}
+46|Rodízio: avança e recua em ondas {para cansar a mira inimiga|para testar as reações|para confundir quem tenta contar os atiradores}
+47|Ataca em corridas curtas, {saindo de trás de um obstáculo e voltando para ele|de uma cobertura para a próxima|em arrancadas de poucos metros}
+48|Mistura-se ao ambiente: {anda entre civis|usa a multidão|se passa por funcionário ou cliente} para chegar perto sem ser notado
+49|Combate parado: {não sai de onde está|planta os pés no chão|fica em posição de tiro fixa}, confiando na mira e na armadura
+50|Entra pelo lado que ninguém vigia: {janela dos fundos|saída de emergência|duto de ventilação|garagem}
+51|Vai direto ao líder adversário: {abre caminho a tiros|ignora os capangas|atravessa a linha de frente} até alcançá-lo
+52|Copia o movimento do inimigo: {espelha os passos|corta o ângulo de quem tenta flanquear|fecha cada brecha que aparece}
+53|Saltos curtos entre portas e cantos, {conferindo o corredor antes de cruzar|jogando um objeto para ver quem reage|com um aliado dando cobertura}
+54|Anda sempre em direção ao barulho: {atraído pelo combate|investigando tiros|para ajudar quem está lutando}
+55|Vai pelo alto: {por telhados e escadas de incêndio|pelas vigas|por varandas e sacadas} para ter o inimigo sempre abaixo
+56|Fica junto do grupo: {nunca se afasta mais de três metros|anda sempre em formação|mantém contato visual com todos}
+57|Mapeia a rota de fuga antes de lutar: {conta as saídas|lembra a planta do local|deixa o carro ligado}; sem rota de fuga, {refaz o plano e procura outra saída|fica em pânico controlado e se agarra à cobertura}; com aliado ferido, {leva o aliado ferido pela rota mapeada|conduz o aliado ferido até a saída}; com aliado importante ainda lutando, {segura a saída aberta para ele|só usa a rota depois que ele estiver a salvo}
+58|Entra aos berros: {derruba a porta e já entra atirando|chuta a porta e avança|invade o salão aberto para chamar a atenção}
+59|Acompanha o inimigo ferido: {anda atrás dele|corta a fuga|persegue o rastro de sangue} até terminar o serviço
+60|Troca de lado com o aliado a cada rodada: {um atira, o outro avança|um cobre, o outro corre|alternam posições}
+61|Avança pelo meio do caos: {usa fumaça, poeira e barulho|aproveita o tiroteio dos outros|usa o pânico dos civis} para chegar perto
+62|Mantém a retaguarda livre: {não deixa ninguém passar por trás|olha sempre para trás|posiciona-se de costas para a parede}
+63|Circula pelo local patrulhando: {de sala em sala|de andar em andar|de esquina em esquina} para não ser cercado
+64|Contorna o prédio inteiro: {pela rua de trás|pelo estacionamento|pelo beco} e entra atrás dos inimigos
+65|Avança agachado atrás do aliado mais forte: {como se fosse uma parede|a dois passos dele|colado às costas dele}
+66|Corre em zigue-zague: {de uma coluna à outra|de carro a carro|de porta a porta} para não ser alvo fácil
+67|Recua até o corredor: {onde só cabe um|onde os inimigos ficam em fila|onde a luz não alcança}
+68|Avança só quando o inimigo recarrega: {conta os tiros|espera a pausa|aproveita o clique}
+69|Planta os pés no meio do local e gira: {com a arma varrendo tudo|sem deixar ângulo morto|sempre de frente para o perigo}
+70|Cruza o local de uma vez: {correndo até a porta oposta|atravessando o salão|saltando janelas} e luta de lá
+71|Anda atrás dos veículos: {de carro em carro|de caminhão em caminhão|de contêiner em contêiner}
+72|Sobe e desce escadas sem parar: {muda de andar a cada rodada|usa escadas e elevadores|atira do patamar}
+73|Avança em silêncio: {passos leves|um cômodo de cada vez|esperando o barulho cobrir}
+74|Se esconde e atira escondido: {aparece só para atirar e volta|põe só a arma para fora|dá um tiro e abaixa|olha, mira e se abriga}
+75|Atira de pé e sem cobertura, {confiando na armadura|confiando na velocidade|sem medo do que vier}
+76|Usa o terreno: {derruba mesas|apaga as luzes|fecha portas|puxa estantes} para cortar a linha de tiro
+77|Cobertura leve primeiro: {mesa, caixa ou balcão|carro ou lixeira|pilar fino ou vaso}, e só depois procura abrigo mais duro
+78|Só usa cobertura dura: {concreto ou pilar|lateral de veículo|parede de tijolo|bloco do motor}, mesmo limitando o ângulo
+79|Cria fumaça e poeira: {granada de fumaça|extintor|vapor aberto de um cano} para cegar os atiradores
+80|Protege-se com um escudo: {balístico|improvisado com uma porta|de uma viatura} e avança atrás dele
+81|Fica sempre a um passo da cobertura: {não se afasta de um abrigo|calcula a distância|usa a cobertura como base}
+82|Joga-se no chão {ao primeiro tiro|quando ouve um estouro|quando vê um cano apontado} e rasteja até uma cobertura
+83|Troca de cobertura a cada rodada: {nunca fica no mesmo abrigo|corre entre dois pontos|muda de lado}
+84|Usa a escuridão como cobertura: {fica nas sombras profundas|apaga lâmpadas|usa fumaça e escuro}
+85|Reflexos e esquiva: {se esquiva e rola|salta de lado|corta o ângulo}
+86|Barreira mágica: {ergue uma barreira|usa um escudo de mana|fecha o local com um campo} entre ele e os inimigos
+87|Interferência eletrônica: {embaralha as miras inteligentes|atrapalha os sensores|cega as câmeras} antes de se expor
+88|Sempre de costas para uma parede, um canto ou uma coluna, de olho na entrada
+89|Cobertura em andares: {atira do parapeito e se abaixa|muda de andar depois de cada troca de tiros|usa o piso superior}
+90|Armadilhas: {fio e granada na porta|mina de proximidade|alarme na entrada|cola no piso} antes de a luta começar
+91|Fecha portas e passagens: {tranca, bloqueia e atira|empilha móveis|usa a porta como escudo}
+92|Usa destroços como cobertura: {carros queimados|corpos caídos e caixas|portas arrancadas} que o próprio combate deixou
+93|Se esconde de novo depois de atirar: {recua para onde ninguém vê|some atrás de uma esquina|fecha a porta atrás de si}
+94|Atira de dentro do veículo: {pela janela|pelo teto solar|pela porta aberta}
+95|Confia na armadura pesada: {avança como um tanque|caminha pelo meio da rua|nem procura abrigo}
+96|Quebra as luzes e câmeras: {atira nos holofotes|apaga os postes|corta a energia} para lutar no escuro
+97|Usa a multidão como cobertura: {civis passando|gente correndo|o movimento da rua} para atrapalhar a mira do inimigo
+98|Usa cobertura móvel: {empurra um carrinho|carrega uma mesa|arrasta uma porta} enquanto avança
+99|Protege os flancos com o terreno: {encosta em paredes|usa vãos estreitos|mantém colunas dos lados}
+100|Joga com a luz: {põe o sol nas costas|usa os faróis de um carro|fica no escuro com os inimigos sob a luz} para ofuscar quem o procura
+101|Acende e apaga as luzes no ritmo da luta: {liga o holofote|aciona o alarme de luz|usa o flash de uma lanterna tática}
+102|Ignora a cobertura e confia no volume de fogo: {atira com a rajada ligada|mantém o gatilho apertado|enche a área de chumbo}
+103|Atira através da cobertura: {com arma que perfura parede|em rajadas na madeira fina|com granada contra a parede}
+104|Se faz de alvo pequeno: {de lado|agachado|rastejando}
+105|Trabalha com cobertura dupla: {uma de frente e outra para recuar|duas portas para escolher|dois pontos de tiro}
+106|Recarrega sempre atrás de cobertura: {nunca recarrega à vista|se abaixa antes de trocar o pente|conta os tiros}
+107|Deixa uma isca à vista: {um chapéu|uma mochila|uma sombra} para o inimigo atirar nela
+108|Ocupa um cômodo de duas saídas: {nunca em beco sem saída|sempre com rota atrás|entre duas portas}
+109|Mantém o inimigo sob a luz: {acende holofotes|aponta o laser|abre as cortinas}
+110|Move a cobertura junto: {empurra um sofá|arrasta uma mesa|carrega um painel}
+111|Fica atrás do mais forte e atira por cima: {do ombro dele|da barricada|do capô}
+112|Escolhe o lado cego do inimigo: {onde ele não vê|atrás de um pilar|fora do cone de visão}
+113|Só ataca junto de um aliado: {age em dupla|nunca entra sozinho|espera o parceiro para entrar}
+114|Entra na frente dos ataques para proteger os aliados: {recebe os tiros no lugar deles|empurra os feridos para trás|abre os braços e avança}
+115|Foca o mesmo alvo do líder e {só troca de alvo quando ele manda|segue o mesmo alvo que ele}
+116|Segue o líder: {atira para onde ele aponta|recua quando ele recua|avança quando ele avança}
+117|Distrai: {chama a atenção|provoca|grita ordens falsas} dos inimigos para que os aliados contornem
+118|Age por conta própria: {ignora a equipe|escolhe os próprios alvos|combate sozinho}
+119|Só um membro da equipe ataca de cada vez: {ele espera a vez|se mantém atrás até o aliado cair|reveza com os outros}
+120|Cobre quem avança: {com fogo de supressão|com tiros ao alto|mirando nos inimigos expostos}
+121|Protege o líder acima de tudo: {nunca fica longe dele|empurra o líder para a cobertura|toma o tiro por ele}
+122|Protege os mais fracos do grupo: {o médico, o decker e o mago|os feridos|quem não sabe lutar}
+123|Cuida dos feridos: {arrasta os feridos|usa o medkit nos aliados|cobre quem cai} mesmo no meio do tiroteio
+124|Comanda a equipe: {grita ordens|coordena por rádio|aponta os alvos}
+125|Faz o trabalho sujo: {vai na frente|abre a porta|limpa a sala} para os outros entrarem
+126|Rouba a cena: {quer matar o máximo possível|tenta dominar a luta|ataca os melhores alvos antes dos aliados}
+127|Guarda as costas de um aliado específico: {o líder|o parceiro|o mago|o decker}
+128|Fica de reserva: {atrás do grupo|na entrada do local|no carro} e só entra quando alguém cai
+129|Fica afastado do grupo, pronto para sair sozinho: {perto da porta|perto do carro|ao lado da saída}
+130|Espera os aliados se desgastarem: {deixa os outros lutarem primeiro|poupa munição e energia|poupa-se para o final}
+131|Franco-atirador de apoio: {sobe e vigia a entrada|cobre com mira longa|fecha o ângulo do corredor}
+132|Usa os aliados como escudo: {fica sempre atrás de alguém|empurra um aliado para a frente|deixa os outros receberem os tiros}
+133|Entrada sincronizada: {todos entram ao mesmo tempo|atacam ao sinal combinado|disparam em coro} para surpreender
+134|Segue o plano combinado: {com o grupo|com o contratante|com a equipe} sem improvisar
+135|Pede ajuda: {grita por reforço|chama os aliados|avisa a base} assim que a luta começa
+136|Mantém o líder vivo mesmo que custe a vida: {é o guarda-costas informal|fica colado nele|corta o caminho de quem o ataca}
+137|Alterna com o parceiro: {um recarrega, o outro atira|um cobre, o outro avança|um avisa, o outro age}
+138|Mantém contato por rádio: {avisa a cada passo|relata as posições inimigas|pede apoio a cada rodada}
+139|Assume o comando se o líder cair: {passa a dar ordens|toma a frente|reúne os outros}
+140|Nunca deixa um aliado para trás: {volta para buscar|espera quem se atrasa|puxa quem está caído}
+141|Treino em equipe: {protocolos de entrada|sinais de mão|formação em cunha} que ele repete em cada luta
+142|Guerra psicológica em conjunto: {um provoca, outro desarma|um ameaça, outro negocia|um grita, outro some}
+143|Usa um aliado como cobertura móvel: {anda atrás dele|deixa que ele seja o alvo|fica na sombra dele}
+144|Divide a equipe: {metade ataca, metade cobre|um grupo na frente e outro de lado|dois atiram e um observa}
+145|Escolhe um parceiro de luta: {o mais próximo|o mais forte|o que conhece há mais tempo}
+146|Dá o sinal de recuar ou avançar: {com a mão|com um assobio|com uma palavra combinada}
+147|Faz a equipe lutar no ritmo dele: {apertando o ritmo|esperando todos|mandando um de cada vez}
+148|Entra por último: {depois dos outros|quando a poeira baixa|quando a porta já está aberta}
+149|Ataca primeiro o inimigo mais perigoso: {a arma mais forte|a magia mais forte|o maior atirador} do outro lado
+150|Ataca primeiro o mais ferido, {para tirar um combatente da luta|para terminar logo o serviço|para dar a vitória fácil aos outros}
+151|Ataca primeiro mago, decker ou rigger, {antes que mostrem o que sabem|antes que se escondam|antes que invoquem alguém}
+152|Revida em quem acabou de atacá-lo, {ou de ferir um aliado|ou de errar o tiro|ou de insultá-lo}
+153|Evita matar: {usa munição não letal|usa munição de choque|tenta imobilizar} e só mata se for necessário
+154|Captura vivos: {com algemas e cabo de contenção|com gás ou rede|com armas de choque} para entregar a alguém
+155|Mira em armas, veículos e equipamento {antes de mirar nas pessoas|para deixar o inimigo sem opção|para forçar a rendição}
+156|Ataca primeiro o líder inimigo: {tenta derrubar o chefe|elimina quem dá as ordens|quebra a cabeça da equipe}
+157|Ataca o alvo mais próximo: {sem escolher|sem pensar|sem rodeios}
+158|Ataca o mais lento ou o mais pesado: {o que não corre|o que carrega mais coisa|o que está parado}
+159|Ataca quem está sozinho: {isola um inimigo|pega o que ficou para trás|corta quem se afasta do grupo}
+160|Ataca quem recarrega: {espera o clique|conta os tiros|fecha na hora da troca de pente}
+161|Procura o alvo do objetivo: {o item|a pessoa|o dado} e ignora o resto da luta
+162|Mata o que ameaça os civis, ignora o resto: {entra na frente|desvia o fogo|abre caminho}
+163|Dispara só para ferir: {atinge ombros e coxas|derruba sem matar|tira a arma dos inimigos}
+164|Executa quem cai: {termina os caídos|não deixa ninguém levantar|dá o tiro de misericórdia}
+165|Ignora os civis: {nunca mira em quem não está armado|evita gente de rua|abaixa a arma quando um civil aparece}
+166|Ameaça e tenta negociar antes de abrir fogo: {fala primeiro|mostra a arma|dá um prazo}
+167|Grita ordens e avisa a equipe de cada movimento
+168|Fica calado e frio: {ataca sem aviso|não responde a provocação|não dá um grito}
+169|Provoca os inimigos: {para tirá-los da cobertura|para quebrar a mira|para ver quem perde a cabeça}
+170|Espera o primeiro tiro do inimigo e {só então reage|só então mata|só então pede ajuda}
+171|Manda {DR} na frente para abrir a luta, sem perdê-lo de vista
+172|Abre com o feitiço {SP} antes de qualquer tiro
+173|Deixa {SPI} segurar a linha de frente enquanto dá apoio
+174|Fica na retaguarda com {DECK}, atrapalhando as armas e o equipamento inimigo
+175|Abre com {GREN} para tirar os inimigos da cobertura
+176|Troca para {W2} quando o inimigo fecha a distância
+177|Usa {W1} {em tiros precisos|em rajadas curtas|com disciplina de munição} e só troca de arma se travar
+178|Chama {RF} antes de a luta esquentar
+179|Mantém {DR} perto como alvo falso, atraindo tiros para longe dos aliados
+180|Usa {SP} só se a luta apertar; antes disso, resolve com a arma
+181|Deixa {SPI} atacar primeiro e {só depois|só se precisar|junto com ele} entra na luta
+182|Mantém {DECK} conectado o tempo todo, escolhendo o melhor alvo da rede
+183|Escolhe o alvo pela armadura: {o menos protegido|o que usa a pior proteção|o que parece frágil}
+184|Escolhe o alvo pelo barulho: {o que mais atira|o que mais grita|o que mais se mexe}
+185|Ataca quem carrega o butim: {a mala|o dado|a caixa}
+186|Evita o corpo a corpo com quem tem ciberware: {atira de longe|usa a distância|espera que se aproxime}
+187|Mantém um alvo vivo para interrogar: {fere para conter|derruba e prende|nocauteia o que parece saber mais}
+188|Usa a voz como arma: {assusta os civis|manda os inimigos ao chão|grita para que se rendam} antes de atirar
+189|Gasta o Edge no momento certo: {no primeiro tiro|quando a luta vira|quando um aliado cai}
+190|Dá o primeiro tiro no inimigo mais afastado do grupo dele: {para dividir|para assustar|para testar}
+191|Manda {DR} fazer o reconhecimento e só entra depois
+192|Dispara {SP} nos inimigos agrupados {antes que se separem|logo no começo|quando se escondem juntos}
+193|Posiciona {SPI} atrás dos inimigos para fechar a fuga

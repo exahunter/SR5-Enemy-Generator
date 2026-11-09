@@ -1,0 +1,4 @@
+2107|Chinesa
+2108|Político / burocrata
+2109|Técnico / engenheiro
+2110|Cultista / fanático

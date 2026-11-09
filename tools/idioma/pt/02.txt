@@ -1,0 +1,156 @@
+194|Usa {DECK} para abrir portas e desligar câmeras antes da entrada
+195|Mira com {W1} nas {pernas|mãos|ombros} para tirar a arma do inimigo
+196|continua atirando e {recua um passo, ficando atrás dos aliados|se abaixa atrás do aliado mais próximo|troca de cobertura}, expondo-se o mínimo
+197|tenta estancar o ferimento com {um medkit|um slap patch|um estimulante|uma compressa improvisada} antes de voltar à luta
+198|pede cobertura aos aliados e {dá um passo atrás|troca de posição|recarrega} sem sair da luta
+199|troca para {W2} ou parte para cima com o que tiver à mão
+200|parte para cima com o que tiver à mão, {a coronha, a faca ou o punho|uma cadeira ou um pedaço de ferro|qualquer coisa que corte}
+201|o ferimento o enfurece: {ignora a cobertura|grita e acelera o ritmo|avança mais rápido}
+202|chama reforço ({RF}) {por rádio|por celular|com um sinal combinado} e segura a posição até eles chegarem
+203|não demonstra dor: {segue no mesmo ritmo|cerra os dentes|ignora o sangue} para não abalar os aliados
+204|avisa a equipe do ferimento e {pede para ser coberto|passa o flanco a um aliado|troca de lugar com um aliado}
+205|toma uma posição de tiro mais firme: {apoia a arma|se ajoelha|se encosta numa parede} e continua atirando
+206|aproveita a fúria da luta: {atira mais rápido|mira em quem o feriu|vai para cima de quem o feriu}
+207|conta quantos inimigos restam e {decide poupar munição|escolhe os próximos alvos|reorganiza o ataque}
+208|ignora o dano e {continua de pé|segue avançando|segue na mesma posição} porque o grupo precisa dele
+209|grita para os aliados que {está ferido, mas aguenta|vai segurar a porta|vai continuar atirando}
+210|começa a olhar para as saídas e {atira menos|se afasta um pouco|se aproxima da porta} sem avisar ninguém
+211|pensa na própria pele: {atira de trás de uma cobertura mais segura|passa a recuar a cada rodada|abaixa a cabeça o tempo todo}
+212|tenta {segurar o ferimento|se enfaixar|tomar um estimulante}, mas volta menos disposto
+213|reduz o ritmo: {dá menos tiros|só atira quando é seguro|evita sair da cobertura}
+214|olha para o líder esperando ordem de recuar{ e hesita| e já dá um passo atrás|, mas segue na luta}
+215|procura a saída mais próxima e {se aproxima dela|começa a recuar|espera a primeira distração}
+216|passa a atirar só para parecer que luta: {mira alto|dispara sem olhar|gasta munição à toa}
+217|abaixa a arma por um instante e {olha para o inimigo|pergunta se podem conversar|pergunta quanto estão pagando}
+218|esconde-se atrás de um aliado e {deixa-o aguentar o tiro|espera passar|some da linha de fogo}
+219|joga fora a arma mais pesada e {fica leve para correr|prepara a corrida|olha para as saídas}
+220|faz um sinal ao inimigo de que {não quer morrer|pode haver acordo|a luta não é dele}
+221|recolhe o que pode do corpo de um aliado e {vai se afastando|se prepara para sair}
+222|a lealdade começa a ceder: {olha para trás|conta as saídas|pensa na família} e hesita
+223|percebe que a luta está perdida e {se afasta do grupo|deixa de cobrir os outros|guarda munição para si}
+224|a dor lembra quanto vale a própria vida: {sai da linha|se encolhe|baixa a arma por um instante}
+225|começa a duvidar: {vale morrer por isso?|isso não está no contrato|os aliados fariam o mesmo?}
+226|se encosta num aliado e {pede um instante|respira fundo|confere o pente} antes de voltar à luta
+227|troca de lugar com um aliado menos ferido {e passa a cobri-lo|e vai para a segunda linha|e recarrega}
+228|fecha o ferimento com {fita adesiva|uma bandagem|spray de pele} e {volta atirando|volta ao posto}
+229|grita ao aliado mais próximo para {cobrir o flanco|assumir o ataque|ficar atento} e segue em frente
+230|tira um instante para {pensar|se localizar|olhar ao redor} e decide se vale a pena continuar
+231|leva a mão ao ferimento e {xinga alto|geme|respira com dificuldade}, perdendo precisão
+232|balbucia que {não foi para isso que veio|não ganha o suficiente|não quer morrer aqui} e dá um passo atrás
+233|tira o colete ou a mochila pesada e {larga no chão|joga num aliado|deixa para trás}
+234|para de mirar nos inimigos e {olha para o chão|olha para o céu|só pensa em sair}
+235|o ferimento o faz pensar em {quem espera em casa|o que perdeu|o preço do contrato}
+236|luta até cair e {cobre a retirada dos aliados|segura a porta para os aliados passarem|deixa os aliados carregarem os feridos}, sem abandonar ninguém
+237|fica de pé na frente dos aliados como escudo {até o fim|enquanto eles se reorganizam|enquanto o líder decide}
+238|recua em ordem, {cobrindo os aliados mais feridos|puxando um aliado caído|disparando para ganhar tempo}
+239|segura a posição mais um pouco {pelos aliados|pelo objetivo|pelo líder|pelo contrato}
+240|arrasta um aliado ferido {para fora da linha de fogo|para trás de uma cobertura|até o médico}, mesmo sangrando
+241|trava o corredor com o próprio corpo: {atira de joelhos|se apoia na parede|usa a porta como apoio}
+242|dá uma ordem {para os aliados recuarem|para o grupo reorganizar|para fecharem a formação} enquanto continua lutando
+243|usa tudo o que resta: {munição, granadas, adrenalina|os últimos pentes|o que encontrar no chão} e segue lutando
+244|luta com mais cuidado: {guarda os tiros|escolhe cada alvo|fica parado} mas não sai do lugar
+245|avisa pelo rádio {onde está o inimigo|o que falta fazer|que aguenta mais um pouco} e segue lutando
+246|nem pensa em recuar: {a luta é a única saída|a honra está em ficar|já escolheu onde cair}
+247|foge da luta {pela saída mais próxima|em direção ao carro|pelos fundos}, sem olhar para trás; sem rota de fuga, {recua até o canto mais protegido|se encolhe atrás da cobertura e para de atirar}; com aliado ferido, {passa por ele sem parar|só leva o aliado ferido se ele estiver no caminho}; com aliado importante ainda lutando, {adia a fuga até ele cair ou ser coberto|fica mais uma rodada na luta, de olho na saída}
+248|larga a arma e se rende {com as mãos para o alto|gritando que desiste|de joelhos}
+249|segura a posição, {mas já escolhe por onde sair|mas olhando para trás|mas com a mão na maçaneta}
+250|recua em ordem, cobrindo-se atrás dos aliados {sem avisar|sem sair da formação|até chegar à porta}
+251|vira de costas e {vai embora|corre|desaparece entre os aliados} aproveitando a distração; sem rota de fuga, {se esconde atrás dos aliados|fica parado, sem atirar}; com aliado ferido, {usa o aliado ferido como cobertura|deixa o aliado ferido onde está}; com aliado importante ainda lutando, {espera ele ser coberto antes de sair|só sai quando ele estiver distraído}
+252|pede aos aliados que {cubram|esperem|segurem} e se retira da luta, prometendo voltar; sem rota de fuga, {fica atrás de quem cobre|recua só até o fundo da posição}; com aliado ferido, {leva o aliado ferido junto, se conseguir|entrega o aliado ferido a quem está cobrindo}; com aliado importante ainda lutando, {não sai antes de ele estar protegido|fica por perto e volta mais cedo}
+253|luta mais um pouco, mas {com um olho na saída|olhando para trás|já com a mão na porta}
+254|larga a arma, {levanta as mãos|se ajoelha|dá um passo atrás} e grita que desiste
+255|vira a casaca: {oferece informação|propõe um acordo|pede para trocar de lado} em troca da vida
+256|foge pela saída mais próxima, {abandonando os aliados|largando a mochila|sem olhar para trás}; sem rota de fuga, {empurra um aliado para abrir caminho|se joga no chão e espera}; com aliado ferido, {passa por cima do aliado ferido|deixa o aliado ferido para trás}; com aliado importante ainda lutando, {foge mesmo assim|hesita um instante e foge}
+257|se joga no chão e {finge estar morto|finge ter desmaiado|espera passar}
+258|grita ao inimigo que {está do lado dele|já passou para o outro lado|quer falar com o chefe}
+259|tenta sair aos poucos, {rastejando|em meio à fumaça|atrás de um móvel}; sem rota de fuga, {espera uma abertura sem se mexer|volta para a cobertura anterior}; com aliado ferido, {leva o aliado ferido se ele puder andar|não se mexe enquanto o aliado ferido estiver à vista}; com aliado importante ainda lutando, {desiste de sair e volta a atirar|segue devagar, sem chamar atenção}
+260|entrega a arma a um inimigo e {pede para ser levado|promete colaborar|diz que sabe onde estão os outros}
+261|a lealdade tem limite: {foge pelos fundos|vai embora|corre para o carro} e deixa os aliados para trás; sem rota de fuga, {tenta abrir caminho entre os aliados|fica e luta com raiva}; com aliado ferido, {nem olha para o aliado ferido|já tinha largado o aliado ferido}; com aliado importante ainda lutando, {olha para ele uma vez e sai mesmo assim|hesita e fica mais uma rodada}
+262|a lealdade tem limite: {se rende|larga a arma|levanta as mãos} e entrega a posição dos aliados para salvar a pele
+263|a lealdade tem limite: vira a casaca se o inimigo {prometer deixá-lo viver|oferecer proteção|oferecer dinheiro}
+264|muda de ideia de uma hora para outra: {sai da luta|se esconde|entrega a arma}; sem rota de fuga, {muda de ideia de novo e volta a lutar|fica onde está, sem agir}; com aliado ferido, {ajuda o aliado ferido a se proteger primeiro|esquece o aliado ferido}; com aliado importante ainda lutando, {volta para perto dele|ignora e segue com a nova ideia}
+265|pede aos aliados que {se afastem|assumam a frente|fechem a retaguarda} e fica para cobrir
+266|se apoia na parede e {atira mais devagar|atira sem pausa|mantém o corredor fechado}
+267|usa o próprio corpo como barricada: {na porta|no corredor|na escada}
+268|manda um aliado levar a informação enquanto {fica para trás|segura os inimigos|atrasa a perseguição}
+269|decide que a luta já foi longe demais e {anda para fora devagar|pede uma trégua|dá um sinal combinado}; sem rota de fuga, {recua devagar até a parede|fica parado, sem atirar}; com aliado ferido, {leva o aliado ferido junto|arrasta o aliado ferido até a cobertura}; com aliado importante ainda lutando, {adia a saída e dá cobertura a ele|não se afasta enquanto ele estiver de pé}
+270|propõe aos inimigos {uma trégua|uma troca de prisioneiros|que deixem os feridos irem embora} enquanto segura a posição
+271|se encolhe atrás de uma cobertura e {recusa-se a sair|grita que se rende|implora para que parem}
+272|entrega o equipamento {sem resistir|em silêncio|reclamando} e fica de joelhos
+273|grita ao inimigo {onde estão os outros|onde está o dinheiro|que o chefe é o culpado}
+274|a lealdade acaba aqui: {se esconde|vai embora|joga a arma fora}; sem rota de fuga, {fica e luta de má vontade|se esconde no pior lugar possível}; com aliado ferido, {deixa o aliado ferido sem ajuda|passa direto pelo aliado ferido}; com aliado importante ainda lutando, {sai mesmo assim|espera ele se virar e sai}
+275|dá a última rajada caído, {até apagar|até o pente acabar|até o inimigo cair ou ele}
+276|se explode correndo na direção dos inimigos {(puxa o pino de uma granada)|(com uma carga improvisada)|(com a última granada)} para abrir caminho aos aliados
+277|se joga sobre o inimigo mais próximo e {luta no corpo a corpo|não o solta|o segura} para os aliados passarem
+278|cai de joelhos, mas {segue atirando|passa a munição a um aliado|grita uma última ordem} até desmaiar
+279|usa o que sobrou: {adrenalina|um último estimulante|a última granada} para ganhar mais uma rodada
+280|abraça um inimigo e {puxa o pino|não o solta|se joga com ele de uma varanda} para dar tempo ao grupo
+281|recua se arrastando {até uma cobertura|para trás de um aliado|até o médico}, ainda atirando
+282|segura a arma com as duas mãos e {atira até cair|mira no líder inimigo|mira em quem estiver mais perto}
+283|se alcançado, {se rende e implora pela vida|vira a casaca e entrega o que sabe|chora e pede para viver}
+284|cai e se finge de morto {para escapar quando puderem|até todos saírem|até alguém passar}
+285|vira a casaca: {oferece informação|troca de lado|entrega um aliado} para salvar a vida
+286|vai até o fim: {dá a última rajada|se explode correndo|lança a última granada} se ainda tiver carga
+287|cai de joelhos e {pede ajuda|grita por um médico|promete sair do crime}
+288|se alcançado durante a fuga, {luta de novo|gira e atira|joga a última granada}; sem rota de fuga, {luta onde está|se encosta na parede e atira}; com aliado ferido, {usa o aliado ferido como obstáculo|protege o aliado ferido por reflexo}; com aliado importante ainda lutando, {volta para perto dele|usa a luta dele como distração}
+289|se explode correndo na direção dos inimigos para abrir caminho, {mesmo sem ser leal|por orgulho|por dívida}
+290|se pego durante a fuga, {se rende na hora|implora pela vida|entrega tudo}; sem rota de fuga, {se rende antes de ser atacado|larga a arma e levanta as mãos}; com aliado ferido, {aponta o aliado ferido para ganhar tempo|se rende junto com o aliado ferido}; com aliado importante ainda lutando, {fica de fora até a luta acabar|não se rende enquanto ele ainda luta}
+291|se pego durante a fuga, vira a casaca e {entrega os antigos aliados|entrega o plano|entrega o esconderijo}; sem rota de fuga, {troca de lado logo|se junta ao grupo mais próximo}; com aliado ferido, {entrega também o aliado ferido|nada diz sobre o aliado ferido}; com aliado importante ainda lutando, {adia a traição até ele cair|trai antes de ele perceber}
+292|na primeira distração, {escapa e foge|some pela janela|corre de novo}; sem rota de fuga, {espera uma distração maior|se esconde onde está}; com aliado ferido, {usa o aliado ferido como distração|sai sem o aliado ferido}; com aliado importante ainda lutando, {aproveita a luta dele para sair|fica perto dele até a hora certa}
+293|se o novo lado o recusar, {foge|se rende|tenta outro lado}; sem rota de fuga, {tenta outro lado de novo|se rende ao primeiro que olhar para ele}; com aliado ferido, {oferece o aliado ferido ao novo lado|se esconde junto com o aliado ferido}; com aliado importante ainda lutando, {tenta voltar para o lado dele|fica fora da briga dele}
+294|tenta sair arrastando-se, {rastejando|rolando|escorregando} até onde ninguém vê
+295|tenta mais uma negociação: {oferece dinheiro|oferece informação|oferece uma identidade falsa} em troca de ser deixado para trás
+296|perde a coragem de vez e {desmaia de medo|se encolhe|chora}
+297|sai andando como se nada fosse: {some pela porta|vira na esquina|mistura-se à rua} e não volta mais; sem rota de fuga, {fica no meio da confusão como se não fosse com ele|se mistura aos feridos}; com aliado ferido, {passa pelo aliado ferido sem olhar|deixa o aliado ferido no chão}; com aliado importante ainda lutando, {segue andando sem olhar para trás|para um instante e vai embora}
+298|se explode correndo na direção dos inimigos {(fanático até o fim)|(com a última granada)|(com uma carga improvisada)}
+299|no último fôlego, {perde a coragem e foge|desiste e corre|vira de costas}, abandonando quem estava ao lado; sem rota de fuga, {fica de pé e luta até cair|cai de joelhos e para de lutar}; com aliado ferido, {deixa o aliado ferido ao seu lado mesmo assim|cobre o aliado ferido com o corpo por um instante}; com aliado importante ainda lutando, {olha para ele e fica mais um instante|segue o impulso e abandona o posto}
+300|no último fôlego, {se rende e implora|larga tudo e implora|levanta as mãos} para viver
+301|no último fôlego, grita que {muda de lado|se entrega|trai o grupo} e aponta a arma para os aliados
+302|no último fôlego, {pega o dinheiro|pega as chaves|pega o item mais valioso} e foge sozinho; sem rota de fuga, {se esconde com o que pegou|fica e luta agarrado ao que pegou}; com aliado ferido, {passa pelo aliado ferido sem olhar|deixa o aliado ferido para trás}; com aliado importante ainda lutando, {sai mesmo assim|espera ele se distrair e sai}
+303|pega a arma do aliado caído e {segue atirando|dá mais uma rajada|atira até acabar}
+304|grita um recado {para a família|para o líder|para os aliados} antes de cair
+305|se levanta de novo {apesar de tudo|por teimosia|por quem ficou}
+306|usa o corpo como porta: {fecha a passagem|bloqueia a escada|segura a saída}
+307|usa a última esperança: {pede ajuda por rádio|chama o reforço|dispara um sinalizador}
+308|tenta um último acordo com {o inimigo|o líder deles|quem estiver mais perto}
+309|cai de lado e {fica imóvel|respira fundo|chama pelos aliados}
+310|desmaia de dor {no meio da luta|atrás da cobertura|na porta}
+311|esconde o que sabe {no bolso|na memória|numa mensagem} para vender depois
+312|para de se mexer e {espera ser carregado|espera passar|espera o fim}
+313|promete {servir ao novo lado|nunca mais voltar|dar tudo o que tem}
+314|vende os aliados {por um preço|por uma saída|por um favor}
+315|no último fôlego, {esconde o dinheiro|pega a melhor arma|rouba a munição} e deixa os aliados sem nada; sem rota de fuga, {se encolhe sobre o que pegou|luta para não perder o que pegou}; com aliado ferido, {rouba também do aliado ferido|ignora o aliado ferido}; com aliado importante ainda lutando, {evita ficar à vista dele|segue com o que pegou, sem olhar para ele}
+316|no último fôlego, {nega ter ficado|jura que nunca foi leal|diz que só seguia ordens} e se rende
+317|Entra por etapas: {limpa cômodo por cômodo|avança de uma porta à outra|toma um setor de cada vez} e só passa adiante quando o setor está seguro
+318|Segue o plano da missão: {cumpre os objetivos na ordem combinada|não improvisa sem ordem|volta ao plano a cada imprevisto} mesmo quando é tentador agir de outro jeito
+319|Ataca em bando, sem plano: {todos de uma vez|cada um por um lado|gritando e atirando ao mesmo tempo} e deixa o resto ao acaso
+320|Muda de tática sem aviso: {começa de longe e de repente avança|troca de alvo a cada rodada|faz o contrário do que o grupo espera} só para manter o inimigo sem saber o que vem
+321|Emboscada de equipe: {divide os atiradores em dois lados|fecha o triângulo de fogo|sincroniza o primeiro tiro com o líder} e só abre fogo quando todos estão em posição
+322|Mostra força antes de atacar: {exibe as armas|grita as cores da gangue|chuta a porta e anuncia quem chegou} para fazer o inimigo recuar sem luta
+323|Dá a voz de comando: {manda largar a arma e se deitar|dá o aviso formal de prisão|se identifica e manda parar} e só atira se for ignorado
+324|Ritual de abertura: {faz uma oração coletiva|entoa o canto da seita|acende um símbolo e ataca} antes do primeiro golpe
+325|Reconhece antes de agir: {fica em posição de vigia|estuda o terreno|conta os inimigos e as saídas} e só então passa o que viu ao grupo
+326|Domina o ambiente: {fecha as saídas e mantém a calma|fala em voz baixa e firme|deixa o silêncio fazer o trabalho} e só ataca quando o alvo entende que perdeu
+327|Apoio à distância: {fica atrás do grupo e conjura|lança feitiços por cima dos aliados|mantém a linha de visão para o grupo} e deixa o corpo a corpo para os outros
+328|Comanda a luta pela Matrix: {desliga as câmeras antes do primeiro tiro|abre as portas na hora certa|trava as armas inimigas} e só então a equipe entra
+329|Fogo de {DR}: {põe os drones na frente|libera os drones em duas levas|usa os drones como isca} enquanto fica atrás da cobertura
+330|Combate de adepto: {entra primeiro no corpo a corpo|é o primeiro a fechar a distância|usa a velocidade para chegar antes de todos}
+331|Avança em lances: {um cobre enquanto o outro corre|alterna entre correr e atirar|nunca se move sem alguém cobrindo} até a posição seguinte
+332|Mantém a formação: {fica a poucos passos dos aliados|move-se em cunha|segue a coluna sem abrir espaço} e não vai além do que o grupo cobre
+333|Corre sem rumo certo: {muda de direção a cada passo|corre de um lado para o outro|avança e recua sem pensar} deixando o inimigo sem saber onde mirar
+334|Não sai da posição que recebeu: {segura o setor até receber outra ordem|fica no ponto combinado mesmo sob fogo|só se move quando mandam}
+335|Persegue por impulso: {sai atrás do primeiro que corre|abandona a cobertura para seguir um inimigo|corre atrás de quem o insultou}
+336|Planeja a retirada antes da entrada: {marca a rota de fuga|deixa o veículo ligado|define o ponto de encontro} e se move sempre em direção a ela; sem rota de fuga, {muda o plano e busca o ponto de encontro|fica no lugar e luta até abrir caminho}; com aliado ferido, {leva o aliado ferido até o ponto de encontro|deixa o aliado ferido no veículo}; com aliado importante ainda lutando, {segura o veículo até ele sair|adia a retirada enquanto ele estiver de pé}
+337|Cobre o setor do aliado: {olha para o lado que ele não vê|fica de costas para as costas dele|muda de posição para fechar o ângulo que ele abriu}
+338|Desaparece da luta quando ela esquenta: {some pelo corredor|se esconde atrás de um veículo|vai para trás do grupo} e espera o resultado
+339|Divide os setores de tiro: {cada um cobre um ângulo|marca quem cuida de cada janela|confere a linha de fogo dos aliados} e só atira no seu
+340|Usa a cobertura de forma teatral: {chuta a mesa para virar escudo|pula atrás do carro com um grito|atira de pé e só abaixa quando erram}
+341|Não fica parado: {troca de cobertura a cada rodada|nunca usa a mesma cobertura duas vezes|muda de lugar assim que é visto}
+342|Cobertura de equipe: {abre fogo para os outros trocarem de posição|cobre quem se move|dá fogo de supressão no momento exato}
+343|Barreira mágica: {ergue uma barreira entre o grupo e o inimigo|conjura uma proteção sobre os aliados|usa magia de proteção antes de qualquer tiro}
+344|Cobertura pela Matrix: {zera os sensores inimigos|trava as miras eletrônicas|embaralha a visão deles}
+345|Segue a cadeia de comando: {espera a ordem do líder|executa a ordem sem discutir|repete a ordem e executa}
+346|Mantém comunicação constante: {anuncia posição e munição pelo rádio|avisa cada mudança de setor|diz quem caiu e quem avança} para o grupo agir junto
+347|Cobre o parceiro: {escolhe um colega e nunca o perde de vista|forma dupla fixa|vigia o ponto cego do parceiro}
+348|Assume o ponto: {vai na frente abrindo caminho|serve de ponta de lança|entra primeiro para os outros}
+349|Ataca por conta própria: {ignora o plano e sai atirando|decide sozinho quem atacar|age antes de o grupo entender o que está acontecendo}

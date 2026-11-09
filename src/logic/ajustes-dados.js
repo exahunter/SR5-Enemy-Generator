@@ -1,0 +1,1 @@
+try{const i=POS.findIndex(o=>o[0]==='Double-Jointed');if(i>=0)POS[i][0]='Double Jointed';[QAFF['Samurai de rua'],QAFF['Adepto físico']].forEach(a=>{const q=a&&a.pos;if(q&&q['Double-Jointed']!==undefined){q['Double Jointed']=q['Double-Jointed'];delete q['Double-Jointed']}})}catch(e){avisa('ajustes-dados',e)}

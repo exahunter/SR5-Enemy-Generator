@@ -1,0 +1,7 @@
+2417|Specialist
+2418|Scout
+2419|Armorer
+2420|Rookie
+2421|Security mage
+2422|Believer
+2423|Assistant

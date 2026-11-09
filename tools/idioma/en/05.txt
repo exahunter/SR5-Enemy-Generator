@@ -1,0 +1,449 @@
+823|settles things at the door: separates, ejects and only escalates if the client insists; protects the venue and the team
+824|wants the story, not the fight: runs off to film from afar and only reacts if cornered
+825|acts in formation under orders: covers sectors, reports everything on the radio and falls back as a block when the mission ends
+826|Only draws after giving the warning
+827|Sizes up the opponent before any shot
+828|Insists the other one shoots first
+829|duels with a heavy pistol and invests in a single model
+830|Makes his rounds at the same time every day
+831|Turns off the light before opening the door
+832|Taps his helmet to see if it's still firm
+833|watches positions and invests in flashlights, sensors and tactical armor
+834|Assaulter (breach)
+835|Counts the seconds out loud before going in
+836|Always enters through the door, never the window
+837|Uses the butt to clear the way
+838|goes in first, close and fast, with a short automatic weapon
+839|Knifeman (short blade)
+840|Sharpens the blade at every pause
+841|Cuts fruit just to show off the edge
+842|Never leaves the knife far from his hand
+843|works up close with a short blade and prefers to go unnoticed
+844|Always positions himself between the client and the door
+845|Watches the hands of whoever approaches
+846|Doesn't drink on duty, not even the client's water
+847|lives to keep someone alive and invests in reflexes and radio
+848|Leaves a long silence after every answer
+849|Never raises his voice
+850|Saves the most important question for the end
+851|extracts information with patience and pressure, in no hurry to fight
+852|Keeps everything that can be reused
+853|Sleeps with his eyes half open
+854|Knows the way of the water in any neighborhood
+855|gets by on little, in any terrain, and carries what he needs
+856|Manipulator (mind magic)
+857|Gestures with his hands even without casting
+858|Avoids looking in the eyes of whoever enchants
+859|prefers manipulation and illusion spells to causing damage
+860|Aims at a single opponent and gives him the chance to back off before the first shot.
+861|Takes the lookout spot and lets the threat enter the area he controls.
+862|Enters fast, close and loud to break the defensive line before it forms.
+863|Arrives through the blind spot and settles the short distance before the target reacts.
+864|Puts his body between the threat and whoever he protects and only then thinks of attacking.
+865|Prefers to capture and talk; uses fear and silence before the weapon.
+866|Uses the terrain, patience and whatever is at hand; spends nothing beyond what is necessary.
+867|Prefers to bend the enemy's will rather than bring him down; only wounds when there is no other way.
+868|Doesn't change expression even when wounded
+869|Answers shouting with a nod
+870|Does what has to be done and doesn't complain
+871|Bites his nails even in the middle of the job
+872|Only wants all of this to end with no one hurt
+873|Joker
+874|Cracks jokes even in the middle of a firefight
+875|Gives every enemy a ridiculous nickname
+876|Thinks laughing is the best way to survive
+877|Talks about his own end as if it were certain
+878|Only appears in photos from behind
+879|Has already lost so much he isn't afraid of losing the rest
+880|Never asks for help, not even when he needs it
+881|Corrects anyone who gets his name wrong
+882|Won't be seen backing down
+883|Opens what he shouldn't just to see what's inside
+884|Stops mid-fight to look at a strange object
+885|Wants to find out what is behind all this
+886|Keeps a list of everyone who has offended him
+887|Never forgets a face
+888|Still holds an old score to settle
+889|Touches an amulet before every important step
+890|Never enters a building from the left side
+891|Believes luck has already picked a side
+892|Prays in a low voice before acting
+893|Kisses a symbol of faith hanging from his neck
+894|Believes the outcome is already in the hands of something greater
+895|Always knows the exit and the highest offer
+896|Switches sides with a smile and no guilt
+897|Sides with whoever is winning
+898|Counts the civilians present before anything else
+899|Advances first so the others don't have to
+900|Can't stand to see the weaker get hurt
+901|Calculates the odds under his breath before acting
+902|Notes down what each decision cost
+903|Only gets into a fight when the numbers add up
+904|Reckless
+905|Always picks the most dangerous path
+906|Laughs when the risk rises
+907|Only feels alive when near the end
+908|Cynical
+909|Answers everything with sarcasm
+910|Says he has seen this movie before
+911|Believes in no one, but accepts the payment
+912|Gives short speeches about what is right
+913|Believes there is always a fair way
+914|Fights for something he truly believes in
+915|Obeys the order even when he disagrees
+916|Keeps the uniform impeccable even in the middle of a fight
+917|Carries out the mission exactly as given
+918|Does the opposite of what he's told just to prove a point
+919|Distrusts any authority
+920|Won't take orders from anyone
+921|Always speaks in the same tone, whatever the situation
+922|Never explains what he intends to do
+923|Treats every job as a task and nothing more
+924|Apologizes even to whoever is pointing a gun at him
+925|Offers help to whoever he just wounded
+926|Doesn't want to hurt anyone, even on the worst day
+927|Sticks to the plan even after it fails
+928|Repeats the same tactic until it works
+929|Never drops a decision once it's made
+930|Yawns in the tensest moments
+931|Asks how long until the end of the shift
+932|Just wants to go home and sleep
+933|Counts how many more targets he took down than his colleagues
+934|Bets with his colleagues even in the middle of the mission
+935|Needs to prove he is the best in the group
+936|Keeps his pace even wounded; doesn't change plans out of panic or provocation.
+937|Saves Edge for the moment the group really needs it.
+938|Hesitates before acting and looks for confirmation; gives in to fear at the first serious wound.
+939|Spends Edge early to avoid damage, before knowing if it was needed.
+940|Provokes and jokes to break the rhythm of the enemy and of his own group.
+941|Spends Edge on bold plays just to see the result.
+942|Acts as if the worst had already happened; doesn't spare himself and rarely retreats.
+943|Rarely spends Edge; prefers to accept the result.
+944|Doesn't back down first or ask for help; reacts badly to any humiliation.
+945|Spends Edge to win a personal duel, not to flee.
+946|Gets distracted by everything new; investigates before acting.
+947|Spends Edge to take advantage of something he just discovered.
+948|Picks a target of hatred and pursues it, even when it's risky.
+949|Spends Edge to finish the job against whoever offended him.
+950|Follows rituals before acting and refuses whatever seems unlucky.
+951|Spends Edge when a sign seems favorable.
+952|Acts with calm and faith; accepts risk as part of a greater destiny.
+953|Spends Edge to save someone else, never to save himself.
+954|Watches who is winning and positions himself beside them at the last moment.
+955|Spends Edge to come out on top, almost always at someone else's expense.
+956|Puts his body between the threat and those who can't fight; only advances after they are safe.
+957|Spends Edge to protect someone, before himself.
+958|Runs the numbers on risk and return and only attacks when the odds are good.
+959|Spends Edge only when the math pays off.
+960|Picks the most dangerous path and advances without looking at the cost.
+961|Spends Edge early and many times.
+962|Trusts no one and hides what he feels behind sarcasm.
+963|Spends Edge to avoid being deceived.
+964|Fights for what he considers right and refuses to break his own principles.
+965|Spends Edge to protect a cause or an innocent person.
+966|Carries out the order received to the end, even when the situation changes.
+967|Spends Edge to complete the mission, not to save himself.
+968|Disobeys orders on principle and acts on his own.
+969|Spends Edge to do the opposite of what the plan says.
+970|Treats the fight as a task: no hurry, no anger and no waste.
+971|Spends Edge coldly and calculatedly, at the right moment.
+972|Avoids wounding and tries to settle things without violence; hesitates before killing.
+973|Spends Edge to keep someone from getting hurt.
+974|Repeats the same tactic until it works and won't change the plan.
+975|Spends Edge to insist on the original plan.
+976|Wants to finish quickly and avoids extra risk; falls back as soon as the job allows.
+977|Rarely spends Edge; wants to save the little energy he has left.
+978|Competes for the best targets with his own allies and lets no one steal the kill.
+979|Spends Edge to be the first to take down the target.
+980|Greets the opponent before fighting
+981|Trains the same sequence in all his free time
+982|Measures the distance with his feet before acting
+983|lives for the fighting style and prefers to settle things up close, without weapons
+984|Checks each charge twice before arming
+985|Counts the steps to the safe distance
+986|Never works in a hurry, not even under fire
+987|prepares charges and traps and prefers light weapons for the rest
+988|Adjusts the string before every shot
+989|Collects the arrows after combat
+990|Breathes deep and holds his breath before releasing
+991|prefers bows and crossbows for the silence and swaps them for better models
+992|Chemical fighter
+993|Takes the dose before going in, and again when the effect wears off
+994|Sweats and never stops moving
+995|Carries the doses separated by color
+996|goes into combat under the effect of drugs and bets on endurance
+997|Draws protective symbols before entering the place
+998|Looks at the astral before looking at anything else
+999|Distrusts any spirit he doesn't know
+1000|specialist in undoing spirits and protecting the group against magic
+1001|Sprite tamer
+1002|Names each sprite and checks that all are present
+1003|Talks quietly to the machines around him
+1004|Keeps the sprites busy before he needs them
+1005|lives on well-prepared sprites and always saves services for the critical moment
+1006|Closes the distance and fights in the style's way, without hurry and without wasting a blow.
+1007|Prepares the ground with charges and traps before combat and fights to push the enemy into them.
+1008|Shoots from afar and in silence, changing position after every shot so as not to be located.
+1009|Enters under the effect of a drug, withstands more than he looks and pays the price after the fight.
+1010|Neutralizes spirits and enemy magic before anything else and protects the group against the astral.
+1011|Puts the sprites to work first and only then acts; saves the services for the critical moment.
+1012|Looks for a dose as soon as the fight cools down
+1013|Has trembling hands before acting
+1014|Thinks only of getting the next dose
+1015|Pragmatic
+1016|Picks what works, not what looks good
+1017|Drops a lost position without hesitating
+1018|Prefers to act without telling the others
+1019|Always picks a position away from the group
+1020|Trusts his life to no one else
+1021|Sweeps the environment again every minute
+1022|Sleeps little and always near an exit
+1023|Won't be caught by surprise again
+1024|Acts according to the drug's effect: bold while it lasts and fragile once it passes.
+1025|Spends Edge to get one more dose or to hold the effect.
+1026|Picks what works and abandons what doesn't; falls back as soon as the position is lost.
+1027|Spends Edge only when the gain is clear and immediate.
+1028|Acts alone and positions himself far from the group; only cooperates when he has no choice.
+1029|Spends Edge thinking only of himself.
+1030|Observes the environment all the time and is hardly ever caught by surprise.
+1031|Spends Edge to avoid an ambush or an attack from behind.
+1032|Names his pistol and talks to it
+1033|Spins the weapon on his finger before holstering
+1034|Cleans the pistol at every pause
+1035|prefers pistols and swaps them for better models of the same line
+1036|Rifleman (automatics)
+1037|Counts the shots under his breath
+1038|Prefers short bursts and fights with whoever wastes ammo
+1039|Always checks the magazine before going in
+1040|lives on rifle or submachine gun and moves up to better automatic weapons
+1041|Precision shooter
+1042|Waits in absolute silence and hates noise
+1043|Measures the wind by wetting his finger, even indoors
+1044|Never shoots without being sure of the escape
+1045|shoots from afar and invests in sights, suppressors and better rifles
+1046|Reloads theatrically
+1047|Only trusts a weapon that makes noise
+1048|prefers short-range shotguns and heavy armor
+1049|Cracks his knuckles before fighting
+1050|Prefers to settle it by hand even with a weapon in sight
+1051|Always has scraped knuckles
+1052|settles it by hand and becomes a melee fighting machine
+1053|Blade
+1054|Sharpens the blade like someone praying
+1055|Names the blade and never lends it
+1056|Makes a quick bow before attacking
+1057|fights with blades and covets ever better ones
+1058|Baton and club
+1059|Slaps the baton against his palm with every step
+1060|Prefers to give a scare than spill blood
+1061|Calls bullets "a coward's thing"
+1062|settles things with a baton and invests in armor
+1063|Thrower
+1064|Carries stones in his pocket "just in case"
+1065|Aims at everything far away, even for no reason
+1066|throws from afar and swaps for better throwing weapons
+1067|Gives nicknames to the turrets
+1068|Talks to the drone as if it could hear
+1069|prefers mounted and vehicle weapons
+1070|Smiles before any bad news
+1071|Never closes a deal without a glass in hand
+1072|Quotes prices off the top of his head, down to the cent
+1073|negotiates, cultivates contacts and looks after his image
+1074|Changes name depending on the audience
+1075|Never tells the same story twice
+1076|Lies even when the truth would help
+1077|deceives, improvises and changes faces with ease
+1078|Speaks low so everyone leans in
+1079|Stands up when everyone is sitting
+1080|Cracks his neck before getting serious
+1081|dominates through presence and fear
+1082|Natural leader
+1083|Gives orders like someone asking a favor
+1084|Always eats last
+1085|Knows the name and family of every subordinate
+1086|commands, inspires and keeps the group united
+1087|Refined host
+1088|Knows which fork to use even in the middle of a firefight
+1089|Insists on offering everyone a drink
+1090|moves in high society and looks after his wardrobe
+1091|Notices details nobody asked about
+1092|notices everything and invests in sensors and field equipment
+1093|pursues targets and invests in tracking
+1094|Walks without making a sound, even in his own home
+1095|Hates being touched by surprise
+1096|Only sleeps with his back to the wall
+1097|hides, avoids direct confrontation and prefers discreet equipment
+1098|Fiddles with locks out of habit
+1099|Never goes out without a hidden tool
+1100|opens doors and steals, and invests in tools
+1101|Technologist
+1102|Fixes anything that passes through his hands
+1103|Takes apart what he just got
+1104|Types in the air even without gloves
+1105|lives on computers and electronic equipment
+1106|Mechanic
+1107|Smells the engine before starting it
+1108|Keeps scrap "for the future"
+1109|repairs, modifies and invests in tools
+1110|Examines other people's wounds before defending himself
+1111|Asks no questions of whoever is bleeding
+1112|Carries a sedative "just for safety"
+1113|looks after the wounded and invests in medical kits
+1114|Lab scientist
+1115|Sniffs the vials before labeling
+1116|Speaks in formulas when nervous
+1117|researches and invests in chemical protection
+1118|Wheelman
+1119|Can't stand being a passenger
+1120|Knows the city's traffic by the hour
+1121|Talks to the car
+1122|lives behind the wheel and prefers piloting equipment
+1123|Street runner
+1124|Flees before the danger shows up
+1125|Knows every shortcut in the neighborhood
+1126|trusts his legs before weapons
+1127|Never turns off the screen
+1128|Feels naked away from a connection
+1129|hacks hosts and bets on stealth and better decks
+1130|Matrix combatant
+1131|Hunts other hackers for sport
+1132|duels with IC and rival hackers
+1133|Electronic warrior
+1134|Complains about any noise in the signal
+1135|Has three backups of every connection
+1136|masters signal, jamming and surveillance
+1137|Data analyst
+1138|Has everything cataloged, even the jokes
+1139|Quotes files from memory
+1140|lives on search, analysis and data protection
+1141|Names every sprite
+1142|Talks to the Matrix as if it were someone
+1143|focuses on sprites and complex forms
+1144|Controls sprites with military discipline
+1145|Notes down every service owed
+1146|binds and keeps sprites in his service
+1147|Combat adept
+1148|Warms up in silence before every confrontation
+1149|Refuses firearms on principle
+1150|fights with his body and invests in combat powers
+1151|Shadow adept
+1152|Vanishes from the room without anyone noticing
+1153|Never sleeps two nights in the same place
+1154|moves unseen and bets on stealth powers
+1155|Face adept
+1156|Uses his voice as an instrument and rehearses it before meetings
+1157|Never raises his voice, never needs to
+1158|persuades with presence and social adept powers
+1159|Combat mage
+1160|Speaks the words of the spell in a low voice
+1161|Avoids any firearm "on principle"
+1162|prefers combat and manipulation spells
+1163|Looks after whoever he finds, friend or not
+1164|Refuses to cause lethal damage
+1165|prefers health and detection spells
+1166|Loves a theatrical trick
+1167|Never reveals how he did it
+1168|prefers illusion and detection spells
+1169|Talks to spirits as if they were partners
+1170|Never summons without offering something
+1171|lives on spirits and focuses on summoning
+1172|Stares too much at the air around people
+1173|Always comments on the "color" of whoever enters the room
+1174|reads auras and focuses on detection
+1175|Wheelman (rigger)
+1176|Feels the vehicle as part of his body
+1177|Names the vehicle
+1178|lives on piloting and moves up to better vehicles
+1179|Drone gunner
+1180|Demands a hit rate from every drone
+1181|prefers armed drones and weapon systems
+1182|Field engineer
+1183|Repairs in the middle of crossfire
+1184|Keeps loose screws in his pocket
+1185|maintains the fleet and bets on customization
+1186|Provokes before any conversation
+1187|Smiles when someone backs down
+1188|Likes the fight more than the pay
+1189|Checks the exits before sitting
+1190|Never stays in the open
+1191|Only wants to make it to the end of the shift alive
+1192|Methodical
+1193|Follows the same routine every day
+1194|Sorts items by size
+1195|Has a plan for everything and doesn't tolerate improvisation
+1196|Changes plans in the middle of the plan
+1197|Lives for today without worrying about tomorrow
+1198|Recounts the money every time
+1199|Says the price of everything out loud
+1200|Reuses everything, even empty ammo
+1201|Never swaps equipment without need
+1202|Saves every nuyen for an emergency
+1203|Checks his reflection in any surface
+1204|Only uses well-known brands
+1205|Wants to be admired wherever he goes
+1206|Distrusts even his own commlink
+1207|Believes everyone wants to bring him down
+1208|Counts his companions before acting
+1209|Takes the worst job for himself
+1210|Would give his life for the group
+1211|Cold sweat at the sound of a shot
+1212|Looks for the exit before anything else
+1213|Only wants to get out alive
+1214|Fanatic
+1215|Prays before every decision
+1216|Quotes doctrine in the middle of a fight
+1217|Believes in a cause greater than his own life
+1218|Technophile
+1219|Installs upgrades without reading the manual
+1220|Complains about any device older than a year
+1221|Wants the best equipment available
+1222|Distrusts anything "artificial"
+1223|Eats only additive-free food
+1224|Thinks the body is worth more than any chip
+1225|Drags out the scare on purpose
+1226|Laughs where no one finds it funny
+1227|Likes to see fear in others
+1228|Never shoots anyone unarmed
+1229|Keeps his word, whatever it costs
+1230|Has a code that money can't break
+1231|Has seen worse and always says so
+1232|Remembers the name of every operation
+1233|Still carries the weight of an old job
+1234|Una
+1235|Opens from cover, in single precise shots at the most dangerous target.
+1236|Controls the space with short bursts and leaves the other side too scared to lift their heads.
+1237|Picks an elevated, distant position with an escape route before the first shot.
+1238|Wants a short fight: closes the distance and unloads.
+1239|Prefers mounted weapons: picks a position and lets the firepower do the work.
+1240|Closes the distance as fast as possible and settles it by hand.
+1241|Duels one target at a time and keeps the reach in his favor.
+1242|Uses presence and brute force to dominate; prefers the scare to blood.
+1243|Shoots at a distance, on the move, and never stays still on the same line.
+1244|Tries to settle it by talking and only gives in to confrontation when he sees he has lost the argument.
+1245|Hides what he knows, lies first and fights last.
+1246|Dominates through presence: the threat comes before the blow.
+1247|Coordinates before acting: the group works better if he is alive and talking.
+1248|Keeps his composure: the conflict is a dinner gone wrong.
+1249|Spends most of the time watching; only moves when he knows what each one is going to do.
+1250|Pursues the target and disregards the rest.
+1251|Prefers not to be noticed: acts from the shadow and vanishes before the other understands.
+1252|Works in the middle of the confusion: grabs what matters and leaves.
+1253|Avoids combat: the plan is to arrive first and leave first.
+1254|Solves the technical problem before the combat problem.
+1255|Uses the workshop as a weapon: tools, vehicles and loose parts.
+1256|Stabilizes before fighting: the first wounded is the priority.
+1257|Observes, mixes, throws: the lab is the weapon.
+1258|Uses the vehicle as cover, weapon and exit.
+1259|The most important fight happens in the Matrix: opens the doors and shuts the enemy's eyes.
+1260|Looks for other hackers and hunts their persona.
+1261|Masters the signal: an enemy who can't communicate can't coordinate.
+1262|Information is his weapon: researches, cross-references data and decides later.
+1263|Compiles sprites before acting; the sprite fights in his place.
+1264|Binds sprites and keeps them in the group's service.
+1265|Opens with a combat spell and keeps a safe distance.
+1266|Prioritizes keeping the group on its feet and only joins the fight if no one is wounded.
+1267|Confuses before wounding: an enemy who doubts his senses doesn't shoot well.
+1268|Calls the spirit and handles the front line with it.
+1269|Sees what no one sees and uses it to his advantage.
+1270|Operates the vehicle as if it were his body: cover, weapon and escape in one.
+1271|Commands the armed drones; he stays far away and they make the noise.

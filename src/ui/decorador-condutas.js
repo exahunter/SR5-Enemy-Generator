@@ -1,0 +1,6 @@
+/* ===== v31: bloco "Condutas em combate" na ficha: 5 com a vida alta, 3 com a vida baixa ===== */
+decorateSheet((sh,c)=>{let k;try{k=condOf(c)}catch(e){console.error('condutas',e);return}
+ const sec=sh.querySelector('.sec');if(!k||!sec)return;
+ const li=a=>a.map(t=>`<li>${esc(t)}${acHtml(t)}</li>`).join(''),lo=a=>a.map(t=>{const i=t.indexOf(': ');return i>0?`<li><b>${esc(t.slice(0,i+1))}</b>${esc(t.slice(i+2))}${acHtml(t)}</li>`:`<li>${esc(t)}${acHtml(t)}</li>`}).join('');
+ let AR=[];try{AR=acResumo(c)}catch(e){avisa('decorador-condutas',e)}
+ sec.insertAdjacentHTML('beforeend',xlf('<details class="pcd"><summary>Condutas em combate</summary>{0}<p class="ph hi"><b>Vida alta (5)</b></p><ol class="hi">{1}</ol><p class="ph lo"><b>{2}</b></p><ol class="lo">{3}</ol>{4}</details>',k.pf?xlf('<p><b>Perfil:</b> {0}</p>{1}',t('ui.perfil.loy',{pf:esc(k.pf),n:k.loy,txt:loyTxt(k.loy)}),k.dc?xlf('<p class="note">Doutrina da ocupação: {0}</p>',esc(k.dc)):''):'',li(k.hi),t('ui.vidabaixa.loy',{n:k.loy}),lo(k.lo),AR.length?xlf('<p><b>Ações do livro</b> <span class="note">(actions.xml; reserva de dados do NPC quando a ficha permite)</span></p><ul>{0}</ul>',AR.map(t=>`<li>${esc(t)}</li>`).join('')):''))});
